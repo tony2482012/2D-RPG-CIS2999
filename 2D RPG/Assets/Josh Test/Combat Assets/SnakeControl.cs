@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Joshua Bunnell
+ * Updated Jan 28 2018
+ * C# script for controlling an enemy in battle
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -11,7 +15,7 @@ public class SnakeControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown ("3")) {
+		if (Battleflow.whichTurn == 3) {
 			GetComponent<Animator> ().SetTrigger ("SnakeBite1");
 			GetComponent<Transform>().position = new Vector2 (8.0f, -1.2f);
 		}
@@ -19,5 +23,6 @@ public class SnakeControl : MonoBehaviour {
 
 	void returnSnake(){
 		GetComponent<Transform> ().position = new Vector2 (-8.00f, -1.2f );
+		Battleflow.whichTurn = 1;
 	}
 }
