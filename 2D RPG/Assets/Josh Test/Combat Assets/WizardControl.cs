@@ -7,6 +7,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class WizardControl : MonoBehaviour {
+	public static float wizardHP = 100;
+	public static float wizardMaxHP = 100;
 
 	public Transform fireballObj;
 

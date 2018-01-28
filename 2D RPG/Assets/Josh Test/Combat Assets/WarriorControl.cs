@@ -8,6 +8,9 @@ using UnityEngine;
 
 public class WarriorControl : MonoBehaviour {
 
+	public static float warriorHP = 100;
+	public static float warriorMaxHP = 100;
+
 	// Use this for initialization
 	void Start () {
 		
