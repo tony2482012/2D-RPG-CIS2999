@@ -1,7 +1,13 @@
 fileFormatVersion: 2
-guid: 9c1652b029f0dcc41b8872569af54136
+<<<<<<< HEAD:2D RPG/Assets/Frame.meta
+guid: 407ca45265ea95a4ea43ce9e2ce2fa0e
 folderAsset: yes
-timeCreated: 1517163832
+timeCreated: 1517163528
+=======
+guid: c6409e7e88a401f499b209c50390a3e3
+folderAsset: yes
+timeCreated: 1517163037
+>>>>>>> 6bb559bf96c6b1bac6a387c1c5a94cd519ac4199:2D RPG/Assets/Frame.meta
 licenseType: Free
 DefaultImporter:
   externalObjects: {}
