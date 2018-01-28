@@ -20,7 +20,6 @@ public class WizardControl : MonoBehaviour {
 		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 1))  {
 			GetComponent<Animator> ().SetTrigger ("WizardMagic1");
 			Instantiate (fireballObj, new Vector2 (7.0f, -.21f), fireballObj.rotation);
-			Battleflow.whichTurn = 2;
 		}
 	}
 }
