@@ -13,7 +13,7 @@ public class ArcherControl : MonoBehaviour {
 	void Update () {
 		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 3)) {
 			GetComponent<Animator> ().SetTrigger ("archerShot1");
-			//Instantiate (fireballObj, new Vector2 (7.0f, -.21f), fireballObj.rotation);
+			Battleflow.whichTurn = 4;
 		}
 	}
 }
