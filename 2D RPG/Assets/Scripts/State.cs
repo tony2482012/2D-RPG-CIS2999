@@ -1,71 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
-public class Stat : MonoBehaviour
-{
+<<<<<<< HEAD
 
-    private Image content;
-    private float currentFill;
+=======
+public class State : MonoBehaviour {
 
-    private float currentValue;
-
-    [SerializeField]
-    private float lerpsSpeed;
-
-    public float MyMaxValue { get; set; }
-
-    public float MyCurrentValue
-    {
-        get
-        {
-            return currentValue;
-        }
-
-        set
-        {
-            if (value > MyMaxValue)
-            {
-                currentValue = MyMaxValue;
-            }
-            else if (value < 0)
-            {
-                currentValue = 0;
-            }
-            else
-            {
-                currentValue = value;
-            }
-            currentFill = currentValue / MyMaxValue;
-        }
-
-    }
-
-
-
-    // Use this for initialization
-    void Start()
-    {
-        content = GetComponent<Image>();
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        if (currentFill != content.fillamount)
-        {
-            content.fillAmount = Mathf.Lerp(content.fillAmount, currentFill, Time.deltaTime * lerpsSpeed);
-        }
-
-    }
-    public void Initialized(float currentValue, float maxValue)
-    {
-        MyMaxValue = maxValue;
-        MyCurrentValue = currentValue;
-    }
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
 }
-
-
-
+>>>>>>> c2f8e8737bcc12d64828e78c2bbb8e74a92c0a69
