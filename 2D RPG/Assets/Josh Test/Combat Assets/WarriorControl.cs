@@ -8,6 +8,9 @@ using UnityEngine;
 
 public class WarriorControl : MonoBehaviour {
 
+	public static float warriorHP = 100;
+	public static float warriorMaxHP = 100;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -17,12 +20,12 @@ public class WarriorControl : MonoBehaviour {
 	void Update () {
 		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 2)) {
 			GetComponent<Animator> ().SetTrigger ("warriorStab");
-			GetComponent<Transform>().position = new Vector2 (-5.2f, -1.2f);
+			GetComponent<Transform>().position = new Vector2 (-3.5f, -1.22f);
 		}
 	}
 
 	void returnWarrior(){
-		GetComponent<Transform> ().position = new Vector2 (8.18f, -2.01f );
+		GetComponent<Transform> ().position = new Vector2 (4.41f, -1.79f );
 		Battleflow.whichTurn = 3;
 	}
 }
