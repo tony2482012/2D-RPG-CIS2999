@@ -19,12 +19,12 @@ public class SnakeControl : MonoBehaviour {
 	void Update () {
 		if (Battleflow.whichTurn == 4) {
 			GetComponent<Animator> ().SetTrigger ("SnakeBite1");
-			GetComponent<Transform>().position = new Vector2 (4.5f, -1.2f);
+			GetComponent<Transform>().position = new Vector2 (4.0f, -1.79f);
 			Battleflow.whichTurn = 1;
 		}
 	}
 
 	void returnSnake(){
-		GetComponent<Transform> ().position = new Vector2 (-5.27f, -1.05f );
+		GetComponent<Transform> ().position = new Vector2 (-4.45f, -1.22f );
 	}
 }

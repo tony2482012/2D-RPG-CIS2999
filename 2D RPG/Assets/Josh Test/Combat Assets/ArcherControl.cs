@@ -1,8 +1,14 @@
-﻿using System.Collections;
+﻿/* Joshua Bunnell
+ * Updated Jan 28 2018
+ * C# script for controlling the archer in battle
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class ArcherControl : MonoBehaviour {
+	public static float archerHP = 100;
+	public static float archerMaxHP = 100;
 
 	// Use this for initialization
 	void Start () {
