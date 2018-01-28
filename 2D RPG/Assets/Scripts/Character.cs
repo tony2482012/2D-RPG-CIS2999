@@ -25,4 +25,9 @@ public abstract class Character : MonoBehaviour {
 	{
 		transform.Translate(direction * speed * Time.deltaTime);
 	}
+
+	public void AnimateMovement(Vector2 direction)
+	{
+		
+	}
 }
