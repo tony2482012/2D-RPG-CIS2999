@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Joshua Bunnell
+ * Updated Jan 28 2018
+ * C# script for controlling the animation of a fireball in battle
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
