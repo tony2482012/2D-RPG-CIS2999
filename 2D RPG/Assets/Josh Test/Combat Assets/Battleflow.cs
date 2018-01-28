@@ -1,6 +1,6 @@
 ﻿/* Joshua Bunnell
  * Updated Jan 28 2018
- * C# script for controlling the flow of combat
+ * C# script for controlling the flow of battle
  */
 using System.Collections;
 using System.Collections.Generic;
