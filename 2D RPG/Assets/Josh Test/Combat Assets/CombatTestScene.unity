@@ -305,7 +305,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 681384101}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.27, y: -1.05, z: -0.14453125}
+  m_LocalPosition: {x: -4.45, y: -1.22, z: -0.14453125}
   m_LocalScale: {x: 3.4393969, y: 3.4327424, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -409,7 +409,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 683565185}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.71, y: 0.34, z: -0.14400907}
+  m_LocalPosition: {x: 4.63, y: 0.4, z: -0.14400907}
   m_LocalScale: {x: 2.9104486, y: 2.2185693, z: 2}
   m_Children: []
   m_Father: {fileID: 0}
@@ -549,7 +549,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 5.298013
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -587,6 +587,8 @@ GameObject:
   m_Component:
   - component: {fileID: 983675241}
   - component: {fileID: 983675240}
+  - component: {fileID: 983675242}
+  - component: {fileID: 983675243}
   m_Layer: 0
   m_Name: Archer
   m_TagString: Untagged
@@ -645,12 +647,40 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 983675239}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.347, y: -3.617, z: 0}
+  m_LocalPosition: {x: 4.58, y: -3.617, z: 0}
   m_LocalScale: {x: 2.4741697, y: 2.404672, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &983675242
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 983675239}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a4e89fb46e50ba0478730dd173231f7a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &983675243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 983675239}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11e1c1ee7bf697d4b91c29f511013456, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1756313253
 GameObject:
   m_ObjectHideFlags: 0
@@ -661,7 +691,7 @@ GameObject:
   - component: {fileID: 1756313255}
   - component: {fileID: 1756313254}
   m_Layer: 0
-  m_Name: 3
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -718,7 +748,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1756313253}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.12, y: 0.13, z: 0}
+  m_LocalPosition: {x: -0.01, y: 0.1, z: 0}
   m_LocalScale: {x: 3.7729635, y: 2.214631, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -811,7 +841,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1983678057}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.26, y: -1.68, z: 0}
+  m_LocalPosition: {x: 4.41, y: -1.79, z: 0}
   m_LocalScale: {x: 2.420747, y: 2.788317, z: 2}
   m_Children: []
   m_Father: {fileID: 0}
