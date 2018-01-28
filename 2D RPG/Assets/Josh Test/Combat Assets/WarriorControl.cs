@@ -20,12 +20,12 @@ public class WarriorControl : MonoBehaviour {
 	void Update () {
 		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 2)) {
 			GetComponent<Animator> ().SetTrigger ("warriorStab");
-			GetComponent<Transform>().position = new Vector2 (-5.2f, -1.2f);
+			GetComponent<Transform>().position = new Vector2 (-4.5f, -1.05f);
 		}
 	}
 
 	void returnWarrior(){
-		GetComponent<Transform> ().position = new Vector2 (8.18f, -2.01f );
+		GetComponent<Transform> ().position = new Vector2 (5.26f, -1.68f );
 		Battleflow.whichTurn = 3;
 	}
 }

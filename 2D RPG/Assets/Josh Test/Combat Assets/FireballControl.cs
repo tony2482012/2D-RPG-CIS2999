@@ -10,7 +10,7 @@ public class FireballControl : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		GetComponent<Rigidbody> ().velocity = new Vector2 (-8, 0);
+		GetComponent<Rigidbody> ().velocity = new Vector2 (-5.5f, 0);
 		Destroy (gameObject, 2);
 		Battleflow.whichTurn = 2;
 	}
