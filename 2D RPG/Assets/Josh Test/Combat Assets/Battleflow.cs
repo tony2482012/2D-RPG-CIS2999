@@ -8,6 +8,7 @@ using UnityEngine;
 
 public class Battleflow : MonoBehaviour {
 
+	//controls character turn
 	public static int whichTurn = 1;
 
 	// Use this for initialization
