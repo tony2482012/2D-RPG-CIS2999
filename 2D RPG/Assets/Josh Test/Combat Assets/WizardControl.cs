@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Joshua Bunnell
+ * Updated Jan 28 2018
+ * C# script for controlling the wizard in battle
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -13,9 +17,10 @@ public class WizardControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown ("2")) {
+		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 1))  {
 			GetComponent<Animator> ().SetTrigger ("WizardMagic1");
 			Instantiate (fireballObj, new Vector2 (7.0f, -.21f), fireballObj.rotation);
+			Battleflow.whichTurn = 2;
 		}
 	}
 }
