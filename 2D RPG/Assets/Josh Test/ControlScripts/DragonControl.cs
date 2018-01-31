@@ -15,6 +15,11 @@ public class DragonControl : MonoBehaviour {
 		if (Battleflow.whichTurn == 4) {
 			GetComponent<Animator> ().SetTrigger ("DragonSmash1");
 			GetComponent<Transform>().position = new Vector2 (4.0f, -1.79f);
+			System.Random rnd = new System.Random ();
+			int attack = rnd.Next (1, 100);
+			if (attack >= 50) {
+				ArcherControl.archerHP -= 10;
+			}
 			Battleflow.whichTurn = 1;
 		}
 	}
