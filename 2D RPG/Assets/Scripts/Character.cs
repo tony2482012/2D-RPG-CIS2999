@@ -58,7 +58,7 @@ public abstract class Character : MonoBehaviour {
 
     public void ApplyData () {
 
-        //SaveData.addCharData(data);
+        SaveData.AddCharData(data);
 
     }
 
@@ -66,7 +66,7 @@ public abstract class Character : MonoBehaviour {
 
         SaveData.OnLoaded += LoadData;
         SaveData.OnBeforeSave += StoreData;
-        //SaveData.OnBeforeSave += ApplyData;
+        SaveData.OnBeforeSave += ApplyData;
 
     }
 
@@ -74,7 +74,7 @@ public abstract class Character : MonoBehaviour {
 
         SaveData.OnLoaded -= LoadData;
         SaveData.OnBeforeSave -= StoreData;
-        //SaveData.OnBeforeSave += ApplyData;
+        SaveData.OnBeforeSave += ApplyData;
 
     }
 }
