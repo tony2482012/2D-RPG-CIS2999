@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+//Elias
 public class StatCode : MonoBehaviour
 {
 
@@ -14,6 +14,7 @@ public class StatCode : MonoBehaviour
 
     private float currentFill;
 
+    //the amount we have in the mean time
     private float currentValue;
 
     [SerializeField]
@@ -30,7 +31,7 @@ public class StatCode : MonoBehaviour
 
         set
         {
-            if (value > MyMaxValue) //makes sure that we don't get too health
+            if (value > MyMaxValue) //makes sure that we don't get health over max 100
             {
                 currentValue = MyMaxValue;
             }
@@ -64,6 +65,7 @@ public class StatCode : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        content.fillAmount = currentFill;
         /*
         if (currentFill != content.fillamount)
         {
@@ -71,6 +73,7 @@ public class StatCode : MonoBehaviour
         }
         */
     }
+    //to make sure our values are set when start the game
     public void Initialized(float currentValue, float maxValue)
     {
         MyMaxValue = maxValue;
