@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DragonControl : MonoBehaviour {
 	public float dragonHP = 80;
-	public float dragonAttPow = 90;
+	public float dragonAttPow = 100;
 	// Use this for initialization
 	void Start () {
 
@@ -15,12 +15,11 @@ public class DragonControl : MonoBehaviour {
 		if (Battleflow.whichTurn == 4) {
 			GetComponent<Animator> ().SetTrigger ("DragonSmash1");
 			GetComponent<Transform> ().position = new Vector2 (4.0f, -1.79f);
-			System.Random rnd = new System.Random ();
+		//	System.Random rnd = new System.Random ();
 		//	int attack = rnd.Next (1, 100);
 		//	if (attack >= 50) {
 		//		ArcherControl.archerHP -= 10;
 		//	}
-			Battleflow.whichTurn = 1;
 		}
 			if(Battleflow.damageDisplay == "y")
 				{
@@ -39,7 +38,9 @@ public class DragonControl : MonoBehaviour {
 	{
 		yield return new WaitForSeconds (0.1f);
 		WizardControl.wizardHP -= dragonAttPow;	
-		Debug.Log ("WizardHP " + WizardControl.wizardHP);
+		//Debug.Log ("WizardHP " + WizardControl.wizardHP);
 		GetComponent<Transform> ().position = new Vector2 (-4.18f, 1.45f );
+		Battleflow.whichTurn = 1;
+
 	}
 }

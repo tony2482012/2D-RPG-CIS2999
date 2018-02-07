@@ -26,6 +26,8 @@ public class WizardControl : MonoBehaviour {
 		{
 			Battleflow.wizardStatus = "dead";
 			Destroy (gameObject);	
+			Debug.Log (Battleflow.whichTurn);
+
 		}
 
 		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 1))  {
