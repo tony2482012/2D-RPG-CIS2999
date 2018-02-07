@@ -29,6 +29,9 @@ public class WarriorControl : MonoBehaviour {
 
 	void returnWarrior(){
 		GetComponent<Transform> ().position = new Vector2 (4.41f, -1.79f );
+		Instantiate (damTextObj, new Vector2 (-3.46f, 6.0f), damTextObj.rotation);
+		Battleflow.damageDisplay = "y";
 		Battleflow.whichTurn = 3;
+
 	}
 }

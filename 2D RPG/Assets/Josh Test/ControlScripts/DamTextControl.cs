@@ -8,6 +8,7 @@ public class DamTextControl : MonoBehaviour {
 	void Start () {
 		GetComponent<Renderer> ().sortingOrder = 10;
 		GetComponent<TextMesh> ().text = Battleflow.currentDamage.ToString();
+		Destroy (gameObject, 1);
 	}
 	
 	// Update is called once per frame

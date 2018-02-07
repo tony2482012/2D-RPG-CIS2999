@@ -637,6 +637,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11e1c1ee7bf697d4b91c29f511013456, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damTextObj: {fileID: 4357938280945556, guid: 6d99de560ab8b9a45b502e02112c431f, type: 2}
 --- !u!1 &1592224028
 GameObject:
   m_ObjectHideFlags: 0
@@ -723,8 +724,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1592224028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.18, y: 1.45, z: 0}
-  m_LocalScale: {x: 3.4952216, y: 3.263191, z: 1}
+  m_LocalPosition: {x: -3.46, y: 1.67, z: 0}
+  m_LocalScale: {x: 3.1894057, y: 3.3869233, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
@@ -740,7 +741,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bfdc4a3ae1ba751449f184c4a95c4f29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  snakeHP: 50
+  dragonHP: 80
 --- !u!1 &1756313253
 GameObject:
   m_ObjectHideFlags: 0
