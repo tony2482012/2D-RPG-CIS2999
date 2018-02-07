@@ -10,6 +10,7 @@ public class Battleflow : MonoBehaviour {
 
 	//controls character turn
 	public static int whichTurn = 1;
+	public static float currentDamage = 0;
 
 	// Use this for initialization
 	void Start () {

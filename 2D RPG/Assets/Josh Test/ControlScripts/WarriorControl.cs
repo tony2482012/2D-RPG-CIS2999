@@ -11,6 +11,8 @@ public class WarriorControl : MonoBehaviour {
 	public static float warriorHP = 100;
 	public static float warriorMaxHP = 100;
 
+	public Transform damTextObj;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -19,6 +21,7 @@ public class WarriorControl : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 2)) {
+			Battleflow.currentDamage = 40;
 			GetComponent<Animator> ().SetTrigger ("warriorStab");
 			GetComponent<Transform>().position = new Vector2 (-3.5f, -1.22f);
 		}
