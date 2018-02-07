@@ -14,6 +14,8 @@ public class Battleflow : MonoBehaviour {
 
 	public static string damageDisplay = "n";
 
+	public static string wizardStatus = "OK";
+
 	// Use this for initialization
 	void Start () {
 		
@@ -21,6 +23,9 @@ public class Battleflow : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if ((whichTurn == 1) && (wizardStatus == "dead")) 
+		{
+			whichTurn = 2;
+		}
 	}
 }

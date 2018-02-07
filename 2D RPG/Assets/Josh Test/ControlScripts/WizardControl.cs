@@ -13,20 +13,30 @@ public class WizardControl : MonoBehaviour {
 	public Transform damTextObj;
 	public Transform fireballObj;
 
+
 	// Use this for initialization
 	void Start () {
 		
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update () 
+	{
+		if (wizardHP <= 0) 
+		{
+			Battleflow.wizardStatus = "dead";
+			Destroy (gameObject);	
+		}
+
 		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 1))  {
 			
-			Battleflow.currentDamage = 80;
+			Battleflow.currentDamage = 30;
 			GetComponent<Animator> ().SetTrigger ("WizardMagic1");
 			Instantiate (fireballObj, new Vector2 (7.0f, -.21f), fireballObj.rotation);
 			StartCoroutine (returnWizard ());
 		}
+
+
 	}
 
 	IEnumerator returnWizard()
