@@ -15,6 +15,7 @@ public class MainMenu : MonoBehaviour {
     //public bool isQuit;
 
     public GameObject mainMenuCanvas;
+    //public GameObject camera;
     //public GameObject pauseMenuCanvas;
     //public bool isPaused;
     //public string mainMenu;
@@ -22,16 +23,19 @@ public class MainMenu : MonoBehaviour {
 
 	// Use this for initialization
 	public void NewGame () {
-        //Scene active = SceneManager.GetActiveScene();
+        
         mainMenuCanvas.SetActive(false);
-        SceneManager.LoadScene("CombatTestScene");
-        Debug.Log("Click");
+        //camera.SetActive(true);
+        SceneManager.LoadScene("Main");
+
+
+        //Debug.Log("Click");
 		
 	}
 
     public void LoadGame() {
 
-        Debug.Log("Click");
+        //Debug.Log("Click");
         //SceneManager.LoadScene(whatever);
         
     }
