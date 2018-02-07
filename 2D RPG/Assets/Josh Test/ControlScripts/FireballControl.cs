@@ -12,7 +12,6 @@ public class FireballControl : MonoBehaviour {
 	void Start () {
 		GetComponent<Rigidbody> ().velocity = new Vector2 (-4.5f, 0);
 		Destroy (gameObject, 2);
-		Battleflow.whichTurn = 2;
 	}
 	
 	// Update is called once per frame

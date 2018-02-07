@@ -16,10 +16,11 @@ public class PauseMenu : MonoBehaviour {
 		
         if (isPaused) {
             pauseMenuCanvas.SetActive(true);
-            //Time.timeScale = 0f;
+            Time.timeScale = 0f;
+
         } else {
             pauseMenuCanvas.SetActive(false);
-            //Time.timeScale = 1f;
+            Time.timeScale = 1f;
         }
 
         if (Input.GetKeyDown(KeyCode.Escape)) {
@@ -41,6 +42,7 @@ public class PauseMenu : MonoBehaviour {
     public void Quit() {
         
         SceneManager.LoadScene(MainMenu);
+        //Time.timeScale = 1f;
         //SceneManager.LoadScene("CombatTestScene");
         //SceneManager.SetActiveScene("TitleMenu");
 
