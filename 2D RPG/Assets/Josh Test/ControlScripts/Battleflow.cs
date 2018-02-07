@@ -12,6 +12,8 @@ public class Battleflow : MonoBehaviour {
 	public static int whichTurn = 1;
 	public static float currentDamage = 0;
 
+	public static string damageDisplay = "n";
+
 	// Use this for initialization
 	void Start () {
 		
