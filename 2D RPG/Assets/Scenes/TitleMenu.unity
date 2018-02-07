@@ -645,7 +645,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainScene: CombatTestScene
   mainMenuCanvas: {fileID: 199001190}
-  camera: {fileID: 0}
 --- !u!1 &1322478423
 GameObject:
   m_ObjectHideFlags: 0
@@ -842,7 +841,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.748}
+  m_Color: {r: 0.013516437, g: 0.13449319, b: 0.18382353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
