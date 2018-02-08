@@ -2,21 +2,54 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 //Anthony Yono
 
 public class Player : Character 
 {
+    //to connect with the mean health
+    [SerializeField]
+    private StatCode hp;
 
+    [SerializeField]
+    private float initHealth = 100;
+
+    
+
+    protected override void Start()
+    {
+        hp.Initialized(initHealth, initHealth);
+        base.Start();
+
+    }
 	// Update is called once per frame
 	protected override void Update () 
 	{
 		GetInput();
+
+        hp.MyCurrentValue = 100;
+
 		base.Update ();
 	}
 		
 	private void GetInput()
 	{
 		direction = Vector2.zero;
+
+        //This is used for debugging only
+
+        if (Input.GetKeyDown(KeyCode.I))
+        {
+            hp.MyCurrentValue -= 10;
+        }
+        if (Input.GetKeyDown(KeyCode.O))
+        {
+            hp.MyCurrentValue += 10;
+
+
+        }
+
+        //
 
 		if (Input.GetKey(KeyCode.W)) 
 		{

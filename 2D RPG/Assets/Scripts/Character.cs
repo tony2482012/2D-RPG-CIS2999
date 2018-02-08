@@ -13,7 +13,7 @@ public abstract class Character : MonoBehaviour {
 	protected Vector2 direction;
 
 	// Use this for initialization
-	void Start () 
+	protected virtual void Start () 
 	{
 		animator = GetComponent<Animator> ();
 	}
@@ -58,7 +58,7 @@ public abstract class Character : MonoBehaviour {
 
     public void ApplyData () {
 
-        //SaveData.addCharData(data);
+        SaveData.AddCharData(data);
 
     }
 
@@ -66,7 +66,7 @@ public abstract class Character : MonoBehaviour {
 
         SaveData.OnLoaded += LoadData;
         SaveData.OnBeforeSave += StoreData;
-        //SaveData.OnBeforeSave += ApplyData;
+        SaveData.OnBeforeSave += ApplyData;
 
     }
 
@@ -74,7 +74,7 @@ public abstract class Character : MonoBehaviour {
 
         SaveData.OnLoaded -= LoadData;
         SaveData.OnBeforeSave -= StoreData;
-        //SaveData.OnBeforeSave += ApplyData;
+        SaveData.OnBeforeSave += ApplyData;
 
     }
 }
