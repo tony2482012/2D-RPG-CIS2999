@@ -25,10 +25,9 @@ public class WizardControl : MonoBehaviour {
 		if (wizardHP <= 0) 
 		{
 			Battleflow.wizardStatus = "dead";
+			Debug.Log (Battleflow.wizardStatus);
 			Debug.Log (Battleflow.whichTurn);
 			Destroy (gameObject);	
-			Debug.Log (Battleflow.whichTurn);
-
 		}
 
 		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 1))  {
@@ -45,9 +44,9 @@ public class WizardControl : MonoBehaviour {
 	IEnumerator returnWizard()
 	{
 		yield return new WaitForSeconds (2);
+		Battleflow.whichTurn = 2;
 		Instantiate (damTextObj, new Vector2 (-3.46f, 6.0f), damTextObj.rotation);
 		Battleflow.damageDisplay = "y";
-		Battleflow.whichTurn = 2;
 
 	}
 }
