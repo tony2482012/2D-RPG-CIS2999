@@ -21,10 +21,17 @@ public class ArcherControl : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 3)) {
+			Battleflow.currentDamage = 10;
 			GetComponent<Animator> ().SetTrigger ("archerShot1");
 			Instantiate (damTextObj, new Vector2 (-3.46f, 6.0f), damTextObj.rotation);
-			Battleflow.whichTurn = 4;
-
+			StartCoroutine (returnArcher ());
 		}
+	}
+
+	IEnumerator returnArcher()
+	{
+		yield return new WaitForSeconds (0.3f);
+		Battleflow.whichTurn = 4;
+
 	}
 }

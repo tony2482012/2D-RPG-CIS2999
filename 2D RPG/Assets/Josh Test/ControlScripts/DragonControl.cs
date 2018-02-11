@@ -37,10 +37,9 @@ public class DragonControl : MonoBehaviour {
 	IEnumerator returnDragon()
 	{
 		yield return new WaitForSeconds (0.1f);
-		WizardControl.wizardHP -= dragonAttPow;	
-		//Debug.Log ("WizardHP " + WizardControl.wizardHP);
 		GetComponent<Transform> ().position = new Vector2 (-4.18f, 1.45f );
 		Battleflow.whichTurn = 1;
+		WizardControl.wizardHP -= dragonAttPow;	
 
 	}
 }

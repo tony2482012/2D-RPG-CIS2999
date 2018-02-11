@@ -25,6 +25,7 @@ public class WizardControl : MonoBehaviour {
 		if (wizardHP <= 0) 
 		{
 			Battleflow.wizardStatus = "dead";
+			Debug.Log (Battleflow.whichTurn);
 			Destroy (gameObject);	
 			Debug.Log (Battleflow.whichTurn);
 

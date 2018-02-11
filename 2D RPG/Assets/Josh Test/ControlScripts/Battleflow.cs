@@ -23,10 +23,10 @@ public class Battleflow : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
-		if ((whichTurn == 1) && (wizardStatus == "dead")) 
+		Debug.Log (wizardStatus);
+		if ((whichTurn == 1) && (Battleflow.wizardStatus == "dead")) 
 		{
-			whichTurn = 2;
+			Battleflow.whichTurn = 2;
 		}
 	}
 }
