@@ -17,7 +17,7 @@ public class SnakeControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Battleflow.whichTurn == 4) {
+		if (Battleflow.whichTurn == 5) {
 			GetComponent<Animator> ().SetTrigger ("SnakeBite1");
 			GetComponent<Transform>().position = new Vector2 (4.0f, -1.79f);
 			Battleflow.whichTurn = 1;

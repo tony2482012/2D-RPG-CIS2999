@@ -10,8 +10,9 @@ public class Battleflow : MonoBehaviour {
 
 	//controls character turn
 	public static int whichTurn = 1;
+	//damage being done on this turn
 	public static float currentDamage = 0;
-
+	// should damage be displayed
 	public static string damageDisplay = "n";
 
 	public static string wizardStatus = "OK";
@@ -23,9 +24,9 @@ public class Battleflow : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
 		if ((whichTurn == 1) && (wizardStatus == "dead")) 
 		{
+			Debug.Log (wizardStatus);
 			whichTurn = 2;
 		}
 	}
