@@ -9,6 +9,7 @@ using UnityEngine;
 public class ArcherControl : MonoBehaviour {
 	public static float archerHP = 100;
 	public static float archerMaxHP = 100;
+	//public static float 
 
 	public Transform damTextObj;
 

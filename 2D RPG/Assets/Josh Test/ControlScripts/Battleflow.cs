@@ -29,5 +29,7 @@ public class Battleflow : MonoBehaviour {
 			Debug.Log (wizardStatus);
 			whichTurn = 2;
 		}
+
+
 	}
 }

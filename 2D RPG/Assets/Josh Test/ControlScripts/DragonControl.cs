@@ -12,7 +12,7 @@ public class DragonControl : MonoBehaviour {
 	 
 	// Update is called once per frame
 	void Update () {
-		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 3)) {
+		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 2)) {
 			GetComponent<Animator> ().SetTrigger ("DragonSmash1");
 			GetComponent<Transform> ().position = new Vector2 (4.0f, -1.79f);
 			Battleflow.whichTurn = 1;
