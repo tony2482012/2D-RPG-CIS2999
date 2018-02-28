@@ -26,7 +26,7 @@ public class MainMenu : MonoBehaviour {
         
         mainMenuCanvas.SetActive(false);
         //camera.SetActive(true);
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("CombatTestScene");
 
 
         //Debug.Log("Click");
