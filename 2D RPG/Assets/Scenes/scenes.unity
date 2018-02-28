@@ -899,57 +899,6 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
---- !u!1001 &1139480429
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4661760523268382, guid: 6a363014879e462469e1b00b99b80e46, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4661760523268382, guid: 6a363014879e462469e1b00b99b80e46, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4661760523268382, guid: 6a363014879e462469e1b00b99b80e46, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4661760523268382, guid: 6a363014879e462469e1b00b99b80e46, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4661760523268382, guid: 6a363014879e462469e1b00b99b80e46, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4661760523268382, guid: 6a363014879e462469e1b00b99b80e46, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4661760523268382, guid: 6a363014879e462469e1b00b99b80e46, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4661760523268382, guid: 6a363014879e462469e1b00b99b80e46, type: 2}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 114668694988113012, guid: 6a363014879e462469e1b00b99b80e46,
-        type: 2}
-      propertyPath: hp
-      value: 
-      objectReference: {fileID: 1243633477}
-    - target: {fileID: 1175056096814546, guid: 6a363014879e462469e1b00b99b80e46, type: 2}
-      propertyPath: m_Name
-      value: Warrior
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 6a363014879e462469e1b00b99b80e46, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &1150116313
 GameObject:
   m_ObjectHideFlags: 0
@@ -1223,57 +1172,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1269013553}
---- !u!1001 &1453382208
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4917046427184234, guid: 8b84d73ee69c6ed4382367fcb867a909, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0.483
-      objectReference: {fileID: 0}
-    - target: {fileID: 4917046427184234, guid: 8b84d73ee69c6ed4382367fcb867a909, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: -0.011
-      objectReference: {fileID: 0}
-    - target: {fileID: 4917046427184234, guid: 8b84d73ee69c6ed4382367fcb867a909, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4917046427184234, guid: 8b84d73ee69c6ed4382367fcb867a909, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4917046427184234, guid: 8b84d73ee69c6ed4382367fcb867a909, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4917046427184234, guid: 8b84d73ee69c6ed4382367fcb867a909, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4917046427184234, guid: 8b84d73ee69c6ed4382367fcb867a909, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4917046427184234, guid: 8b84d73ee69c6ed4382367fcb867a909, type: 2}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1146152702663214, guid: 8b84d73ee69c6ed4382367fcb867a909, type: 2}
-      propertyPath: m_Name
-      value: Mage
-      objectReference: {fileID: 0}
-    - target: {fileID: 114988874253476936, guid: 8b84d73ee69c6ed4382367fcb867a909,
-        type: 2}
-      propertyPath: hp
-      value: 
-      objectReference: {fileID: 1243633477}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 8b84d73ee69c6ed4382367fcb867a909, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &1610179524
 GameObject:
   m_ObjectHideFlags: 0
@@ -1386,6 +1284,9 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7997442... ant
 --- !u!1 &1874119950
 GameObject:
   m_ObjectHideFlags: 0
@@ -1435,7 +1336,11 @@ MonoBehaviour:
     health: 0
   title: actor
   health: 100
+<<<<<<< HEAD
   hp: {fileID: 0}
+=======
+  hp: {fileID: 1243633477}
+>>>>>>> parent of 7997442... ant
   initHealth: 100
 --- !u!212 &1874119953
 SpriteRenderer:
@@ -1498,8 +1403,11 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+<<<<<<< HEAD
 =======
 >>>>>>> 8723f279fc912040e1006d28fff746c7dbca1008
+=======
+>>>>>>> parent of 7997442... ant
 --- !u!1 &1885243291
 GameObject:
   m_ObjectHideFlags: 0
