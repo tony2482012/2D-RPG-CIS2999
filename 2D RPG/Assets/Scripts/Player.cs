@@ -27,7 +27,7 @@ public class Player : Character
 	{
 		GetInput();
 
-        hp.MyCurrentValue = 100;
+        //hp.MyCurrentValue = 100;
 
 		base.Update ();
 	}
