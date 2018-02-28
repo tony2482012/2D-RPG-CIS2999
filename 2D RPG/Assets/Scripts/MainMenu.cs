@@ -13,12 +13,14 @@ public class MainMenu : MonoBehaviour {
     //public GameObject mainMenuCanvas;
     //public bool isStart;
     //public bool isQuit;
+    public GameObject loadButton;
 
     public GameObject mainMenuCanvas;
     //public GameObject camera;
     //public GameObject pauseMenuCanvas;
     //public bool isPaused;
     //public string mainMenu;
+    public static string dataPath = string.Empty;
 
 
 	// Use this for initialization
@@ -33,10 +35,18 @@ public class MainMenu : MonoBehaviour {
 		
 	}
 
+
+
+    private void Awake()
+    {
+
+        dataPath = System.IO.Path.Combine(Application.persistentDataPath, "chars.json");
+
+    }
+
     public void LoadGame() {
 
-        //Debug.Log("Click");
-        //SceneManager.LoadScene(whatever);
+        SaveData.Load(dataPath);
         
     }
 
