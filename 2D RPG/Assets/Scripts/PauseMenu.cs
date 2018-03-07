@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
 //Selena
 
-public class PauseMenu : MonoBehaviour {
-
-    public string mainMenu;
+public class PauseMenu : MonoBehaviour
+{
+    //public string mainMenu;
     public bool isMainMenu;
     public bool isPaused;
     public GameObject pauseMenuCanvas;
@@ -18,81 +19,77 @@ public class PauseMenu : MonoBehaviour {
     public GameObject LoadButton;
     public GameObject QuitButton;
 
-	// Update is called once per frame
-	void Update () {
-		
-        if (isMainMenu) {
+    // Update is called once per frame
+    void Update()
+    {
+        if (isMainMenu)
+        {
             mainMenuCanvas.SetActive(true);
-            //SaveGameButton.SetActive(false);
-            //ResumeButton.SetActive(false);
-            //QuitButton.SetActive(false);
-            //NewGameButton.SetActive(true);
-            //LoadButton.SetActive(true);
+            isPaused = false;
             Time.timeScale = 0f;
 
-        } else {
-            //mainMenuCanvas.SetActive(false);
-            //SaveGameButton.SetActive(true);
-            //ResumeButton.SetActive(true);
-            //QuitButton.SetActive(true);
-            //NewGameButton.SetActive(false);
-            //LoadButton.SetActive(false);
+        }
+        else
+        {
+            mainMenuCanvas.SetActive(false);
             Time.timeScale = 1f;
         }
 
-        if (isPaused) {
+        if (isPaused)
+        {
             pauseMenuCanvas.SetActive(true);
-            //SaveGameButton.SetActive(true);
-            //ResumeButton.SetActive(true);
-            //QuitButton.SetActive(true);
-            //NewGameButton.SetActive(false);
-            //LoadButton.SetActive(false);
+            isMainMenu = false;
             Time.timeScale = 0f;
-        } else {
+        }
+        else
+        {
             pauseMenuCanvas.SetActive(false);
         }
 
-        if (Input.GetKeyDown(KeyCode.Escape) | Input.GetKeyDown(KeyCode.P)) {
+        if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.P))
+        {
             isPaused = true;
-
         }
 
-	}
+    }
 
-    public void Resume () {
+    public void Resume()
+    {
 
         isPaused = false;
-        
+
     }
 
-    public void Save() {
+    public void Save()
+    {
 
-    
-        
+        //object[] obj = GameObject.FindObjectsOfType(typeof(GameObject));
+
+        //foreach (object o in obj)
+        //{
+        //    GameObject g = (GameObject)o;
+        //    Debug.Log(g.ToString());
+        //    //Debug.Log(JsonUtility.ToJson(o));
+
+
+
+        //}
+
     }
 
-    public void ButtonNewGame() {
+    public void ButtonNewGame()
+    {
 
         isMainMenu = false;
-        SceneManager.LoadScene("CombatTestScene");
+        SceneManager.LoadScene("CombatTestScene*");
 
     }
 
-    public void Quit() {
+    public void Quit()
+    {
 
-
-
-        //mainMenuCanvas.SetActive(true);
-        //SaveGameButton.SetActive(false);
-        //ResumeButton.SetActive(false);
-        //QuitButton.SetActive(false);
-        //NewGameButton.SetActive(true);
-        //LoadButton.SetActive(true);
-        //Time.timeScale = 1f;
         isMainMenu = true;
-        SceneManager.LoadScene("CombatTestScene");
-        //SceneManager.SetActiveScene("TitleMenu");
-        //isMainMenu = true;
+        isPaused = false;
 
     }
 }

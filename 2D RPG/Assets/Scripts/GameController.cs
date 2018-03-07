@@ -11,6 +11,7 @@ public class GameController : MonoBehaviour {
     //public Button loadButton;
 
     public GameObject playPrefab;
+    public Button quitButton;
 
     public static string dataPath = string.Empty;
 
@@ -35,6 +36,10 @@ public class GameController : MonoBehaviour {
 
     public void Save () {
         SaveData.Save(dataPath, SaveData.charContainer);
+    }
+
+    public void Quit() {
+        Debug.Log("Quitting.....");
     }
 
     //public void Load () {
