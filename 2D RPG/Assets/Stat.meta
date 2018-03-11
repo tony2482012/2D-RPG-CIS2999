@@ -2,10 +2,13 @@ fileFormatVersion: 2
 <<<<<<< HEAD
 guid: dd35b8e3fd9d9374991e0cd40dfdb69a
 folderAsset: yes
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: dd35b8e3fd9d9374991e0cd40dfdb69a
 folderAsset: yes
+=======
+>>>>>>> parent of 7997442... ant
 timeCreated: 1517163529
 =======
 <<<<<<< HEAD
@@ -19,6 +22,9 @@ timeCreated: 1517163831
 >>>>>>> 231e7bbf572be7d153c54187399f3b85df4afb8a
 >>>>>>> 6bb559bf96c6b1bac6a387c1c5a94cd519ac4199
 licenseType: Free
+<<<<<<< HEAD
+>>>>>>> parent of 7997442... ant
+=======
 >>>>>>> parent of 7997442... ant
 DefaultImporter:
   externalObjects: {}

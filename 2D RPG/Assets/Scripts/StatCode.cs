@@ -8,18 +8,18 @@ public class StatCode : MonoBehaviour
 {
 
     private Image content;
-
+    
     [SerializeField]
     private Text stateValue;
-
+    
     private float currentFill;
 
     //the amount we have in the mean time
     private float currentValue;
-
+    
     [SerializeField]
     private float lerpsSpeed;
-
+    
     public float MyMaxValue { get; set; }
 
     public float MyCurrentValue
@@ -43,7 +43,7 @@ public class StatCode : MonoBehaviour
             {
                 currentValue = value;
             }
-
+            
             //calculates the currentFill so that we can lerp
             currentFill = currentValue / MyMaxValue;
 
@@ -59,19 +59,20 @@ public class StatCode : MonoBehaviour
     void Start()
     {
         content = GetComponent<Image>();
-
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        content.fillAmount = currentFill;
-        /*
-        if (currentFill != content.fillamount)
+       // content.fillAmount = currentFill;
+       
+        if (currentFill != content.fillAmount)
         {
             content.fillAmount = Mathf.Lerp(content.fillAmount, currentFill, Time.deltaTime * lerpsSpeed);
         }
-        */
+        
+
     }
     //to make sure our values are set when start the game
     public void Initialized(float currentValue, float maxValue)

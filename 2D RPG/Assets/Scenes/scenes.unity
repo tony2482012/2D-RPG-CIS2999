@@ -1285,6 +1285,9 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7997442... ant
 =======
 >>>>>>> parent of 7997442... ant
 --- !u!1 &1874119950
@@ -1337,7 +1340,11 @@ MonoBehaviour:
   title: actor
   health: 100
 <<<<<<< HEAD
+<<<<<<< HEAD
   hp: {fileID: 0}
+=======
+  hp: {fileID: 1243633477}
+>>>>>>> parent of 7997442... ant
 =======
   hp: {fileID: 1243633477}
 >>>>>>> parent of 7997442... ant
@@ -1404,8 +1411,11 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8723f279fc912040e1006d28fff746c7dbca1008
+=======
+>>>>>>> parent of 7997442... ant
 =======
 >>>>>>> parent of 7997442... ant
 --- !u!1 &1885243291

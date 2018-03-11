@@ -7,7 +7,7 @@ using UnityEngine;
 
 public class Player : Character 
 {
-    //to connect with the mean health
+    //to connect with the StateCode file
     [SerializeField]
     private StatCode hp;
 
@@ -37,7 +37,7 @@ public class Player : Character
 		direction = Vector2.zero;
 
         //This is used for debugging only
-
+        
         if (Input.GetKeyDown(KeyCode.I))
         {
             hp.MyCurrentValue -= 10;
@@ -45,10 +45,8 @@ public class Player : Character
         if (Input.GetKeyDown(KeyCode.O))
         {
             hp.MyCurrentValue += 10;
-
-
         }
-
+        
         //
 
 		if (Input.GetKey(KeyCode.W)) 
