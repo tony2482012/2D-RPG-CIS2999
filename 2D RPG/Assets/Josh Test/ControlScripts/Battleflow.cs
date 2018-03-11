@@ -9,9 +9,9 @@ using UnityEditor.SceneManagement;
 
 public class Battleflow : MonoBehaviour {
 	public Transform snakeObj;
-	//public Transform enemy1;
-	//public Transform enemy2;
-	//public Transform enemy3;
+	public int enemy1Turn = 2;
+	public int enemy2Tur = 3;
+	public int enemy3Turn = 4;
 	//public float enemyPosition1;
 	//public float enemyPosition2;
 	//public float enemyPosition3;
