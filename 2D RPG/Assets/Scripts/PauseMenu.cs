@@ -95,7 +95,7 @@ public class PauseMenu : MonoBehaviour
 
     public void ButtonNewGame()
     {
-        SceneManager.LoadScene("CombatTestScene*");
+        //SceneManager.LoadScene("CombatTestScene*");
         isMainMenu = false;
 
     }
