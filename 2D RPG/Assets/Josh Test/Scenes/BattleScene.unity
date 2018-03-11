@@ -331,6 +331,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   snakeObj: {fileID: 4460876360229530, guid: b263d338d9651b242a9d57052851cfb6, type: 2}
+  enemy1Turn: 2
+  enemy2Tur: 3
+  enemy3Turn: 4
 --- !u!4 &822567659
 Transform:
   m_ObjectHideFlags: 0
@@ -555,7 +558,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1654160170
 Transform:
   m_ObjectHideFlags: 0
