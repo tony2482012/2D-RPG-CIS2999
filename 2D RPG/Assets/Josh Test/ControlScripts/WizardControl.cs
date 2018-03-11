@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class WizardControl : MonoBehaviour {
-	public static float wizardHP = 100;
+	public  static float wizardHP = 100;
 	public static float wizardMaxHP = 100;
 
 	public Transform damTextObj;
@@ -44,9 +44,10 @@ public class WizardControl : MonoBehaviour {
 	IEnumerator returnWizard()
 	{
 		yield return new WaitForSeconds (2);
-		Battleflow.whichTurn = 2;
-		Instantiate (damTextObj, new Vector2 (-3.46f, 6.0f), damTextObj.rotation);
+		Instantiate (damTextObj, new Vector2 (-3.0f, 1.0f), damTextObj.rotation);
 		Battleflow.damageDisplay = "y";
+		Battleflow.whichTurn = 2;
+
 
 	}
 }
