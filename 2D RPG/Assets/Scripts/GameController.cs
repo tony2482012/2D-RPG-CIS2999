@@ -8,9 +8,10 @@ using UnityEngine.UI;
 public class GameController : MonoBehaviour {
 
     public Button saveButton;
-    public Button loadButton;
+    //public Button loadButton;
 
     public GameObject playPrefab;
+    public Button quitButton;
 
     public static string dataPath = string.Empty;
 
@@ -37,10 +38,14 @@ public class GameController : MonoBehaviour {
         SaveData.Save(dataPath, SaveData.charContainer);
     }
 
-    public void Load () {
-
-        SaveData.Load(dataPath);
-
+    public void Quit() {
+        Debug.Log("Quitting.....");
     }
+
+    //public void Load () {
+
+    //    SaveData.Load(dataPath);
+
+    //}
 
 }

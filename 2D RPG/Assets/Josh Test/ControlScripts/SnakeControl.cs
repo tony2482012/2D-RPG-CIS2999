@@ -27,4 +27,9 @@ public class SnakeControl : MonoBehaviour {
 	void returnSnake(){
 		GetComponent<Transform> ().position = new Vector2 (-4.45f, -1.22f );
 	}
+
+	void OnMouseDown(){
+		Battleflow.selectedEnemy = gameObject.name;
+
+	}
 }
