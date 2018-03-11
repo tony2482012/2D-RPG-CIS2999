@@ -65,6 +65,7 @@ public class Battleflow : MonoBehaviour {
 
 		if (enemysOnScreen == 0)
 		{
+			whichTurn = 1;
 			EditorSceneManager.LoadScene ("NewForestNight");
 		}
 
