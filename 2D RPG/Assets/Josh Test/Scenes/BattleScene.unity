@@ -217,6 +217,10 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1994260783906904, guid: 6aa810b38bec64d8c9c4a9ad1623ef88, type: 2}
       propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1459419843500310, guid: 6aa810b38bec64d8c9c4a9ad1623ef88, type: 2}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -331,6 +335,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   snakeObj: {fileID: 4460876360229530, guid: b263d338d9651b242a9d57052851cfb6, type: 2}
+  enemy1Turn: 2
+  enemy2Tur: 3
+  enemy3Turn: 4
 --- !u!4 &822567659
 Transform:
   m_ObjectHideFlags: 0
