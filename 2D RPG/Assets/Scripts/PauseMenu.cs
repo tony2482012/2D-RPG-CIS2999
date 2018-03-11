@@ -19,8 +19,8 @@ public class PauseMenu : MonoBehaviour
     public GameObject SaveGameButton;
     public GameObject ResumeButton;
     public GameObject LoadButton;
-    public GameObject QuitToMainButton;
     public GameObject QuitButton;
+    public GameObject QuitMainButton;
 
     // Update is called once per frame
     void Update()
