@@ -11,12 +11,15 @@ public class PauseMenu : MonoBehaviour
     //public string mainMenu;
     public bool isMainMenu;
     public bool isPaused;
+    public bool isInGame;
     public GameObject pauseMenuCanvas;
     public GameObject mainMenuCanvas;
+    public GameObject inGameCanvas;
     public GameObject NewGameButton;
     public GameObject SaveGameButton;
     public GameObject ResumeButton;
     public GameObject LoadButton;
+    public GameObject QuitToMainButton;
     public GameObject QuitButton;
 
     // Update is called once per frame
@@ -26,6 +29,7 @@ public class PauseMenu : MonoBehaviour
         {
             mainMenuCanvas.SetActive(true);
             isPaused = false;
+            //isInGame = false;
             Time.timeScale = 0f;
 
         }
@@ -39,12 +43,25 @@ public class PauseMenu : MonoBehaviour
         {
             pauseMenuCanvas.SetActive(true);
             isMainMenu = false;
+            //isInGame = false;
             Time.timeScale = 0f;
         }
         else
         {
             pauseMenuCanvas.SetActive(false);
         }
+
+        //if (isInGame)
+        //{
+        //    inGameCanvas.SetActive(true);
+        //    isMainMenu = false;
+        //    isPaused = false;
+        //    Time.timeScale = 0f;
+        //}
+        //else
+        //{
+        //    inGameCanvas.SetActive(false);
+        //}
 
         if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.P))
         {
@@ -55,7 +72,6 @@ public class PauseMenu : MonoBehaviour
 
     public void Resume()
     {
-
         isPaused = false;
 
     }
@@ -79,17 +95,26 @@ public class PauseMenu : MonoBehaviour
 
     public void ButtonNewGame()
     {
-
-        isMainMenu = false;
         SceneManager.LoadScene("CombatTestScene*");
+        isMainMenu = false;
 
     }
+
+    //public void InGameNewGame() {
+        
+    //}
 
     public void Quit()
     {
 
         isMainMenu = true;
-        isPaused = false;
 
+        //isInGame = true;
+
+    }
+
+    public void QuitGame () {
+        //Debug.Log("L");
+        Application.Quit();
     }
 }
