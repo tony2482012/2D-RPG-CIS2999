@@ -5,15 +5,19 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEditor.SceneManagement;
 
 public class Battleflow : MonoBehaviour {
 	public Transform snakeObj;
-	public Transform enemy1;
-	public Transform enemy2;
-	public Transform enemy3;
-
+	//public Transform enemy1;
+	//public Transform enemy2;
+	//public Transform enemy3;
+	//public float enemyPosition1;
+	//public float enemyPosition2;
+	//public float enemyPosition3;
 	//controls enemy targeting
 	public static string selectedEnemy="";
+	public static int enemysOnScreen = 0;
 
 
 	//controls character turn
@@ -35,14 +39,15 @@ public class Battleflow : MonoBehaviour {
 
 		if (spawn1 >= 0) {
 			Instantiate(snakeObj, new Vector2 (-3.0f, -0.0f), snakeObj.rotation);
+			enemysOnScreen++;
 		}
 		if (spawn2 >= 30) {
 			Instantiate (snakeObj, new Vector2 (-3.0f, -1.5f), snakeObj.rotation);
-
+			enemysOnScreen++;
 		}
 		if (spawn3 >= 80) {
 			Instantiate (snakeObj, new Vector2 (-3.0f, -3.0f), snakeObj.rotation);
-
+			enemysOnScreen++;
 		}
 
 
@@ -58,7 +63,11 @@ public class Battleflow : MonoBehaviour {
 		}
 
 
-
+		if (enemysOnScreen == 0)
+		{
+			whichTurn = 1;
+			EditorSceneManager.LoadScene ("NewForestNight");
+		}
 
 	}
 }
