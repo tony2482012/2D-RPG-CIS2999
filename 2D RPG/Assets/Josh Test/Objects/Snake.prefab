@@ -21,7 +21,6 @@ GameObject:
   - component: {fileID: 4460876360229530}
   - component: {fileID: 95415178806213532}
   - component: {fileID: 212898915291582238}
-  - component: {fileID: 114915270060136790}
   - component: {fileID: 114033600271898662}
   - component: {fileID: 65028443406272148}
   m_Layer: 0
@@ -86,18 +85,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   EnemyHP: 0
   EnemyAttPow: 0
---- !u!114 &114915270060136790
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1981392221528494}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06ea1f8f707cc764391e7e458458250b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  snakeHP: 50
+  EnemyPos: {x: 0, y: 0, z: 0}
+  damTextObj: {fileID: 4357938280945556, guid: 6d99de560ab8b9a45b502e02112c431f, type: 2}
 --- !u!212 &212898915291582238
 SpriteRenderer:
   m_ObjectHideFlags: 1

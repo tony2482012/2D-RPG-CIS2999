@@ -44,9 +44,10 @@ public class WizardControl : MonoBehaviour {
 	IEnumerator returnWizard()
 	{
 		yield return new WaitForSeconds (2);
-		Battleflow.whichTurn = 2;
 		Instantiate (damTextObj, new Vector2 (-3.0f, 1.0f), damTextObj.rotation);
 		Battleflow.damageDisplay = "y";
+		Battleflow.whichTurn = 2;
+
 
 	}
 }
