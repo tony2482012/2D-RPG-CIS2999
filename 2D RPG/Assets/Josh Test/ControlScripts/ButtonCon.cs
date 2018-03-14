@@ -17,7 +17,7 @@ public class ButtonCon : MonoBehaviour {
 
 	void OnMouseDown()
 	{
-		Debug.Log ("button clicked");
+		//Debug.Log ("button clicked");
 		Battleflow.attButSelected = "y";
 
 	}
