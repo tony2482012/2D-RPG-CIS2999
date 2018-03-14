@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-03-14T12:47:04.6935590-04:00
+  lastVerifiedAtString: 2018-03-14T12:47:04.7261461-04:00
+  initializedAtString: 2018-03-14T12:38:19.0113927-04:00
+  gitConfigBranch:
+    name: master
+    remote:
+      name: origin
+      url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+  gitConfigRemote:
+    name: origin
+    url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+  localBranches:
+  - name: Cody's-Branch
+    tracking: origin/Cody's-Branch
+    isActive: 0
+  - name: master
+    tracking: origin/master
+    isActive: 1
+  remoteBranches:
+  - name: origin/Cody's-Branch
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/HEAD
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/master
+    tracking: '[None]'
+    isActive: 0
+  remotes:
+  - name: origin
+    url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - Cody's-Branch
+    - master
+    values:
+    - name: Cody's-Branch
+      remote:
+        name: origin
+        url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - Cody's-Branch
+      - HEAD
+      - master
+    subKeyValues:
+    - Values:
+      - name: Cody's-Branch
+        remote:
+          name: origin
+          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/tony2482012/2D-RPG-CIS2999.git
