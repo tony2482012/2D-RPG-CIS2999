@@ -17,10 +17,7 @@ public class Battleflow : MonoBehaviour {
 	//public float enemyPosition3;
 	//controls enemy targeting
 	public static string selectedEnemy="";
-	//Checks for end of combat
 	public static int enemysOnScreen = 0;
-
-	public static string attButPressed = "n";
 
 
 	//controls character turn

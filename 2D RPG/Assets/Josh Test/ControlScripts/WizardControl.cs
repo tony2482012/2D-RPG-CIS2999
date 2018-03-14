@@ -30,11 +30,9 @@ public class WizardControl : MonoBehaviour {
 			Destroy (gameObject);	
 		}
 
-		if (((Input.GetKeyDown ("1")) || (Battleflow.attButPressed=="y")) && (Battleflow.whichTurn == 1) 
-			&&(Battleflow.selectedEnemy != ""))  {
-			Battleflow.attButPressed = "n";
+		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 1))  {
+			
 			Battleflow.currentDamage = 30;
-
 			GetComponent<Animator> ().SetTrigger ("WizardMagic1");
 			Instantiate (fireballObj, new Vector2 (7.0f, -.21f), fireballObj.rotation);
 			StartCoroutine (returnWizard ());
