@@ -31,7 +31,11 @@ public class PauseMenu : MonoBehaviour
             isPaused = false;
             //isInGame = false;
             Time.timeScale = 0f;
-
+            if (isInGame)
+            {
+                SceneManager.LoadScene("NewForestNight");
+                //isInGame = false;
+            }
         }
         else
         {
@@ -43,13 +47,14 @@ public class PauseMenu : MonoBehaviour
         {
             pauseMenuCanvas.SetActive(true);
             isMainMenu = false;
-            //isInGame = false;
+            isInGame = true;
             Time.timeScale = 0f;
         }
         else
         {
             pauseMenuCanvas.SetActive(false);
         }
+
 
         //if (isInGame)
         //{
@@ -66,6 +71,7 @@ public class PauseMenu : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.P))
         {
             isPaused = true;
+            //isInGame = true;
         }
 
     }
@@ -73,6 +79,7 @@ public class PauseMenu : MonoBehaviour
     public void Resume()
     {
         isPaused = false;
+        isInGame = false;
 
     }
 
@@ -106,8 +113,8 @@ public class PauseMenu : MonoBehaviour
 
     public void Quit()
     {
-
         isMainMenu = true;
+
 
         //isInGame = true;
 
