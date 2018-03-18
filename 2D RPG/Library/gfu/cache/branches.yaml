@@ -11,11 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-18T12:39:01.5493900-04:00
-  lastVerifiedAtString: 2018-03-18T12:39:01.5760366-04:00
+  lastUpdatedAtString: 2018-03-18T13:02:04.7825479-04:00
+  lastVerifiedAtString: 2018-03-18T13:02:04.8041057-04:00
   initializedAtString: 2018-03-18T12:37:38.4285892-04:00
   gitConfigBranch:
-    name: master
+    name: codys-branch-3/18
     remote:
       name: origin
       url: https://github.com/tony2482012/2D-RPG-CIS2999.git
@@ -28,6 +28,9 @@ MonoBehaviour:
     isActive: 0
   - name: master
     tracking: origin/master
+    isActive: 0
+  - name: codys-branch-3/18
+    tracking: origin/codys-branch-3/18
     isActive: 1
   remoteBranches:
   - name: origin/Cody's-Branch
@@ -45,6 +48,9 @@ MonoBehaviour:
   - name: origin/master
     tracking: '[None]'
     isActive: 0
+  - name: origin/codys-branch-3/18
+    tracking: '[None]'
+    isActive: 0
   remotes:
   - name: origin
     url: https://github.com/tony2482012/2D-RPG-CIS2999.git
@@ -57,12 +63,17 @@ MonoBehaviour:
     keys:
     - Cody's-Branch
     - master
+    - codys-branch-3/18
     values:
     - name: Cody's-Branch
       remote:
         name: origin
         url: https://github.com/tony2482012/2D-RPG-CIS2999.git
     - name: master
+      remote:
+        name: origin
+        url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+    - name: codys-branch-3/18
       remote:
         name: origin
         url: https://github.com/tony2482012/2D-RPG-CIS2999.git
@@ -76,6 +87,7 @@ MonoBehaviour:
       - HEAD
       - Josh's-Branch
       - master
+      - codys-branch-3/18
     subKeyValues:
     - Values:
       - name: Cody's-Branch
@@ -95,6 +107,10 @@ MonoBehaviour:
           name: origin
           url: https://github.com/tony2482012/2D-RPG-CIS2999.git
       - name: master
+        remote:
+          name: origin
+          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+      - name: codys-branch-3/18
         remote:
           name: origin
           url: https://github.com/tony2482012/2D-RPG-CIS2999.git
