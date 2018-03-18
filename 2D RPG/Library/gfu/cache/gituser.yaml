@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -1697640569, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-07T13:25:51.5244279-05:00
-  lastVerifiedAtString: 2018-03-14T12:47:05.7428718-04:00
-  initializedAtString: 2018-03-14T12:38:25.6108296-04:00
-  gitName: Cody Yandura
-  gitEmail: 35173272+cyandura@users.noreply.github.com
+  lastUpdatedAtString: 2018-01-21T15:54:34.7528813-05:00
+  lastVerifiedAtString: 2018-03-18T12:57:54.8771700-04:00
+  initializedAtString: 2018-03-18T12:52:34.4959361-04:00
+  gitName: JJBunnell
+  gitEmail: JJBunnell@oakland.edu
