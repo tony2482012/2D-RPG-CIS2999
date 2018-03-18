@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-03-18T14:51:17.1754990-04:00
   lastVerifiedAtString: 2018-03-18T14:58:23.0059140-04:00
   initializedAtString: 2018-03-18T14:36:40.1848460-04:00
@@ -362,6 +363,27 @@ MonoBehaviour:
   - path: 2D RPG/Library/metadata/f7/f70555f144d8491a825f0804e09c671c
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/f7/f70555f144d8491a825f0804e09c671c
     projectPath: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+=======
+  lastUpdatedAtString: 2018-03-18T14:44:36.6539946-04:00
+  lastVerifiedAtString: 2018-03-18T14:47:54.3736651-04:00
+  initializedAtString: 2018-03-18T14:34:06.7055609-04:00
+  entries:
+  - path: 2D RPG\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+>>>>>>> 80c93addfe4d96abeb59dfe63a4c2fba97725d26
     originalPath: 
     status: 3
     staged: 0
@@ -371,9 +393,12 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: 2D RPG/ProjectSettings/EditorBuildSettings.asset
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/ProjectSettings/EditorBuildSettings.asset
     projectPath: ProjectSettings/EditorBuildSettings.asset
     originalPath: 
     status: 3
     staged: 0
+=======
+>>>>>>> 80c93addfe4d96abeb59dfe63a4c2fba97725d26
