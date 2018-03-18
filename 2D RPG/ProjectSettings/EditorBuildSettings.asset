@@ -4,26 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Scenes: []
-=======
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/TitleMenu.unity
-    guid: 20948edd01c264b55932f4ccc786cb34
-  - enabled: 1
-    path: Assets/Scenes/NewForestNight.unity
-    guid: 8643f50b32dc84c47b4a5326edf71841
-  - enabled: 1
-    path: Assets/Josh Test/Scenes/BattleScene.unity
-    guid: 2527c73db1b450947981dee11c6f6cdd
-  - enabled: 0
-    path: Assets/Josh Test/Scenes/CombatTestScene.unity
-    guid: c303408cbf7124f5d88870b4d93fa3f8
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of e3c45f1... Merge branch 'Josh's-Branch'
-=======
->>>>>>> parent of e3c45f1... Merge branch 'Josh's-Branch'
-=======
->>>>>>> parent of e3c45f1... Merge branch 'Josh's-Branch'
