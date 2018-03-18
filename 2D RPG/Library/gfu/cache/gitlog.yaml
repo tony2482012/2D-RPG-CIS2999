@@ -11,10 +11,82 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-18T13:02:08.6116821-04:00
-  lastVerifiedAtString: 2018-03-18T13:02:08.6116821-04:00
+  lastUpdatedAtString: 2018-03-18T14:54:10.4361481-04:00
+  lastVerifiedAtString: 2018-03-18T14:54:10.4361481-04:00
   initializedAtString: 2018-03-18T12:37:46.5864789-04:00
   log:
+  - commitID: 541f1e5f635a5e2e10b64203cf4c22e8f100bb58
+    mergeA: 
+    mergeB: 
+    authorName: Cody Yandura
+    authorEmail: 35173272+cyandura@users.noreply.github.com
+    commitEmail: 35173272+cyandura@users.noreply.github.com
+    commitName: Cody Yandura
+    summary: got rid of gameobject
+    description: got rid of gameobject
+    timeString: 2018-03-18T13:03:17.0000000-04:00
+    commitTimeString: 2018-03-18T13:03:17.0000000-04:00
+    changes:
+    - path: 2D RPG\2D RPG.userprefs
+      fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.userprefs
+      projectPath: 2D RPG.userprefs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\Scenes\NewForestNight.unity
+      fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scenes\NewForestNight.unity
+      projectPath: Assets\Scenes\NewForestNight.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\assetDatabase3
+      fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: eb7b87cfc5c16719b2bc1aeb5c9cf29908e50a65
     mergeA: 
     mergeB: 
