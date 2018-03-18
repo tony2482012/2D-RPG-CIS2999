@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/NewForestNight.unity
+- path: Assets/Josh Test/Scenes/BattleScene.unity
   isLoaded: 1
   isActive: 1
