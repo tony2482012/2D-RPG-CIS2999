@@ -71,7 +71,6 @@
      <Compile Include="Assets\Josh Test\ControlScripts\WarriorControl.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\WizardControl.cs" />
      <Compile Include="Assets\Josh Test\Josh Test Script.cs" />
-     <Compile Include="Assets\Rotator.cs" />
      <Compile Include="Assets\Scripts\ButtonHandler.cs" />
      <Compile Include="Assets\Scripts\Character Classes\BaseCharacterClass.cs" />
      <Compile Include="Assets\Scripts\Character Classes\BaseMageClass.cs" />
