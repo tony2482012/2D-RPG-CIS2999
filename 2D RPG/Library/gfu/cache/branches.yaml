@@ -11,20 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-03-18T14:09:10.8216029-04:00
-  lastVerifiedAtString: 2018-03-18T14:09:10.8456669-04:00
-=======
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-03-18T14:12:43.3378300-04:00
-  lastVerifiedAtString: 2018-03-18T14:12:43.3431040-04:00
-  initializedAtString: 2018-03-18T12:25:51.6658440-04:00
-=======
-  lastUpdatedAtString: 2018-03-18T14:05:34.5235698-04:00
-  lastVerifiedAtString: 2018-03-18T14:05:34.5596650-04:00
->>>>>>> 3a878649696b0ea90351fa9ede1db21b20155284
-  initializedAtString: 2018-03-18T14:05:28.3885777-04:00
->>>>>>> a382bee8e9a880e9290eaec7181496de789ffaa9
+  lastUpdatedAtString: 2018-03-18T14:28:46.4043583-04:00
+  lastVerifiedAtString: 2018-03-18T14:28:46.4043583-04:00
+  initializedAtString: 2018-03-18T14:18:07.0954542-04:00
   gitConfigBranch:
     name: master
     remote:
@@ -34,15 +23,12 @@ MonoBehaviour:
     name: origin
     url: https://github.com/tony2482012/2D-RPG-CIS2999.git
   localBranches:
-<<<<<<< HEAD
-=======
   - name: Cody's-Branch
     tracking: origin/Cody's-Branch
     isActive: 0
   - name: Josh's-Branch
     tracking: origin/Josh's-Branch
     isActive: 0
->>>>>>> a382bee8e9a880e9290eaec7181496de789ffaa9
   - name: master
     tracking: origin/master
     isActive: 1
@@ -75,10 +61,6 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-<<<<<<< HEAD
-    - master
-    values:
-=======
     - Cody's-Branch
     - Josh's-Branch
     - master
@@ -91,7 +73,6 @@ MonoBehaviour:
       remote:
         name: origin
         url: https://github.com/tony2482012/2D-RPG-CIS2999.git
->>>>>>> a382bee8e9a880e9290eaec7181496de789ffaa9
     - name: master
       remote:
         name: origin
