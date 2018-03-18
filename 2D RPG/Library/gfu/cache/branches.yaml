@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-18T13:04:40.0937774-04:00
-  lastVerifiedAtString: 2018-03-18T13:04:40.1439100-04:00
-  initializedAtString: 2018-03-18T13:04:24.6236307-04:00
+  lastUpdatedAtString: 2018-03-18T13:24:49.8904639-04:00
+  lastVerifiedAtString: 2018-03-18T13:24:49.8904639-04:00
+  initializedAtString: 2018-03-18T13:11:20.5121415-04:00
   gitConfigBranch:
     name: master
     remote:
