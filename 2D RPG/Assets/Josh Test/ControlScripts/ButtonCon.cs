@@ -21,7 +21,7 @@ public class ButtonCon : MonoBehaviour {
 		if (gameObject.name == "Fireball Button") {
 			Battleflow.attButSelected = "y";
 		} else if (gameObject.name == "Defense Button") {
-			
+			//test for merge
 		}
 
 	}
