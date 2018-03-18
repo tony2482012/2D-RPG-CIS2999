@@ -11,10 +11,96 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-18T14:28:47.6531794-04:00
-  lastVerifiedAtString: 2018-03-18T14:28:47.6531794-04:00
-  initializedAtString: 2018-03-18T14:18:08.5874229-04:00
+  lastUpdatedAtString: 2018-03-18T14:30:45.0184885-04:00
+  lastVerifiedAtString: 2018-03-18T14:30:45.0184885-04:00
+  initializedAtString: 2018-03-18T14:30:45.0184885-04:00
   log:
+  - commitID: 4f6c048508b4da302e4dfc08a8e4e81bc90477bb
+    mergeA: 
+    mergeB: 
+    authorName: JJBunnell
+    authorEmail: JJBunnell@oakland.edu
+    commitEmail: JJBunnell@oakland.edu
+    commitName: JJBunnell
+    summary: commit
+    description: commit
+    timeString: 2018-03-18T14:29:57.0000000-04:00
+    commitTimeString: 2018-03-18T14:29:57.0000000-04:00
+    changes:
+    - path: 2D RPG\Assembly-CSharp.csproj
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\Josh Test\ControlScripts\ButtonCon.cs.meta
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh
+        Test\ControlScripts\ButtonCon.cs.meta
+      projectPath: Assets\Josh Test\ControlScripts\ButtonCon.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 2D RPG\Assets\Josh Test\Objects\Fireball Button.prefab.meta
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh
+        Test\Objects\Fireball Button.prefab.meta
+      projectPath: Assets\Josh Test\Objects\Fireball Button.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 2D RPG\Library\assetDatabase3
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\metadata\00\0000000000000000b000000000000000
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\0000000000000000b000000000000000
+      projectPath: Library\metadata\00\0000000000000000b000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: e3c45f123a12de68c2693665eff414097d06f792
+    mergeA: b1b3b288680fe9fda86e19fb2da53e166f69d4a9
+    mergeB: fea158ac766ef02b43be227afa7ee651c0a7560d
+    authorName: JJBunnell
+    authorEmail: JJBunnell@oakland.edu
+    commitEmail: JJBunnell@oakland.edu
+    commitName: JJBunnell
+    summary: Merge branch 'Josh's-Branch'
+    description: Merge branch 'Josh's-Branch'
+    timeString: 2018-03-18T14:29:20.0000000-04:00
+    commitTimeString: 2018-03-18T14:29:20.0000000-04:00
+    changes: []
+  - commitID: b1b3b288680fe9fda86e19fb2da53e166f69d4a9
+    mergeA: d8fc73912f2191452e9def6942daf75b45eab760
+    mergeB: 3a878649696b0ea90351fa9ede1db21b20155284
+    authorName: JJBunnell
+    authorEmail: JJBunnell@oakland.edu
+    commitEmail: JJBunnell@oakland.edu
+    commitName: JJBunnell
+    summary: Merge branch 'master' of https://github.com/tony2482012/2D-RPG-CIS2999
+    description: Merge branch 'master' of https://github.com/tony2482012/2D-RPG-CIS2999
+    timeString: 2018-03-18T14:29:02.0000000-04:00
+    commitTimeString: 2018-03-18T14:29:02.0000000-04:00
+    changes: []
   - commitID: d8fc73912f2191452e9def6942daf75b45eab760
     mergeA: 
     mergeB: 
@@ -90,6 +176,136 @@ MonoBehaviour:
     - path: 2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
       fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
       projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: fea158ac766ef02b43be227afa7ee651c0a7560d
+    mergeA: 
+    mergeB: 
+    authorName: JJBunnell
+    authorEmail: JJBunnell@oakland.edu
+    commitEmail: JJBunnell@oakland.edu
+    commitName: JJBunnell
+    summary: Adding CHanges For Merg
+    description: Adding CHanges For Merg
+    timeString: 2018-03-18T14:26:23.0000000-04:00
+    commitTimeString: 2018-03-18T14:26:23.0000000-04:00
+    changes:
+    - path: 2D RPG\Assets\Josh Test\ControlScripts\ButtonCon.cs
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh
+        Test\ControlScripts\ButtonCon.cs
+      projectPath: Assets\Josh Test\ControlScripts\ButtonCon.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\Josh Test\Objects\Fireball Button.prefab
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh
+        Test\Objects\Fireball Button.prefab
+      projectPath: Assets\Josh Test\Objects\Fireball Button.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\Josh Test\Objects\Fireball Button.prefab.meta
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh
+        Test\Objects\Fireball Button.prefab.meta
+      projectPath: Assets\Josh Test\Objects\Fireball Button.prefab.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\Josh Test\Scenes\BattleScene.unity
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh
+        Test\Scenes\BattleScene.unity
+      projectPath: Assets\Josh Test\Scenes\BattleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 3a878649696b0ea90351fa9ede1db21b20155284
+    mergeA: f3c07607f75c424ed2cffd106dc96cbfd7ef626e
+    mergeB: a382bee8e9a880e9290eaec7181496de789ffaa9
+    authorName: Selena
+    authorEmail: shaidar2@oakland.edu
+    commitEmail: shaidar2@oakland.edu
+    commitName: Selena
+    summary: Merge branch 'master' of https://github.com/tony2482012/2D-RPG-CIS2999
+    description: Merge branch 'master' of https://github.com/tony2482012/2D-RPG-CIS2999
+    timeString: 2018-03-18T14:13:02.0000000-04:00
+    commitTimeString: 2018-03-18T14:13:02.0000000-04:00
+    changes: []
+  - commitID: f3c07607f75c424ed2cffd106dc96cbfd7ef626e
+    mergeA: 
+    mergeB: 
+    authorName: Selena
+    authorEmail: shaidar2@oakland.edu
+    commitEmail: shaidar2@oakland.edu
+    commitName: Selena
+    summary: n
+    description: n
+    timeString: 2018-03-18T14:12:53.0000000-04:00
+    commitTimeString: 2018-03-18T14:12:53.0000000-04:00
+    changes:
+    - path: 2D RPG\2D RPG.sln
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.sln
+      projectPath: 2D RPG.sln
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\assetDatabase3
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
       originalPath: 
       status: 3
       staged: 0

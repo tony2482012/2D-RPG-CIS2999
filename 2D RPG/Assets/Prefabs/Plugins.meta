@@ -1,12 +1,7 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:2D RPG/Assets/Prefabs/Plugins.meta
 guid: b6066afe40887cb4dab3822d7f2c3cb2
 folderAsset: yes
 timeCreated: 1516568060
-=======
-guid: e4eb061e59f33f145abbf71c4d1c3d4c
-timeCreated: 1521397555
->>>>>>> Josh's-Branch:2D RPG/Assets/Josh Test/Objects/Fireball Button.prefab.meta
 licenseType: Free
 DefaultImporter:
   externalObjects: {}
