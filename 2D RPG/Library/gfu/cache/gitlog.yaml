@@ -11,10 +11,641 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-18T12:46:12.4795680-04:00
-  lastVerifiedAtString: 2018-03-18T12:46:12.4795680-04:00
+  lastUpdatedAtString: 2018-03-18T13:43:44.3695050-04:00
+  lastVerifiedAtString: 2018-03-18T13:43:44.3695050-04:00
   initializedAtString: 2018-03-18T12:25:51.8609350-04:00
   log:
+  - commitID: feaf80f0ba4c76c0c875c5549813dda6aaf88563
+    mergeA: 
+    mergeB: 
+    authorName: Selena
+    authorEmail: shaidar2@oakland.edu
+    commitEmail: shaidar2@oakland.edu
+    commitName: Selena
+    summary: n
+    description: n
+    timeString: 2018-03-18T13:29:47.0000000-04:00
+    commitTimeString: 2018-03-18T13:29:47.0000000-04:00
+    changes:
+    - path: 2D RPG/2D RPG.sln
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/2D RPG.sln
+      projectPath: 2D RPG.sln
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/2D RPG.userprefs
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/2D RPG.userprefs
+      projectPath: 2D RPG.userprefs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Assets/Josh Test/Scenes/BattleScene.unity
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Josh
+        Test/Scenes/BattleScene.unity
+      projectPath: Assets/Josh Test/Scenes/BattleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Assets/Plugins.meta
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Plugins.meta
+      projectPath: Assets/Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 2D RPG/Assets/Plugins/GitHub.meta
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Plugins/GitHub.meta
+      projectPath: Assets/Plugins/GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 2D RPG/Assets/Plugins/GitHub/Editor.meta
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Plugins/GitHub/Editor.meta
+      projectPath: Assets/Plugins/GitHub/Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 2D RPG/Assets/Plugins/GitHub/Editor/x64.meta
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Plugins/GitHub/Editor/x64.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 2D RPG/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 2D RPG/Assets/Prefabs/Plugins/GitHub/Editor.meta~HEAD.meta
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Prefabs/Plugins/GitHub/Editor.meta~HEAD.meta
+      projectPath: Assets/Prefabs/Plugins/GitHub/Editor.meta~HEAD.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 2D RPG/Assets/Prefabs/Plugins/GitHub/Editor/x64.meta~HEAD.meta
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Prefabs/Plugins/GitHub/Editor/x64.meta~HEAD.meta
+      projectPath: Assets/Prefabs/Plugins/GitHub/Editor/x64.meta~HEAD.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 2D RPG/Assets/Prefabs/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta~HEAD.meta
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Prefabs/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta~HEAD.meta
+      projectPath: Assets/Prefabs/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta~HEAD.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 2D RPG/Library/CurrentMaximizeLayout.dwlt
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/CurrentMaximizeLayout.dwlt
+      projectPath: Library/CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 2D RPG/Library/SpriteAtlasDatabase.asset
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/SpriteAtlasDatabase.asset
+      projectPath: Library/SpriteAtlasDatabase.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/assetDatabase3
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/gfu/cache/branches.yaml
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/gfu/cache/gituser.yaml
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/00/00000000000000005000000000000000
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/00/00000000000000005000000000000000
+      projectPath: Library/metadata/00/00000000000000005000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      projectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+      projectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/0f/0fd05ccacdef36141aec74638b57a28d
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/0f/0fd05ccacdef36141aec74638b57a28d
+      projectPath: Library/metadata/0f/0fd05ccacdef36141aec74638b57a28d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/0f/0fd05ccacdef36141aec74638b57a28d.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/0f/0fd05ccacdef36141aec74638b57a28d.info
+      projectPath: Library/metadata/0f/0fd05ccacdef36141aec74638b57a28d.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+      projectPath: Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/11/11043fc3a881495409d0828a9dcb372e.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/11/11043fc3a881495409d0828a9dcb372e.info
+      projectPath: Library/metadata/11/11043fc3a881495409d0828a9dcb372e.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/13/136dc24f151211d438acee17aff4e934
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/13/136dc24f151211d438acee17aff4e934
+      projectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+      projectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      projectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+      projectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      projectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+      projectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/18/18e8cfb11be6ab74aa27444da11205e8
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/18/18e8cfb11be6ab74aa27444da11205e8
+      projectPath: Library/metadata/18/18e8cfb11be6ab74aa27444da11205e8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/18/18e8cfb11be6ab74aa27444da11205e8.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/18/18e8cfb11be6ab74aa27444da11205e8.info
+      projectPath: Library/metadata/18/18e8cfb11be6ab74aa27444da11205e8.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/18/18eb894d53ff491408b69602eb959000
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/18/18eb894d53ff491408b69602eb959000
+      projectPath: Library/metadata/18/18eb894d53ff491408b69602eb959000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/18/18eb894d53ff491408b69602eb959000.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/18/18eb894d53ff491408b69602eb959000.info
+      projectPath: Library/metadata/18/18eb894d53ff491408b69602eb959000.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      projectPath: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+      projectPath: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+      projectPath: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+      projectPath: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/23/23c8bee69b591054094d32918f98facd
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/23/23c8bee69b591054094d32918f98facd
+      projectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+      projectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      projectPath: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+      projectPath: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      projectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      projectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      projectPath: Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+      projectPath: Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/63/636d33ae594884e7d80b569f429d245d
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/63/636d33ae594884e7d80b569f429d245d
+      projectPath: Library/metadata/63/636d33ae594884e7d80b569f429d245d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
+      projectPath: Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/66/66da555d9ce961d448d026ba0354ee79
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/66/66da555d9ce961d448d026ba0354ee79
+      projectPath: Library/metadata/66/66da555d9ce961d448d026ba0354ee79
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/66/66da555d9ce961d448d026ba0354ee79.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/66/66da555d9ce961d448d026ba0354ee79.info
+      projectPath: Library/metadata/66/66da555d9ce961d448d026ba0354ee79.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      projectPath: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+      projectPath: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/6a/6a77906ffbd364d42b8513357ccd07ba
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/6a/6a77906ffbd364d42b8513357ccd07ba
+      projectPath: Library/metadata/6a/6a77906ffbd364d42b8513357ccd07ba
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      projectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+      projectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/83/832c004e812aa6b4483fa5cc0f538406
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/83/832c004e812aa6b4483fa5cc0f538406
+      projectPath: Library/metadata/83/832c004e812aa6b4483fa5cc0f538406
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/83/832c004e812aa6b4483fa5cc0f538406.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/83/832c004e812aa6b4483fa5cc0f538406.info
+      projectPath: Library/metadata/83/832c004e812aa6b4483fa5cc0f538406.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/86/8643f50b32dc84c47b4a5326edf71841
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/86/8643f50b32dc84c47b4a5326edf71841
+      projectPath: Library/metadata/86/8643f50b32dc84c47b4a5326edf71841
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      projectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+      projectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/96/9695a955f8993334c925c9332354bb69
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/96/9695a955f8993334c925c9332354bb69
+      projectPath: Library/metadata/96/9695a955f8993334c925c9332354bb69
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/96/9695a955f8993334c925c9332354bb69.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/96/9695a955f8993334c925c9332354bb69.info
+      projectPath: Library/metadata/96/9695a955f8993334c925c9332354bb69.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      projectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+      projectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/9b/9b4c19b9d95c52848ab6e2886ac012e1
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/9b/9b4c19b9d95c52848ab6e2886ac012e1
+      projectPath: Library/metadata/9b/9b4c19b9d95c52848ab6e2886ac012e1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      projectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      projectPath: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      projectPath: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      projectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+      projectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      projectPath: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+      projectPath: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      projectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+      projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      projectPath: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+      projectPath: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+      projectPath: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471.info
+      projectPath: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+      projectPath: Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/ce/cedcbd7c20f70af40b16f7f3583b35d8
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/ce/cedcbd7c20f70af40b16f7f3583b35d8
+      projectPath: Library/metadata/ce/cedcbd7c20f70af40b16f7f3583b35d8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/ce/cedcbd7c20f70af40b16f7f3583b35d8.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/ce/cedcbd7c20f70af40b16f7f3583b35d8.info
+      projectPath: Library/metadata/ce/cedcbd7c20f70af40b16f7f3583b35d8.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      projectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+      projectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/d5/d5ef1091df99b8d439302d9c4c6f09b8
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/d5/d5ef1091df99b8d439302d9c4c6f09b8
+      projectPath: Library/metadata/d5/d5ef1091df99b8d439302d9c4c6f09b8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/d5/d5ef1091df99b8d439302d9c4c6f09b8.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/d5/d5ef1091df99b8d439302d9c4c6f09b8.info
+      projectPath: Library/metadata/d5/d5ef1091df99b8d439302d9c4c6f09b8.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      projectPath: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+      projectPath: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      projectPath: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+      projectPath: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/f9/f99bbef1c54c5e34781f4c5bd2d83d95
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/f9/f99bbef1c54c5e34781f4c5bd2d83d95
+      projectPath: Library/metadata/f9/f99bbef1c54c5e34781f4c5bd2d83d95
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      projectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+      projectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      projectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+      fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+      projectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 12decfc2f9b4e8cdb002c8fd94d2ffcc87d073f0
     mergeA: f31c619368ade1988a0496e44377133124f90e36
     mergeB: b31559cbf337dbc7737e22f2e54e10c9faa3d0e3
