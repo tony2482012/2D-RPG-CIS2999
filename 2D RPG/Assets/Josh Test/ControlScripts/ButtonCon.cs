@@ -18,7 +18,11 @@ public class ButtonCon : MonoBehaviour {
 	void OnMouseDown()
 	{
 		//Debug.Log ("button clicked");
-		Battleflow.attButSelected = "y";
+		if (gameObject.name == "Fireball Button") {
+			Battleflow.attButSelected = "y";
+		} else if (gameObject.name == "Defense Button") {
+			
+		}
 
 	}
 }
