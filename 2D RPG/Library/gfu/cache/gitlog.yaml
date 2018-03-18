@@ -11,10 +11,22 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-18T14:42:53.7209405-04:00
-  lastVerifiedAtString: 2018-03-18T14:42:53.7209405-04:00
+  lastUpdatedAtString: 2018-03-18T14:43:18.5043939-04:00
+  lastVerifiedAtString: 2018-03-18T14:43:18.5043939-04:00
   initializedAtString: 2018-03-18T14:34:06.4413454-04:00
   log:
+  - commitID: e51c740b4fa819ff10a9a69f7d281acad91a60a9
+    mergeA: af4eb6beacfb98f7d1f0f33506590e0011182751
+    mergeB: cb385bb97fdde122258998adf5282d32f3202d63
+    authorName: JJBunnell
+    authorEmail: JJBunnell@oakland.edu
+    commitEmail: JJBunnell@oakland.edu
+    commitName: JJBunnell
+    summary: Merge branch 'master' of https://github.com/tony2482012/2D-RPG-CIS2999
+    description: Merge branch 'master' of https://github.com/tony2482012/2D-RPG-CIS2999
+    timeString: 2018-03-18T14:43:15.0000000-04:00
+    commitTimeString: 2018-03-18T14:43:15.0000000-04:00
+    changes: []
   - commitID: af4eb6beacfb98f7d1f0f33506590e0011182751
     mergeA: 
     mergeB: 
@@ -116,6 +128,78 @@ MonoBehaviour:
     - path: 2D RPG\ProjectSettings\EditorBuildSettings.asset
       fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\ProjectSettings\EditorBuildSettings.asset
       projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: cb385bb97fdde122258998adf5282d32f3202d63
+    mergeA: ed425ca5649d093eaad03bf11fe48c1db94fdeb2
+    mergeB: d262846278c6f53a8b11a5773f38b080e254b823
+    authorName: Selena
+    authorEmail: shaidar2@oakland.edu
+    commitEmail: shaidar2@oakland.edu
+    commitName: Selena
+    summary: Merge branch 'master' of https://github.com/tony2482012/2D-RPG-CIS2999
+    description: Merge branch 'master' of https://github.com/tony2482012/2D-RPG-CIS2999
+    timeString: 2018-03-18T14:35:33.0000000-04:00
+    commitTimeString: 2018-03-18T14:35:33.0000000-04:00
+    changes: []
+  - commitID: ed425ca5649d093eaad03bf11fe48c1db94fdeb2
+    mergeA: 
+    mergeB: 
+    authorName: Selena
+    authorEmail: shaidar2@oakland.edu
+    commitEmail: shaidar2@oakland.edu
+    commitName: Selena
+    summary: n
+    description: n
+    timeString: 2018-03-18T14:35:26.0000000-04:00
+    commitTimeString: 2018-03-18T14:35:26.0000000-04:00
+    changes:
+    - path: 2D RPG\2D RPG.userprefs
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.userprefs
+      projectPath: 2D RPG.userprefs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\TestFolder.meta
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\TestFolder.meta
+      projectPath: Assets\TestFolder.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 2D RPG\Library\SpriteAtlasDatabase.asset
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\SpriteAtlasDatabase.asset
+      projectPath: Library\SpriteAtlasDatabase.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\assetDatabase3
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
       originalPath: 
       status: 3
       staged: 0
