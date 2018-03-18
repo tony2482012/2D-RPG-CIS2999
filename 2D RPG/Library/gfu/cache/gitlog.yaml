@@ -11,10 +11,154 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-18T13:24:49.6899320-04:00
-  lastVerifiedAtString: 2018-03-18T13:24:49.6899320-04:00
-  initializedAtString: 2018-03-18T13:11:21.8416944-04:00
+  lastUpdatedAtString: 2018-03-18T13:34:27.7382964-04:00
+  lastVerifiedAtString: 2018-03-18T13:34:27.7382964-04:00
+  initializedAtString: 2018-03-18T13:33:53.9479786-04:00
   log:
+  - commitID: c481d85a2e19ed07c0abcd68a17993d3da35e934
+    mergeA: 
+    mergeB: 
+    authorName: JJBunnell
+    authorEmail: JJBunnell@oakland.edu
+    commitEmail: JJBunnell@oakland.edu
+    commitName: JJBunnell
+    summary: Push
+    description: Push
+    timeString: 2018-03-18T13:27:08.0000000-04:00
+    commitTimeString: 2018-03-18T13:27:08.0000000-04:00
+    changes:
+    - path: 2D RPG\Assembly-CSharp-Editor.csproj
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp-Editor.csproj
+      projectPath: Assembly-CSharp-Editor.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assembly-CSharp.csproj
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\assetDatabase3
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\expandedItems
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\metadata\00\00000000000000005000000000000000
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000005000000000000000
+      projectPath: Library\metadata\00\00000000000000005000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\metadata\00\0000000000000000b000000000000000
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\0000000000000000b000000000000000
+      projectPath: Library\metadata\00\0000000000000000b000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\metadata\97\976977c6223672749a3c442ba0ac35dd.info
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\97\976977c6223672749a3c442ba0ac35dd.info
+      projectPath: Library\metadata\97\976977c6223672749a3c442ba0ac35dd.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 0857db7d45f874f05fc8461b44b1c86435526ecd
     mergeA: 
     mergeB: 

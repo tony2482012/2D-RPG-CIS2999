@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-18T13:24:31.1638557-04:00
-  lastVerifiedAtString: 2018-03-18T13:24:31.1638557-04:00
-  initializedAtString: 2018-03-18T13:12:33.0419887-04:00
+  lastUpdatedAtString: 2018-03-18T13:33:16.1534552-04:00
+  lastVerifiedAtString: 2018-03-18T13:33:16.1534552-04:00
+  initializedAtString: 2018-03-18T13:28:07.1359510-04:00
   entries:
   - path: 2D RPG\Assembly-CSharp-Editor.csproj
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp-Editor.csproj
@@ -27,23 +27,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
+  - path: 2D RPG\Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
     originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\assetDatabase3
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
+    status: 5
     staged: 0
   - path: 2D RPG\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
@@ -81,45 +69,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\metadata\00\00000000000000005000000000000000
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000005000000000000000
-    projectPath: Library\metadata\00\00000000000000005000000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\metadata\97\976977c6223672749a3c442ba0ac35dd.info
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\97\976977c6223672749a3c442ba0ac35dd.info
-    projectPath: Library\metadata\97\976977c6223672749a3c442ba0ac35dd.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
-    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
-    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
-    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
-    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+  - path: 2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
     staged: 0
