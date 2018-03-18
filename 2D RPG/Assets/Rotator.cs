@@ -12,5 +12,20 @@ public class Rotator : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		
+<<<<<<< HEAD:2D RPG/Assets/Rotator.cs
+=======
+		
+	}
+
+	void OnMouseDown()
+	{
+		//Debug.Log ("button clicked");
+		if (gameObject.name == "Fireball Button") {
+			Battleflow.attButSelected = "y";
+		} else if (gameObject.name == "Defense Button") {
+			
+		}
+
+>>>>>>> Josh's-Branch:2D RPG/Assets/Josh Test/ControlScripts/ButtonCon.cs
 	}
 }
