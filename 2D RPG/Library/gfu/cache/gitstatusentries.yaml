@@ -11,46 +11,72 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-03-18T14:11:15.4952391-04:00
+  lastVerifiedAtString: 2018-03-18T14:11:15.4952391-04:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-03-18T14:10:15.2580700-04:00
+  lastVerifiedAtString: 2018-03-18T14:12:43.6515920-04:00
+  initializedAtString: 2018-03-18T12:25:51.9619400-04:00
+  entries:
+  - path: 2D RPG/2D RPG.sln
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/2D RPG.sln
+    projectPath: 2D RPG.sln
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG/Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG/Library/assetDatabase3
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG/Library/gfu/cache/branches.yaml
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG/Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG/Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG/Library/gfu/cache/gituser.yaml
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+=======
   lastUpdatedAtString: 2018-03-18T14:05:30.1828556-04:00
   lastVerifiedAtString: 2018-03-18T14:05:30.1828556-04:00
+>>>>>>> 3a878649696b0ea90351fa9ede1db21b20155284
   initializedAtString: 2018-03-18T14:05:30.1828556-04:00
   entries:
-  - path: 2D RPG\Assembly-CSharp-Editor.csproj
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp-Editor.csproj
-    projectPath: Assembly-CSharp-Editor.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assembly-CSharp.csproj
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    status: 5
-    staged: 0
   - path: 2D RPG\Library\assetDatabase3
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
     projectPath: Library\assetDatabase3
@@ -60,6 +86,12 @@ MonoBehaviour:
   - path: 2D RPG\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -81,6 +113,8 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
+=======
   - path: 2D RPG\Library\gfu\cache\gituser.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
     projectPath: Library\gfu\cache\gituser.yaml
@@ -552,14 +586,17 @@ MonoBehaviour:
   - path: 2D RPG\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
     projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+>>>>>>> a382bee8e9a880e9290eaec7181496de789ffaa9
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
-    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+  - path: 2D RPG/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
     originalPath: 
     status: 3
+<<<<<<< HEAD
+=======
     staged: 0
   - path: 2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -572,4 +609,6 @@ MonoBehaviour:
     projectPath: Assets\TestFolder.meta
     originalPath: 
     status: 1
+>>>>>>> a382bee8e9a880e9290eaec7181496de789ffaa9
     staged: 0
+>>>>>>> 3a878649696b0ea90351fa9ede1db21b20155284
