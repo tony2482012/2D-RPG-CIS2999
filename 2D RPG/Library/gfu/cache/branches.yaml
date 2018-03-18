@@ -11,9 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-03-18T13:43:43.4556720-04:00
   lastVerifiedAtString: 2018-03-18T13:43:43.4651090-04:00
   initializedAtString: 2018-03-18T12:25:51.6658440-04:00
+=======
+  lastUpdatedAtString: 2018-03-14T12:47:04.6935590-04:00
+  lastVerifiedAtString: 2018-03-14T12:47:04.7261461-04:00
+  initializedAtString: 2018-03-14T12:38:19.0113927-04:00
+>>>>>>> parent of feaf80f... n
   gitConfigBranch:
     name: master
     remote:
@@ -23,6 +29,9 @@ MonoBehaviour:
     name: origin
     url: https://github.com/tony2482012/2D-RPG-CIS2999.git
   localBranches:
+  - name: Cody's-Branch
+    tracking: origin/Cody's-Branch
+    isActive: 0
   - name: master
     tracking: origin/master
     isActive: 1
@@ -30,19 +39,10 @@ MonoBehaviour:
   - name: origin/Cody's-Branch
     tracking: '[None]'
     isActive: 0
-  - name: origin/Elias
-    tracking: '[None]'
-    isActive: 0
   - name: origin/HEAD
     tracking: '[None]'
     isActive: 0
-  - name: origin/Josh's-Branch
-    tracking: '[None]'
-    isActive: 0
   - name: origin/master
-    tracking: '[None]'
-    isActive: 0
-  - name: origin/codys-branch-3/18
     tracking: '[None]'
     isActive: 0
   remotes:
@@ -55,8 +55,13 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - Cody's-Branch
     - master
     values:
+    - name: Cody's-Branch
+      remote:
+        name: origin
+        url: https://github.com/tony2482012/2D-RPG-CIS2999.git
     - name: master
       remote:
         name: origin
@@ -67,18 +72,11 @@ MonoBehaviour:
     subKeys:
     - Values:
       - Cody's-Branch
-      - Elias
       - HEAD
-      - Josh's-Branch
       - master
-      - codys-branch-3/18
     subKeyValues:
     - Values:
       - name: Cody's-Branch
-        remote:
-          name: origin
-          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
-      - name: Elias
         remote:
           name: origin
           url: https://github.com/tony2482012/2D-RPG-CIS2999.git
@@ -86,15 +84,7 @@ MonoBehaviour:
         remote:
           name: origin
           url: https://github.com/tony2482012/2D-RPG-CIS2999.git
-      - name: Josh's-Branch
-        remote:
-          name: origin
-          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
       - name: master
-        remote:
-          name: origin
-          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
-      - name: codys-branch-3/18
         remote:
           name: origin
           url: https://github.com/tony2482012/2D-RPG-CIS2999.git
