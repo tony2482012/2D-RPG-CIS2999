@@ -63,6 +63,7 @@
      <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\Trigger.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\ArcherControl.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\Battleflow.cs" />
+     <Compile Include="Assets\Josh Test\ControlScripts\ButtonCon.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\DamTextControl.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\DragonControl.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\EnemyControl.cs" />
