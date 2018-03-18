@@ -17,7 +17,7 @@ public class CollectableBounce : MonoBehaviour
 	/// <summary>
 	/// One scale value to retain aspect ratio	
 	/// </summary>
-	private float ScaleXY = 1.0f;
+	private float ScaleXY = 3.0f;
 
 	/// <summary>
 	/// The objects initial scale value 
@@ -62,7 +62,7 @@ public class CollectableBounce : MonoBehaviour
 
 	void OnTriggerEnter2D(Collider2D collider)
 	{
-		if(collider.gameObject.name == "PlayerCharacter")
+		//if(collider.gameObject.name == "PlayerCharacter")
 		{
 			Destroy(gameObject);
 		}

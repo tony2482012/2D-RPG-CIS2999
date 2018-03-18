@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 9b4c19b9d95c52848ab6e2886ac012e1
 folderAsset: yes
 timeCreated: 1518031660
+=======
+guid: aef1d747289420f48802532cfb2f4dca
+folderAsset: yes
+timeCreated: 1520783385
+>>>>>>> Cody's-Branch
 licenseType: Free
 DefaultImporter:
   externalObjects: {}
