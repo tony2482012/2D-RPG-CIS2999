@@ -11,40 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-18T13:36:18.0935475-04:00
-  lastVerifiedAtString: 2018-03-18T13:36:19.1306195-04:00
+  lastUpdatedAtString: 2018-03-18T13:39:20.3248733-04:00
+  lastVerifiedAtString: 2018-03-18T13:39:21.1228806-04:00
   initializedAtString: 2018-03-18T13:35:04.2245802-04:00
   entries:
-  - path: 2D RPG\Assembly-CSharp.csproj
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Rotator.cs
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Rotator.cs
-    projectPath: Assets\Rotator.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: 2D RPG\Assets\Rotator.cs.meta
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Rotator.cs.meta
-    projectPath: Assets\Rotator.cs.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: 2D RPG\Library\assetDatabase3
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
   - path: 2D RPG\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -72,6 +42,12 @@ MonoBehaviour:
   - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     status: 3
     staged: 0
