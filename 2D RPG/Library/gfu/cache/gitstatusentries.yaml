@@ -11,79 +11,559 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-19T09:06:33.7473406-04:00
-  lastVerifiedAtString: 2018-03-19T09:06:33.7473406-04:00
+  lastUpdatedAtString: 2018-03-19T09:08:26.7046082-04:00
+  lastVerifiedAtString: 2018-03-19T09:08:26.7046082-04:00
   initializedAtString: 2018-03-19T09:06:32.4952032-04:00
   entries:
-  - path: 2D RPG\Assembly-CSharp-Editor.csproj
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp-Editor.csproj
-    projectPath: Assembly-CSharp-Editor.csproj
+  - path: .gitignore
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\.gitignore
+    projectPath: ..\.gitignore
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Assembly-CSharp.csproj
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: 2D RPG\2D RPG.userprefs
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.userprefs
+    projectPath: 2D RPG.userprefs
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\assetDatabase3
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
+  - path: 2D RPG\Library\metadata\f9\f99e7fb07e6310448b70b0cd98166792.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\f9\f99e7fb07e6310448b70b0cd98166792.info
+    projectPath: Library\metadata\f9\f99e7fb07e6310448b70b0cd98166792.info
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: 2D RPG\Library\metadata\f9\f9d629d27cb1ad24e8e8873d3b8fd9d3
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\f9\f9d629d27cb1ad24e8e8873d3b8fd9d3
+    projectPath: Library\metadata\f9\f9d629d27cb1ad24e8e8873d3b8fd9d3
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
+  - path: 2D RPG\Library\metadata\f9\f9d629d27cb1ad24e8e8873d3b8fd9d3.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\f9\f9d629d27cb1ad24e8e8873d3b8fd9d3.info
+    projectPath: Library\metadata\f9\f9d629d27cb1ad24e8e8873d3b8fd9d3.info
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
+  - path: 2D RPG\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+  - path: 2D RPG\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
+  - path: 2D RPG\Library\metadata\fa\fa0067a4e8595624e9e4ea5e1caf4531
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa0067a4e8595624e9e4ea5e1caf4531
+    projectPath: Library\metadata\fa\fa0067a4e8595624e9e4ea5e1caf4531
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
+  - path: 2D RPG\Library\metadata\fa\fa0067a4e8595624e9e4ea5e1caf4531.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa0067a4e8595624e9e4ea5e1caf4531.info
+    projectPath: Library\metadata\fa\fa0067a4e8595624e9e4ea5e1caf4531.info
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG\Library\metadata\00\00000000000000005000000000000000
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000005000000000000000
-    projectPath: Library\metadata\00\00000000000000005000000000000000
+  - path: 2D RPG\Library\metadata\fa\fa1c7d673fc00da4dbbaa3891a3a5ad0
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa1c7d673fc00da4dbbaa3891a3a5ad0
+    projectPath: Library\metadata\fa\fa1c7d673fc00da4dbbaa3891a3a5ad0
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG\Library\metadata\00\0000000000000000b000000000000000
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\0000000000000000b000000000000000
-    projectPath: Library\metadata\00\0000000000000000b000000000000000
+  - path: 2D RPG\Library\metadata\fa\fa1c7d673fc00da4dbbaa3891a3a5ad0.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa1c7d673fc00da4dbbaa3891a3a5ad0.info
+    projectPath: Library\metadata\fa\fa1c7d673fc00da4dbbaa3891a3a5ad0.info
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: 2D RPG\Library\metadata\fa\fa3757ae89446b340b28a4e1e7538356
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa3757ae89446b340b28a4e1e7538356
+    projectPath: Library\metadata\fa\fa3757ae89446b340b28a4e1e7538356
     originalPath: 
-    status: 3
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fa\fa3757ae89446b340b28a4e1e7538356.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa3757ae89446b340b28a4e1e7538356.info
+    projectPath: Library\metadata\fa\fa3757ae89446b340b28a4e1e7538356.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fa\fa5186acc482980428396f0f7ba543a5
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa5186acc482980428396f0f7ba543a5
+    projectPath: Library\metadata\fa\fa5186acc482980428396f0f7ba543a5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fa\fa5186acc482980428396f0f7ba543a5.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa5186acc482980428396f0f7ba543a5.info
+    projectPath: Library\metadata\fa\fa5186acc482980428396f0f7ba543a5.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fa\fa5747ffd37bfd74792733fe8a2cfdbc
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa5747ffd37bfd74792733fe8a2cfdbc
+    projectPath: Library\metadata\fa\fa5747ffd37bfd74792733fe8a2cfdbc
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fa\fa5747ffd37bfd74792733fe8a2cfdbc.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa5747ffd37bfd74792733fe8a2cfdbc.info
+    projectPath: Library\metadata\fa\fa5747ffd37bfd74792733fe8a2cfdbc.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fa\fa63d88c8199c4447a1312e9eff901f6
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa63d88c8199c4447a1312e9eff901f6
+    projectPath: Library\metadata\fa\fa63d88c8199c4447a1312e9eff901f6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fa\fa63d88c8199c4447a1312e9eff901f6.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fa63d88c8199c4447a1312e9eff901f6.info
+    projectPath: Library\metadata\fa\fa63d88c8199c4447a1312e9eff901f6.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fa\fae39cb41b376544cad8fdec78aab869
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fae39cb41b376544cad8fdec78aab869
+    projectPath: Library\metadata\fa\fae39cb41b376544cad8fdec78aab869
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fa\fae39cb41b376544cad8fdec78aab869.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fa\fae39cb41b376544cad8fdec78aab869.info
+    projectPath: Library\metadata\fa\fae39cb41b376544cad8fdec78aab869.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fb34ca8a2cd1b8946a78cd644b6990cd
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fb34ca8a2cd1b8946a78cd644b6990cd
+    projectPath: Library\metadata\fb\fb34ca8a2cd1b8946a78cd644b6990cd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fb34ca8a2cd1b8946a78cd644b6990cd.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fb34ca8a2cd1b8946a78cd644b6990cd.info
+    projectPath: Library\metadata\fb\fb34ca8a2cd1b8946a78cd644b6990cd.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fb34ca8a2cd1b8946a78cd644b6990cd.resource
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fb34ca8a2cd1b8946a78cd644b6990cd.resource
+    projectPath: Library\metadata\fb\fb34ca8a2cd1b8946a78cd644b6990cd.resource
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fb59a90f681fe1641a94fd4775f0c325
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fb59a90f681fe1641a94fd4775f0c325
+    projectPath: Library\metadata\fb\fb59a90f681fe1641a94fd4775f0c325
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fb59a90f681fe1641a94fd4775f0c325.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fb59a90f681fe1641a94fd4775f0c325.info
+    projectPath: Library\metadata\fb\fb59a90f681fe1641a94fd4775f0c325.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fb7c4907b5f183e40b156b1c165e10c2
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fb7c4907b5f183e40b156b1c165e10c2
+    projectPath: Library\metadata\fb\fb7c4907b5f183e40b156b1c165e10c2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fb7c4907b5f183e40b156b1c165e10c2.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fb7c4907b5f183e40b156b1c165e10c2.info
+    projectPath: Library\metadata\fb\fb7c4907b5f183e40b156b1c165e10c2.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fbb92439405873142ab9a50da2afbcae
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fbb92439405873142ab9a50da2afbcae
+    projectPath: Library\metadata\fb\fbb92439405873142ab9a50da2afbcae
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fbb92439405873142ab9a50da2afbcae.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fbb92439405873142ab9a50da2afbcae.info
+    projectPath: Library\metadata\fb\fbb92439405873142ab9a50da2afbcae.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fbc1eed0ff5e07644b4f99ba064859a4
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fbc1eed0ff5e07644b4f99ba064859a4
+    projectPath: Library\metadata\fb\fbc1eed0ff5e07644b4f99ba064859a4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fbc1eed0ff5e07644b4f99ba064859a4.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fbc1eed0ff5e07644b4f99ba064859a4.info
+    projectPath: Library\metadata\fb\fbc1eed0ff5e07644b4f99ba064859a4.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fbc94e9d6e3c89a4b9d13161c37b4ef1
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fbc94e9d6e3c89a4b9d13161c37b4ef1
+    projectPath: Library\metadata\fb\fbc94e9d6e3c89a4b9d13161c37b4ef1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fbc94e9d6e3c89a4b9d13161c37b4ef1.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fbc94e9d6e3c89a4b9d13161c37b4ef1.info
+    projectPath: Library\metadata\fb\fbc94e9d6e3c89a4b9d13161c37b4ef1.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fbec070131c566141a14259d4820d89e
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fbec070131c566141a14259d4820d89e
+    projectPath: Library\metadata\fb\fbec070131c566141a14259d4820d89e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fb\fbec070131c566141a14259d4820d89e.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fb\fbec070131c566141a14259d4820d89e.info
+    projectPath: Library\metadata\fb\fbec070131c566141a14259d4820d89e.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fc3222c3d9c610a42a0dfb490fb14800
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fc3222c3d9c610a42a0dfb490fb14800
+    projectPath: Library\metadata\fc\fc3222c3d9c610a42a0dfb490fb14800
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fc3222c3d9c610a42a0dfb490fb14800.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fc3222c3d9c610a42a0dfb490fb14800.info
+    projectPath: Library\metadata\fc\fc3222c3d9c610a42a0dfb490fb14800.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fc38332038e7bb342b78a6dbccc45946
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fc38332038e7bb342b78a6dbccc45946
+    projectPath: Library\metadata\fc\fc38332038e7bb342b78a6dbccc45946
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fc38332038e7bb342b78a6dbccc45946.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fc38332038e7bb342b78a6dbccc45946.info
+    projectPath: Library\metadata\fc\fc38332038e7bb342b78a6dbccc45946.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fc4f6917d8b466b45ad8ec67a2950bc5
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fc4f6917d8b466b45ad8ec67a2950bc5
+    projectPath: Library\metadata\fc\fc4f6917d8b466b45ad8ec67a2950bc5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fc4f6917d8b466b45ad8ec67a2950bc5.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fc4f6917d8b466b45ad8ec67a2950bc5.info
+    projectPath: Library\metadata\fc\fc4f6917d8b466b45ad8ec67a2950bc5.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fc8f4e2872f7d384e9e6d5f472b419c9
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fc8f4e2872f7d384e9e6d5f472b419c9
+    projectPath: Library\metadata\fc\fc8f4e2872f7d384e9e6d5f472b419c9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fc8f4e2872f7d384e9e6d5f472b419c9.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fc8f4e2872f7d384e9e6d5f472b419c9.info
+    projectPath: Library\metadata\fc\fc8f4e2872f7d384e9e6d5f472b419c9.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fc90a0fdef794d94fba185115a883544
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fc90a0fdef794d94fba185115a883544
+    projectPath: Library\metadata\fc\fc90a0fdef794d94fba185115a883544
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fc90a0fdef794d94fba185115a883544.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fc90a0fdef794d94fba185115a883544.info
+    projectPath: Library\metadata\fc\fc90a0fdef794d94fba185115a883544.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fcd3584a10c6b484f8fa528e62dffdfd
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fcd3584a10c6b484f8fa528e62dffdfd
+    projectPath: Library\metadata\fc\fcd3584a10c6b484f8fa528e62dffdfd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fcd3584a10c6b484f8fa528e62dffdfd.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fcd3584a10c6b484f8fa528e62dffdfd.info
+    projectPath: Library\metadata\fc\fcd3584a10c6b484f8fa528e62dffdfd.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fce7b1098c1e6c14bacc037eb1315d77
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fce7b1098c1e6c14bacc037eb1315d77
+    projectPath: Library\metadata\fc\fce7b1098c1e6c14bacc037eb1315d77
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fce7b1098c1e6c14bacc037eb1315d77.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fce7b1098c1e6c14bacc037eb1315d77.info
+    projectPath: Library\metadata\fc\fce7b1098c1e6c14bacc037eb1315d77.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fcf79f12540216940b00234dec5bfaaa
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fcf79f12540216940b00234dec5bfaaa
+    projectPath: Library\metadata\fc\fcf79f12540216940b00234dec5bfaaa
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fc\fcf79f12540216940b00234dec5bfaaa.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fc\fcf79f12540216940b00234dec5bfaaa.info
+    projectPath: Library\metadata\fc\fcf79f12540216940b00234dec5bfaaa.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fd13892407506bd46b53267184411c0b
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fd13892407506bd46b53267184411c0b
+    projectPath: Library\metadata\fd\fd13892407506bd46b53267184411c0b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fd13892407506bd46b53267184411c0b.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fd13892407506bd46b53267184411c0b.info
+    projectPath: Library\metadata\fd\fd13892407506bd46b53267184411c0b.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fd23a0726fbd17047a66af218390bae8
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fd23a0726fbd17047a66af218390bae8
+    projectPath: Library\metadata\fd\fd23a0726fbd17047a66af218390bae8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fd23a0726fbd17047a66af218390bae8.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fd23a0726fbd17047a66af218390bae8.info
+    projectPath: Library\metadata\fd\fd23a0726fbd17047a66af218390bae8.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fd5a987d0df979d4aa8b8605504ba3f5
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fd5a987d0df979d4aa8b8605504ba3f5
+    projectPath: Library\metadata\fd\fd5a987d0df979d4aa8b8605504ba3f5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fd5a987d0df979d4aa8b8605504ba3f5.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fd5a987d0df979d4aa8b8605504ba3f5.info
+    projectPath: Library\metadata\fd\fd5a987d0df979d4aa8b8605504ba3f5.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fd7474bd4d665ab4a9023cb9bd5ed052
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fd7474bd4d665ab4a9023cb9bd5ed052
+    projectPath: Library\metadata\fd\fd7474bd4d665ab4a9023cb9bd5ed052
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fd7474bd4d665ab4a9023cb9bd5ed052.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fd7474bd4d665ab4a9023cb9bd5ed052.info
+    projectPath: Library\metadata\fd\fd7474bd4d665ab4a9023cb9bd5ed052.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fd8642aa762a90a4590cb70166b8e800
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fd8642aa762a90a4590cb70166b8e800
+    projectPath: Library\metadata\fd\fd8642aa762a90a4590cb70166b8e800
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fd8642aa762a90a4590cb70166b8e800.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fd8642aa762a90a4590cb70166b8e800.info
+    projectPath: Library\metadata\fd\fd8642aa762a90a4590cb70166b8e800.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fdaca1bc7076fb3449e706198f0131ec
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fdaca1bc7076fb3449e706198f0131ec
+    projectPath: Library\metadata\fd\fdaca1bc7076fb3449e706198f0131ec
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fdaca1bc7076fb3449e706198f0131ec.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fdaca1bc7076fb3449e706198f0131ec.info
+    projectPath: Library\metadata\fd\fdaca1bc7076fb3449e706198f0131ec.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fdb57e7a3945a3a479693a27b9977a0e
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fdb57e7a3945a3a479693a27b9977a0e
+    projectPath: Library\metadata\fd\fdb57e7a3945a3a479693a27b9977a0e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fdb57e7a3945a3a479693a27b9977a0e.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fdb57e7a3945a3a479693a27b9977a0e.info
+    projectPath: Library\metadata\fd\fdb57e7a3945a3a479693a27b9977a0e.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fdcac9340e915cb46be534359f862dbc
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fdcac9340e915cb46be534359f862dbc
+    projectPath: Library\metadata\fd\fdcac9340e915cb46be534359f862dbc
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fd\fdcac9340e915cb46be534359f862dbc.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fd\fdcac9340e915cb46be534359f862dbc.info
+    projectPath: Library\metadata\fd\fdcac9340e915cb46be534359f862dbc.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fe\fe871de9ec6fa524b895e1ca87eb826c
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe871de9ec6fa524b895e1ca87eb826c
+    projectPath: Library\metadata\fe\fe871de9ec6fa524b895e1ca87eb826c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fe\fe871de9ec6fa524b895e1ca87eb826c.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe871de9ec6fa524b895e1ca87eb826c.info
+    projectPath: Library\metadata\fe\fe871de9ec6fa524b895e1ca87eb826c.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fe\fe9567b6652f0584dacf4ef47a055fc9
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe9567b6652f0584dacf4ef47a055fc9
+    projectPath: Library\metadata\fe\fe9567b6652f0584dacf4ef47a055fc9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fe\fe9567b6652f0584dacf4ef47a055fc9.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fe9567b6652f0584dacf4ef47a055fc9.info
+    projectPath: Library\metadata\fe\fe9567b6652f0584dacf4ef47a055fc9.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fe\fea23e594f75e0743a5eaf80db0b8aea
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fea23e594f75e0743a5eaf80db0b8aea
+    projectPath: Library\metadata\fe\fea23e594f75e0743a5eaf80db0b8aea
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fe\fea23e594f75e0743a5eaf80db0b8aea.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fea23e594f75e0743a5eaf80db0b8aea.info
+    projectPath: Library\metadata\fe\fea23e594f75e0743a5eaf80db0b8aea.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+    projectPath: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+    projectPath: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ff0261c2e40f98542955bcb10926169f
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ff0261c2e40f98542955bcb10926169f
+    projectPath: Library\metadata\ff\ff0261c2e40f98542955bcb10926169f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ff0261c2e40f98542955bcb10926169f.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ff0261c2e40f98542955bcb10926169f.info
+    projectPath: Library\metadata\ff\ff0261c2e40f98542955bcb10926169f.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ff1935f8c1c7925448080e735ef9ad4e
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ff1935f8c1c7925448080e735ef9ad4e
+    projectPath: Library\metadata\ff\ff1935f8c1c7925448080e735ef9ad4e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ff1935f8c1c7925448080e735ef9ad4e.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ff1935f8c1c7925448080e735ef9ad4e.info
+    projectPath: Library\metadata\ff\ff1935f8c1c7925448080e735ef9ad4e.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ff31a001a0b101a41a61921a0e517774
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ff31a001a0b101a41a61921a0e517774
+    projectPath: Library\metadata\ff\ff31a001a0b101a41a61921a0e517774
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ff31a001a0b101a41a61921a0e517774.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ff31a001a0b101a41a61921a0e517774.info
+    projectPath: Library\metadata\ff\ff31a001a0b101a41a61921a0e517774.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ff8618ad2bf99404fb184b10dbff9fb8
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ff8618ad2bf99404fb184b10dbff9fb8
+    projectPath: Library\metadata\ff\ff8618ad2bf99404fb184b10dbff9fb8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ff8618ad2bf99404fb184b10dbff9fb8.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ff8618ad2bf99404fb184b10dbff9fb8.info
+    projectPath: Library\metadata\ff\ff8618ad2bf99404fb184b10dbff9fb8.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ffb5b4afe6bba3e45a47c6e4c640b780
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ffb5b4afe6bba3e45a47c6e4c640b780
+    projectPath: Library\metadata\ff\ffb5b4afe6bba3e45a47c6e4c640b780
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ffb5b4afe6bba3e45a47c6e4c640b780.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ffb5b4afe6bba3e45a47c6e4c640b780.info
+    projectPath: Library\metadata\ff\ffb5b4afe6bba3e45a47c6e4c640b780.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ffb5b4afe6bba3e45a47c6e4c640b780.resource
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ffb5b4afe6bba3e45a47c6e4c640b780.resource
+    projectPath: Library\metadata\ff\ffb5b4afe6bba3e45a47c6e4c640b780.resource
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ffe6b65378b16f64383e637a8ac804b1
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ffe6b65378b16f64383e637a8ac804b1
+    projectPath: Library\metadata\ff\ffe6b65378b16f64383e637a8ac804b1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\metadata\ff\ffe6b65378b16f64383e637a8ac804b1.info
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\ff\ffe6b65378b16f64383e637a8ac804b1.info
+    projectPath: Library\metadata\ff\ffe6b65378b16f64383e637a8ac804b1.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\.gitignore
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\.gitignore
+    projectPath: .gitignore
+    originalPath: 
+    status: 1
     staged: 0
