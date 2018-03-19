@@ -11,10 +11,28 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-18T14:44:36.6539946-04:00
-  lastVerifiedAtString: 2018-03-18T14:47:54.3736651-04:00
-  initializedAtString: 2018-03-18T14:34:06.7055609-04:00
+  lastUpdatedAtString: 2018-03-19T09:06:33.7473406-04:00
+  lastVerifiedAtString: 2018-03-19T09:06:33.7473406-04:00
+  initializedAtString: 2018-03-19T09:06:32.4952032-04:00
   entries:
+  - path: 2D RPG\Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Assembly-CSharp.csproj
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\assetDatabase3
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
   - path: 2D RPG\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -36,6 +54,36 @@ MonoBehaviour:
   - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000005000000000000000
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000005000000000000000
+    projectPath: Library\metadata\00\00000000000000005000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\0000000000000000b000000000000000
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
     staged: 0

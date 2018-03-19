@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -1697640569, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-18T14:18:08.7418332-04:00
-  lastVerifiedAtString: 2018-03-18T14:42:06.7470121-04:00
-  initializedAtString: 2018-03-18T14:34:12.1385076-04:00
+  lastUpdatedAtString: 2018-03-18T14:53:55.5637720-04:00
+  lastVerifiedAtString: 2018-03-19T09:06:50.0253898-04:00
+  initializedAtString: 2018-03-18T14:53:55.5532412-04:00
   gitName: JJBunnell
   gitEmail: JJBunnell@oakland.edu
