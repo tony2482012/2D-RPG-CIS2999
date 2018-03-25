@@ -10,8 +10,10 @@ public class PlayerController : MonoBehaviour {
     private bool PlayerMoving;
     private Vector2 lastMove;
 
-	// Anthony Yono
-	void Start ()
+   
+
+    // Anthony Yono
+    void Start ()
     {
         anim = GetComponent<Animator>();
 	}

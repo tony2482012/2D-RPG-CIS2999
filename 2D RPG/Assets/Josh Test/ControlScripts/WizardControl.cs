@@ -13,11 +13,26 @@ public class WizardControl : MonoBehaviour {
 	public Transform damTextObj;
 	public Transform fireballObj;
 
+    //to connect with the StateCode file
+    [SerializeField]
+    private StatCode hp;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+
+    [SerializeField]
+    private float initHealth = 100;
+
+    [SerializeField]
+    private StatCode mana;
+
+    [SerializeField]
+    private float initMana = 100;
+
+    // Use this for initialization
+    void Start () {
+        hp.Initialized(initHealth, initHealth);
+        
+        
+    }
 	
 	// Update is called once per frame
 	void Update () 
@@ -31,12 +46,15 @@ public class WizardControl : MonoBehaviour {
 		}
 
 		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 1))  {
-			
-			Battleflow.currentDamage = 30;
+
+            
+            Battleflow.currentDamage = 30;
 			GetComponent<Animator> ().SetTrigger ("WizardMagic1");
 			Instantiate (fireballObj, new Vector2 (7.0f, -.21f), fireballObj.rotation);
 			StartCoroutine (returnWizard ());
-		}
+            hp.MyCurrentValue -= 30;
+           
+        }
 
 
 	}
