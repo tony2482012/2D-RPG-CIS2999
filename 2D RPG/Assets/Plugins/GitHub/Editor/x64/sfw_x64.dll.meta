@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: fe5abeadcbe591e4fa9107fbc02f3998
+<<<<<<< HEAD
 timeCreated: 1493304330
 licenseType: Pro
+=======
+>>>>>>> 5d0f6a8430bf1ca922de3ac7683d56318d44f6d5
 PluginImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -11,6 +14,7 @@ PluginImporter:
   isOverridable: 0
   platformData:
   - first:
+<<<<<<< HEAD
       '': Any
     second:
       enabled: 0
@@ -58,6 +62,12 @@ PluginImporter:
         Exclude WindowsStoreApps: 1
         Exclude iOS: 1
         Exclude tvOS: 1
+=======
+      Any: 
+    second:
+      enabled: 0
+      settings: {}
+>>>>>>> 5d0f6a8430bf1ca922de3ac7683d56318d44f6d5
   - first:
       Editor: Editor
     second:
@@ -65,6 +75,7 @@ PluginImporter:
       settings:
         CPU: x86_64
         DefaultValueInitialized: true
+<<<<<<< HEAD
         OS: Windows
   - first:
       Facebook: Win
@@ -144,6 +155,8 @@ PluginImporter:
       settings:
         CompileFlags: 
         FrameworkDependencies: 
+=======
+>>>>>>> 5d0f6a8430bf1ca922de3ac7683d56318d44f6d5
   userData: 
   assetBundleName: 
   assetBundleVariant: 
