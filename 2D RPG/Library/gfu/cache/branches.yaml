@@ -11,9 +11,20 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-03-28T14:32:40.4685200-04:00
   lastVerifiedAtString: 2018-03-28T14:32:40.6788301-04:00
   initializedAtString: 2018-03-28T14:18:26.3623148-04:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-03-28T14:30:43.7056413-04:00
+  lastVerifiedAtString: 2018-03-28T14:30:43.7838496-04:00
+=======
+  lastUpdatedAtString: 2018-03-28T13:16:53.2510430-04:00
+  lastVerifiedAtString: 2018-03-28T13:16:53.2751070-04:00
+>>>>>>> cc77812707209792bed79dab6352f296c28c5829
+  initializedAtString: 2018-03-28T13:16:28.0999088-04:00
+>>>>>>> fa528a5ecad7aaefa3fdf667339035e031faaa26
   gitConfigBranch:
     name: codys-branch-3/18
     remote:
