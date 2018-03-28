@@ -11,9 +11,20 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-03-28T14:55:07.9336606-04:00
   lastVerifiedAtString: 2018-03-28T14:55:08.0373151-04:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-03-28T14:55:28.4847133-04:00
+  lastVerifiedAtString: 2018-03-28T14:55:28.5839777-04:00
+  initializedAtString: 2018-03-28T13:16:28.0999088-04:00
+=======
+  lastUpdatedAtString: 2018-03-28T14:52:17.7614334-04:00
+  lastVerifiedAtString: 2018-03-28T14:52:17.7614334-04:00
+>>>>>>> f2b0e85ac0534084b74803d63ce39f27023864a3
   initializedAtString: 2018-03-28T14:43:18.5646477-04:00
+>>>>>>> f9c69bd702af0ede9e58e133b10d93848593ded0
   gitConfigBranch:
     name: codys-branch-3/18
     remote:
@@ -36,9 +47,21 @@ MonoBehaviour:
     tracking: origin/codys-branch-3/18
     isActive: 1
   remoteBranches:
+<<<<<<< HEAD
+  - name: origin/Cody's-Branch
+    tracking: '[None]'
+    isActive: 0
   - name: origin/cut-from-cody
     tracking: '[None]'
     isActive: 0
+  - name: origin/Elias
+    tracking: '[None]'
+    isActive: 0
+=======
+  - name: origin/cut-from-cody
+    tracking: '[None]'
+    isActive: 0
+>>>>>>> f9c69bd702af0ede9e58e133b10d93848593ded0
   - name: origin/HEAD
     tracking: '[None]'
     isActive: 0
@@ -87,17 +110,37 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+<<<<<<< HEAD
+      - Cody's-Branch
       - cut-from-cody
+      - Elias
+=======
+      - cut-from-cody
+>>>>>>> f9c69bd702af0ede9e58e133b10d93848593ded0
       - HEAD
       - Josh's-Branch
       - master
       - codys-branch-3/18
     subKeyValues:
     - Values:
+<<<<<<< HEAD
+      - name: Cody's-Branch
+        remote:
+          name: origin
+          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+=======
+>>>>>>> f9c69bd702af0ede9e58e133b10d93848593ded0
       - name: cut-from-cody
         remote:
           name: origin
           url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+<<<<<<< HEAD
+      - name: Elias
+        remote:
+          name: origin
+          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+=======
+>>>>>>> f9c69bd702af0ede9e58e133b10d93848593ded0
       - name: HEAD
         remote:
           name: origin
