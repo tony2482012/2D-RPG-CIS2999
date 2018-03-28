@@ -11,13 +11,73 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-28T13:16:55.8686906-04:00
-  lastVerifiedAtString: 2018-03-28T13:16:55.8686906-04:00
+  lastUpdatedAtString: 2018-03-28T14:22:00.0527093-04:00
+  lastVerifiedAtString: 2018-03-28T14:22:01.9132260-04:00
   initializedAtString: 2018-03-28T13:16:55.8149856-04:00
   entries:
+  - path: 2D RPG\2D RPG.userprefs
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.userprefs
+    projectPath: 2D RPG.userprefs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Assembly-CSharp.csproj
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG\Library\assetDatabase3
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
   - path: 2D RPG\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -27,9 +87,33 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: 2D RPG\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     status: 3
+    staged: 0
+  - path: 2D RPG\Assets\CameraController.cs
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\CameraController.cs
+    projectPath: Assets\CameraController.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: 2D RPG\Assets\CameraController.cs.meta
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\CameraController.cs.meta
+    projectPath: Assets\CameraController.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: 2D RPG\Assets\InventoryController.cs
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\InventoryController.cs
+    projectPath: Assets\InventoryController.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: 2D RPG\Assets\InventoryController.cs.meta
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\InventoryController.cs.meta
+    projectPath: Assets\InventoryController.cs.meta
+    originalPath: 
+    status: 1
     staged: 0
