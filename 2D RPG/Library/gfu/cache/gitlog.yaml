@@ -11,10 +11,28 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-28T14:04:16.5402724-04:00
-  lastVerifiedAtString: 2018-03-28T14:04:16.5402724-04:00
-  initializedAtString: 2018-03-28T14:04:16.5402724-04:00
+  lastUpdatedAtString: 2018-03-28T15:11:05.6317497-04:00
+  lastVerifiedAtString: 2018-03-28T15:11:05.6317497-04:00
+  initializedAtString: 2018-03-28T15:11:05.6317497-04:00
   log:
+  - commitID: 139e908e599be398a9d44c391c88801e02b318b2
+    mergeA: 
+    mergeB: 
+    authorName: elias
+    authorEmail: equmsieh@oakland.edu
+    commitEmail: equmsieh@oakland.edu
+    commitName: elias
+    summary: elias
+    description: elias
+    timeString: 2018-03-28T14:15:41.0000000-04:00
+    commitTimeString: 2018-03-28T14:15:41.0000000-04:00
+    changes:
+    - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 596ae8149930e5dde3c76db175712d50a65e4059
     mergeA: a6d8a46be64f7c76a9851d3874d464db85288106
     mergeB: 5d0f6a8430bf1ca922de3ac7683d56318d44f6d5
