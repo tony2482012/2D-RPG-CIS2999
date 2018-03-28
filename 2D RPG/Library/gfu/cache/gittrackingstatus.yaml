@@ -11,8 +11,32 @@ MonoBehaviour:
   m_Script: {fileID: -7427361, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-03-28T14:32:16.2407979-04:00
   lastVerifiedAtString: 2018-03-28T14:44:37.3746496-04:00
   initializedAtString: 2018-03-28T13:16:54.4444484-04:00
   ahead: 0
   behind: 0
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-03-28T14:32:59.9156077-04:00
+  lastVerifiedAtString: 2018-03-28T14:33:54.6163679-04:00
+  initializedAtString: 2018-03-28T14:18:41.9037696-04:00
+  ahead: 4
+  behind: 3
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-03-28T14:30:43.8560408-04:00
+  lastVerifiedAtString: 2018-03-28T14:30:50.8086799-04:00
+  initializedAtString: 2018-03-28T13:16:54.4444484-04:00
+  ahead: 1
+  behind: 4
+=======
+  lastUpdatedAtString: 2018-03-18T13:05:15.5445269-04:00
+  lastVerifiedAtString: 2018-03-28T13:16:55.9027168-04:00
+  initializedAtString: 2018-03-28T13:16:54.4444484-04:00
+  ahead: 0
+  behind: 0
+>>>>>>> cc77812707209792bed79dab6352f296c28c5829
+>>>>>>> fa528a5ecad7aaefa3fdf667339035e031faaa26
+>>>>>>> e0dfb38c927b2013a2a5e8a3c7979309d440ad54
