@@ -46,12 +46,11 @@ public class Battleflow : MonoBehaviour {
 		if (spawn2 >= 30) {
 			int enemyType = rnd.Next (1, 100);
 
-			if (enemyType >= 50) {
+			if (enemyType >= 100) {
 				Instantiate (snakeObj, new Vector2 (-3.0f, -1.5f), snakeObj.rotation);
-			} else if (enemyType < 50) {
-				Instantiate (snakeObj, new Vector2 (-3.0f, -1.5f), snakeObj.rotation);
+			} else if (enemyType < 100) {
+				Instantiate (slimeObj, new Vector2 (-3.0f, -1.5f), slimeObj.rotation);
 			}
-				
 				enemysOnScreen++;
 		}
 		if (spawn3 >= 80) {
