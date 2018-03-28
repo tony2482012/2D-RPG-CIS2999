@@ -395,7 +395,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   snakeObj: {fileID: 4460876360229530, guid: b263d338d9651b242a9d57052851cfb6, type: 2}
-  slimeObj: {fileID: 4322433061907428, guid: 7c7937892b173b94e8e851853617f9ab, type: 2}
+  slimeObj: {fileID: 4122253437519788, guid: 7c7937892b173b94e8e851853617f9ab, type: 2}
   enemy1Turn: 2
   enemy2Tur: 3
   enemy3Turn: 4
