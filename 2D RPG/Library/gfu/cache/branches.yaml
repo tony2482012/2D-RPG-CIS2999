@@ -11,14 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-28T14:32:40.4685200-04:00
-  lastVerifiedAtString: 2018-03-28T14:32:40.6788301-04:00
-  initializedAtString: 2018-03-28T14:18:26.3623148-04:00
+  lastUpdatedAtString: 2018-03-28T14:43:49.6044249-04:00
+  lastVerifiedAtString: 2018-03-28T14:43:49.6710221-04:00
+  initializedAtString: 2018-03-28T14:43:18.5646477-04:00
   gitConfigBranch:
-    name: codys-branch-3/18
+    name: cut-from-cody
     remote:
-      name: origin
-      url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+      name: 
+      url: 
   gitConfigRemote:
     name: origin
     url: https://github.com/tony2482012/2D-RPG-CIS2999.git
@@ -26,12 +26,15 @@ MonoBehaviour:
   - name: Cody's-Branch
     tracking: origin/Cody's-Branch
     isActive: 0
+  - name: cut-from-cody
+    tracking: '[None]'
+    isActive: 1
   - name: master
     tracking: origin/master
     isActive: 0
   - name: codys-branch-3/18
     tracking: origin/codys-branch-3/18
-    isActive: 1
+    isActive: 0
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
@@ -56,6 +59,7 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - Cody's-Branch
+    - cut-from-cody
     - master
     - codys-branch-3/18
     values:
@@ -63,6 +67,10 @@ MonoBehaviour:
       remote:
         name: origin
         url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+    - name: cut-from-cody
+      remote:
+        name: 
+        url: 
     - name: master
       remote:
         name: origin

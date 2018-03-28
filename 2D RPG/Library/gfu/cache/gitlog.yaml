@@ -11,10 +11,100 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-28T14:31:48.7131231-04:00
-  lastVerifiedAtString: 2018-03-28T14:31:48.7131231-04:00
-  initializedAtString: 2018-03-28T14:19:12.3338171-04:00
+  lastUpdatedAtString: 2018-03-28T14:43:57.5001234-04:00
+  lastVerifiedAtString: 2018-03-28T14:43:57.5001234-04:00
+  initializedAtString: 2018-03-28T14:43:57.5001234-04:00
   log:
+  - commitID: 294094917fb3b6fa11426e392898d5123364febb
+    mergeA: 
+    mergeB: 
+    authorName: tony2482012
+    authorEmail: 35173103+tony2482012@users.noreply.github.com
+    commitEmail: 35173103+tony2482012@users.noreply.github.com
+    commitName: tony2482012
+    summary: ant
+    description: ant
+    timeString: 2018-03-28T14:34:17.0000000-04:00
+    commitTimeString: 2018-03-28T14:34:17.0000000-04:00
+    changes:
+    - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: f374bac8ed0d35c51a7a02b42ad3747f1c3e5f59
+    mergeA: 
+    mergeB: 
+    authorName: tony2482012
+    authorEmail: 35173103+tony2482012@users.noreply.github.com
+    commitEmail: 35173103+tony2482012@users.noreply.github.com
+    commitName: tony2482012
+    summary: a
+    description: a
+    timeString: 2018-03-28T14:32:51.0000000-04:00
+    commitTimeString: 2018-03-28T14:32:51.0000000-04:00
+    changes:
+    - path: 2D RPG\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: e6a65b510063d83f67862c67809a13a7ccf88365
+    mergeA: 
+    mergeB: 
+    authorName: tony2482012
+    authorEmail: 35173103+tony2482012@users.noreply.github.com
+    commitEmail: 35173103+tony2482012@users.noreply.github.com
+    commitName: tony2482012
+    summary: a
+    description: a
+    timeString: 2018-03-28T14:32:40.0000000-04:00
+    commitTimeString: 2018-03-28T14:32:40.0000000-04:00
+    changes:
+    - path: 2D RPG\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 7355f0eb1e5ab94087b852a75ef75e8778083d2a
     mergeA: 
     mergeB: 
