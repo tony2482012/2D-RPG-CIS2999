@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-28T14:31:45.2875858-04:00
-  lastVerifiedAtString: 2018-03-28T14:31:45.2875858-04:00
+  lastUpdatedAtString: 2018-03-28T14:32:49.2033591-04:00
+  lastVerifiedAtString: 2018-03-28T14:32:49.4121663-04:00
   initializedAtString: 2018-03-28T14:18:42.4836239-04:00
   entries:
   - path: 2D RPG\Library\gfu\cache\branches.yaml
