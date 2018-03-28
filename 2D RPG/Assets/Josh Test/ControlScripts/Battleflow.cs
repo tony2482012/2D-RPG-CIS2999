@@ -9,6 +9,7 @@ using UnityEditor.SceneManagement;
 
 public class Battleflow : MonoBehaviour {
 	public Transform snakeObj;
+	public Transform slimeObj;
 	public int enemy1Turn = 2;
 	public int enemy2Tur = 3;
 	public int enemy3Turn = 4;
@@ -43,8 +44,15 @@ public class Battleflow : MonoBehaviour {
 			enemysOnScreen++;
 		}
 		if (spawn2 >= 30) {
-			Instantiate (snakeObj, new Vector2 (-3.0f, -1.5f), snakeObj.rotation);
-			enemysOnScreen++;
+			int enemyType = rnd.Next (1, 100);
+
+			if (enemyType >= 50) {
+				Instantiate (snakeObj, new Vector2 (-3.0f, -1.5f), snakeObj.rotation);
+			} else if (enemyType < 50) {
+				Instantiate (snakeObj, new Vector2 (-3.0f, -1.5f), snakeObj.rotation);
+			}
+				
+				enemysOnScreen++;
 		}
 		if (spawn3 >= 80) {
 			Instantiate (snakeObj, new Vector2 (-3.0f, -3.0f), snakeObj.rotation);

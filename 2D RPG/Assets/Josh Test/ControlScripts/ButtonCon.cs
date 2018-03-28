@@ -22,7 +22,12 @@ public class ButtonCon : MonoBehaviour {
 			Battleflow.attButSelected = "y";
 		} else if (gameObject.name == "Defense Button") {
 			//test for merge
+		} else if (gameObject.name == "Buff Button") {
+		
+		} else if (gameObject.name == "Heal Button") {
+		
 		}
+
 
 	}
 }
