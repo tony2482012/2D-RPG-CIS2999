@@ -113,6 +113,22 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &130877103 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1253672201360924, guid: 87d12c98f3bfae8478b13c7b9038c990,
+    type: 2}
+  m_PrefabInternal: {fileID: 1599992636}
+--- !u!114 &130877104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 130877103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdbef69300df22048b77c6bb88a83701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &192771719
 GameObject:
   m_ObjectHideFlags: 0
@@ -860,7 +876,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: a19384ee40c4b0349a950f7b602edbb7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

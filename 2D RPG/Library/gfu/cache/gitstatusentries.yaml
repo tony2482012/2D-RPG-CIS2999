@@ -11,40 +11,19 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-03-28T14:44:37.2858821-04:00
-  lastVerifiedAtString: 2018-03-28T14:44:37.2858821-04:00
-=======
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-03-28T14:33:54.4571612-04:00
-  lastVerifiedAtString: 2018-03-28T14:33:54.4571612-04:00
-  initializedAtString: 2018-03-28T14:18:42.4836239-04:00
-  entries:
-  - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-=======
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-03-28T14:30:48.7432920-04:00
-  lastVerifiedAtString: 2018-03-28T14:30:50.7309742-04:00
->>>>>>> e0dfb38c927b2013a2a5e8a3c7979309d440ad54
+  lastUpdatedAtString: 2018-03-28T14:52:54.1206094-04:00
+  lastVerifiedAtString: 2018-03-28T14:55:28.8872847-04:00
   initializedAtString: 2018-03-28T13:16:55.8149856-04:00
   entries:
-  - path: 2D RPG\Assembly-CSharp.csproj
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: 2D RPG\Assets\Scenes\NewForestNight.unity
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scenes\NewForestNight.unity
+    projectPath: Assets\Scenes\NewForestNight.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+  - path: 2D RPG\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     status: 3
     staged: 0
@@ -57,7 +36,6 @@ MonoBehaviour:
   - path: 2D RPG\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
->>>>>>> fa528a5ecad7aaefa3fdf667339035e031faaa26
     originalPath: 
     status: 3
     staged: 0
@@ -74,65 +52,8 @@ MonoBehaviour:
     status: 3
     staged: 0
   - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0
-<<<<<<< HEAD
-  - path: 2D RPG\Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\InventorySlot.cs
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\InventorySlot.cs
-    projectPath: Assets\InventorySlot.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\InventorySlot.cs.meta
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\InventorySlot.cs.meta
-    projectPath: Assets\InventorySlot.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Sprites\Transparent.png
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Sprites\Transparent.png
-    projectPath: Assets\Sprites\Transparent.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Sprites\Transparent.png.meta
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Sprites\Transparent.png.meta
-    projectPath: Assets\Sprites\Transparent.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Sprites\Transparent.xcf
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Sprites\Transparent.xcf
-    projectPath: Assets\Sprites\Transparent.xcf
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Sprites\Transparent.xcf.meta
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Sprites\Transparent.xcf.meta
-    projectPath: Assets\Sprites\Transparent.xcf.meta
-    originalPath: 
-    status: 1
-    staged: 0
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-  - path: 2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    status: 3
-    staged: 0
->>>>>>> cc77812707209792bed79dab6352f296c28c5829
->>>>>>> fa528a5ecad7aaefa3fdf667339035e031faaa26
->>>>>>> e0dfb38c927b2013a2a5e8a3c7979309d440ad54
