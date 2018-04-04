@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class InventorySlot : MonoBehaviour {
 
+	InventorySlot inventory;
+
 	// Use this for initialization
 	void Start () {
 		
