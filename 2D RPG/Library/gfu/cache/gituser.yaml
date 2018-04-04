@@ -11,8 +11,16 @@ MonoBehaviour:
   m_Script: {fileID: -1697640569, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-03-28T14:46:58.4726360-04:00
   lastVerifiedAtString: 2018-03-28T15:11:05.9089876-04:00
   initializedAtString: 2018-03-28T15:11:05.8949510-04:00
   gitName: elias
   gitEmail: equmsieh@oakland.edu
+=======
+  lastUpdatedAtString: 2018-03-28T14:43:58.4445627-04:00
+  lastVerifiedAtString: 2018-03-28T14:43:58.4445627-04:00
+  initializedAtString: 2018-03-28T14:43:58.3979945-04:00
+  gitName: tony2482012
+  gitEmail: 35173103+tony2482012@users.noreply.github.com
+>>>>>>> cut-from-cody

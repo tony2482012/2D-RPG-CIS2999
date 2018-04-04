@@ -11,9 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: 1109517887, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-03-28T14:46:55.3935653-04:00
   lastVerifiedAtString: 2018-03-28T14:46:55.3935653-04:00
   firstInitializedAtString: 2018-03-28T14:46:55.3449359-04:00
+=======
+  lastUpdatedAtString: 2018-03-28T14:43:19.8845904-04:00
+  lastVerifiedAtString: 2018-03-28T14:43:19.8845904-04:00
+  firstInitializedAtString: 2018-03-28T14:43:19.8845904-04:00
+>>>>>>> cut-from-cody
   gitRemote:
     name: origin
     url: https://github.com/tony2482012/2D-RPG-CIS2999.git
@@ -23,6 +29,6 @@ MonoBehaviour:
     function: 0
     token: 
   gitBranch:
-    name: master
-    tracking: origin/master
+    name: cut-from-cody
+    tracking: '[None]'
     isActive: 0

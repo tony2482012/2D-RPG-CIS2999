@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-03-18T14:43:01.3743437-04:00
   lastVerifiedAtString: 2018-03-18T14:43:04.2139765-04:00
   initializedAtString: 2018-03-18T13:28:58.0967497-04:00
@@ -103,15 +104,35 @@ MonoBehaviour:
   - path: 2D RPG\Library\LastSceneManagerSetup.txt
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\LastSceneManagerSetup.txt
     projectPath: Library\LastSceneManagerSetup.txt
+=======
+  lastUpdatedAtString: 2018-03-28T14:43:56.6754131-04:00
+  lastVerifiedAtString: 2018-03-28T14:43:57.9648112-04:00
+  initializedAtString: 2018-03-28T14:43:56.6754131-04:00
+  entries:
+  - path: 2D RPG\Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Assembly-CSharp.csproj
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+>>>>>>> cut-from-cody
     originalPath: 
     status: 3
     staged: 0
   - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+<<<<<<< HEAD
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+=======
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+>>>>>>> cut-from-cody
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -120,11 +141,16 @@ MonoBehaviour:
     staged: 0
   - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+=======
+  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+>>>>>>> cut-from-cody
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: 2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+<<<<<<< HEAD
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
     projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
@@ -132,10 +158,20 @@ MonoBehaviour:
     staged: 0
   - path: 2D RPG\Library\assetDatabase3
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+=======
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\assetDatabase3
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+>>>>>>> cut-from-cody
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: 2D RPG\Library\expandedItems
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\expandedItems
     projectPath: Library\expandedItems
@@ -144,10 +180,15 @@ MonoBehaviour:
     staged: 0
   - path: 2D RPG\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+=======
+  - path: 2D RPG\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+>>>>>>> cut-from-cody
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: 2D RPG\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -168,10 +209,15 @@ MonoBehaviour:
     staged: 0
   - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+=======
+  - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+>>>>>>> cut-from-cody
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: 2D RPG\Library\gfu\cache\gituser.yaml
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
     projectPath: Library\gfu\cache\gituser.yaml
@@ -180,10 +226,15 @@ MonoBehaviour:
     staged: 0
   - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
+=======
+  - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
+>>>>>>> cut-from-cody
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: 2D RPG\Library\metadata\00\00000000000000005000000000000000
     fullPath: C:\Users\Eq_94\OneDrive\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000005000000000000000
     projectPath: Library\metadata\00\00000000000000005000000000000000
@@ -930,4 +981,125 @@ MonoBehaviour:
     originalPath: 
     status: 5
 >>>>>>> 5d0f6a8430bf1ca922de3ac7683d56318d44f6d5
+=======
+  - path: 2D RPG\Library\metadata\00\00000000000000002000000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000002000000000000000
+    projectPath: Library\metadata\00\00000000000000002000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000003000000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000004000000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000004100000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000004100000000000000
+    projectPath: Library\metadata\00\00000000000000004100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000005000000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000005000000000000000
+    projectPath: Library\metadata\00\00000000000000005000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000006000000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000006000000000000000
+    projectPath: Library\metadata\00\00000000000000006000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000006100000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000006100000000000000
+    projectPath: Library\metadata\00\00000000000000006100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000007000000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000007000000000000000
+    projectPath: Library\metadata\00\00000000000000007000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000007100000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000007100000000000000
+    projectPath: Library\metadata\00\00000000000000007100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\0000000000000000a000000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\0000000000000000a000000000000000
+    projectPath: Library\metadata\00\0000000000000000a000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\0000000000000000a100000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\0000000000000000a100000000000000
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\0000000000000000b000000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\00\0000000000000000c000000000000000
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\00\0000000000000000c000000000000000
+    projectPath: Library\metadata\00\0000000000000000c000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\18\18e8cfb11be6ab74aa27444da11205e8
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\18\18e8cfb11be6ab74aa27444da11205e8
+    projectPath: Library\metadata\18\18e8cfb11be6ab74aa27444da11205e8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\18\18e8cfb11be6ab74aa27444da11205e8.info
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\18\18e8cfb11be6ab74aa27444da11205e8.info
+    projectPath: Library\metadata\18\18e8cfb11be6ab74aa27444da11205e8.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\96\9695a955f8993334c925c9332354bb69
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\96\9695a955f8993334c925c9332354bb69
+    projectPath: Library\metadata\96\9695a955f8993334c925c9332354bb69
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\96\9695a955f8993334c925c9332354bb69.info
+    fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\96\9695a955f8993334c925c9332354bb69.info
+    projectPath: Library\metadata\96\9695a955f8993334c925c9332354bb69.info
+    originalPath: 
+    status: 3
+>>>>>>> cut-from-cody
     staged: 0

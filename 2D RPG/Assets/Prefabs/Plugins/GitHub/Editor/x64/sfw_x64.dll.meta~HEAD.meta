@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 79df74b423e8d244bafcfb7d9ef4ff81
 timeCreated: 1521391661
 =======
@@ -11,6 +12,10 @@ guid: c862c34da187f20439a374c02fa25d92
 timeCreated: 1521391515
 >>>>>>> c481d85a2e19ed07c0abcd68a17993d3da35e934
 >>>>>>> 5d0f6a8430bf1ca922de3ac7683d56318d44f6d5
+=======
+guid: fdb053b79a0e44c44b16115e48173db9
+timeCreated: 1521391018
+>>>>>>> cut-from-cody
 licenseType: Free
 DefaultImporter:
   externalObjects: {}

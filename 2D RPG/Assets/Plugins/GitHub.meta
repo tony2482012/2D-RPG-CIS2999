@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 9695a955f8993334c925c9332354bb69
 folderAsset: yes
 timeCreated: 1516568060
@@ -14,6 +15,11 @@ folderAsset: yes
 timeCreated: 1516568060
 >>>>>>> c481d85a2e19ed07c0abcd68a17993d3da35e934
 >>>>>>> 5d0f6a8430bf1ca922de3ac7683d56318d44f6d5
+=======
+guid: 9695a955f8993334c925c9332354bb69
+folderAsset: yes
+timeCreated: 1516568060
+>>>>>>> cut-from-cody
 licenseType: Free
 DefaultImporter:
   externalObjects: {}
