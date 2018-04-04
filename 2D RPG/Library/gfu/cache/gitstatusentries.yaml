@@ -11,9 +11,22 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-04T13:37:59.5626032-04:00
   lastVerifiedAtString: 2018-04-04T13:37:59.5626032-04:00
   initializedAtString: 2018-04-04T13:37:59.5023419-04:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-03-28T14:55:06.4384641-04:00
+  lastVerifiedAtString: 2018-03-28T14:55:06.6733076-04:00
+  initializedAtString: 2018-03-28T14:43:56.6754131-04:00
+  entries: []
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-03-28T14:52:54.1206094-04:00
+  lastVerifiedAtString: 2018-03-28T14:55:28.8872847-04:00
+  initializedAtString: 2018-03-28T13:16:55.8149856-04:00
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
   entries:
   - path: 2D RPG\2D RPG.userprefs
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.userprefs
@@ -105,3 +118,8 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
+=======
+>>>>>>> f9c69bd702af0ede9e58e133b10d93848593ded0
+>>>>>>> f2b0e85ac0534084b74803d63ce39f27023864a3
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac

@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-04T13:38:08.0076563-04:00
   lastVerifiedAtString: 2018-04-04T13:38:08.0076563-04:00
   initializedAtString: 2018-04-04T13:37:59.2677029-04:00
@@ -83,6 +84,23 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-03-28T14:55:07.4669741-04:00
+  lastVerifiedAtString: 2018-03-28T14:55:07.4669741-04:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-03-28T14:52:01.5025053-04:00
+  lastVerifiedAtString: 2018-03-28T14:52:01.5025053-04:00
+  initializedAtString: 2018-03-28T13:16:55.6184951-04:00
+=======
+  lastUpdatedAtString: 2018-03-28T14:52:20.8958159-04:00
+  lastVerifiedAtString: 2018-03-28T14:52:20.8958159-04:00
+>>>>>>> f2b0e85ac0534084b74803d63ce39f27023864a3
+  initializedAtString: 2018-03-28T14:43:57.5001234-04:00
+>>>>>>> f9c69bd702af0ede9e58e133b10d93848593ded0
+  log:
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
   - commitID: f9c69bd702af0ede9e58e133b10d93848593ded0
     mergeA: 
     mergeB: 
@@ -96,67 +114,111 @@ MonoBehaviour:
     commitTimeString: 2018-03-28T14:54:08.0000000-04:00
     changes:
     - path: 2D RPG\Assembly-CSharp-Editor.csproj
+<<<<<<< HEAD
       fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp-Editor.csproj
+=======
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp-Editor.csproj
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
       projectPath: Assembly-CSharp-Editor.csproj
       originalPath: 
       status: 3
       staged: 0
     - path: 2D RPG\Assembly-CSharp.csproj
+<<<<<<< HEAD
       fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
+=======
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
       projectPath: Assembly-CSharp.csproj
       originalPath: 
       status: 3
       staged: 0
     - path: 2D RPG\Assets\Scenes\NewForestNight.unity
+<<<<<<< HEAD
       fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scenes\NewForestNight.unity
+=======
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scenes\NewForestNight.unity
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
       projectPath: Assets\Scenes\NewForestNight.unity
       originalPath: 
       status: 3
       staged: 0
     - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+<<<<<<< HEAD
       fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+=======
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
       projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
       originalPath: 
       status: 3
       staged: 0
     - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+<<<<<<< HEAD
       fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+=======
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
       projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
       originalPath: 
       status: 3
       staged: 0
     - path: 2D RPG\Library\assetDatabase3
+<<<<<<< HEAD
       fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+=======
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
       projectPath: Library\assetDatabase3
       originalPath: 
       status: 3
       staged: 0
     - path: 2D RPG\Library\gfu\cache\branches.yaml
+<<<<<<< HEAD
       fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+=======
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
       projectPath: Library\gfu\cache\branches.yaml
       originalPath: 
       status: 3
       staged: 0
     - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+<<<<<<< HEAD
       fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+=======
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
       projectPath: Library\gfu\cache\gitlog.yaml
       originalPath: 
       status: 3
       staged: 0
     - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+<<<<<<< HEAD
       fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+=======
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
       projectPath: Library\gfu\cache\gitstatusentries.yaml
       originalPath: 
       status: 3
       staged: 0
     - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+<<<<<<< HEAD
       fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+=======
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
       projectPath: Library\gfu\cache\gittrackingstatus.yaml
       originalPath: 
       status: 3
       staged: 0
     - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
+<<<<<<< HEAD
       fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
+=======
+      fullPath: C:\Users\antho\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
+>>>>>>> 455d78652e162c50d50ab351ef2852ca589c82ac
       projectPath: Library\gfu\cache\repoinfo.yaml
       originalPath: 
       status: 3
