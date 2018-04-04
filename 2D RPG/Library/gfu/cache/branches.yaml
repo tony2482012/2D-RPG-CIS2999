@@ -11,9 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-28T15:11:02.7173759-04:00
-  lastVerifiedAtString: 2018-03-28T15:11:02.7389347-04:00
-  initializedAtString: 2018-03-28T15:11:02.6476904-04:00
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-03-18T14:43:10.9497670-04:00
+  lastVerifiedAtString: 2018-03-18T14:43:10.9848624-04:00
+  initializedAtString: 2018-03-18T13:28:41.4167377-04:00
+=======
+  lastUpdatedAtString: 2018-03-19T09:20:56.6810398-04:00
+  lastVerifiedAtString: 2018-03-19T09:20:56.6950767-04:00
+  initializedAtString: 2018-03-19T09:20:56.6188740-04:00
+>>>>>>> 5d0f6a8430bf1ca922de3ac7683d56318d44f6d5
   gitConfigBranch:
     name: master
     remote:
@@ -26,14 +32,14 @@ MonoBehaviour:
   - name: Elias
     tracking: origin/Elias
     isActive: 0
+  - name: Josh's-Branch
+    tracking: origin/Josh's-Branch
+    isActive: 0
   - name: master
     tracking: origin/master
     isActive: 1
   remoteBranches:
   - name: origin/Cody's-Branch
-    tracking: '[None]'
-    isActive: 0
-  - name: origin/cut-from-cody
     tracking: '[None]'
     isActive: 0
   - name: origin/Elias
@@ -61,10 +67,19 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+<<<<<<< HEAD
     - Elias
+=======
+    - Cody's-Branch
+    - Josh's-Branch
+>>>>>>> 5d0f6a8430bf1ca922de3ac7683d56318d44f6d5
     - master
     values:
     - name: Elias
+      remote:
+        name: origin
+        url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+    - name: Josh's-Branch
       remote:
         name: origin
         url: https://github.com/tony2482012/2D-RPG-CIS2999.git
@@ -78,7 +93,6 @@ MonoBehaviour:
     subKeys:
     - Values:
       - Cody's-Branch
-      - cut-from-cody
       - Elias
       - HEAD
       - Josh's-Branch
@@ -87,10 +101,6 @@ MonoBehaviour:
     subKeyValues:
     - Values:
       - name: Cody's-Branch
-        remote:
-          name: origin
-          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
-      - name: cut-from-cody
         remote:
           name: origin
           url: https://github.com/tony2482012/2D-RPG-CIS2999.git
