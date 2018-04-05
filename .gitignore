@@ -1,13 +1,14 @@
 ###
 # Unity folders and files
 ###
-*/[Aa]ssets/AssetStoreTools*
-*/[Bb]uild/
-*/[Ll]ibrary/
-*/[Ll]ocal[Cc]ache/
-*/[Oo]bj/
-*/[Tt]emp/
-*/[Uu]nityGenerated/
+[Aa]ssets/AssetStoreTools*
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
 # file on crash reports
 sysinfo.txt
 # Unity3D generated meta files
@@ -26,7 +27,20 @@ sysinfo.txt
 *.user
 *.userprefs
 *.pidb
+*.tmp
 .DS_Store
+.consulo/
+
+# Unity 3D generated meta files
+*.pidb.meta
+*.pdb.meta
+
+# Unity3D Generated File on Crash Reports
+sysinfo.txt
+
+# Builds
+*.apl
+*.unitypackage
 
 ###
 # OS generated
@@ -40,7 +54,3 @@ Icon?
 ehthumbs.db
 Thumbs.db
 2D RPG/Assets/Stat.meta
-2D RPG/Assembly-CSharp.csproj
-2D RPG/Assembly-CSharp-Editor.csproj
-2D RPG/.vscode/settings.json
-2D RPG/2D RPG.sln
