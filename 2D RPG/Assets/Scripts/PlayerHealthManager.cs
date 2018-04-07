@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerHealthManager : MonoBehaviour {
 
     public int playerMaxHealth;
-    public int playerCurrentHealth;
+    public static int playerCurrentHealth;
 
 	// Use this for initialization
 	void Start ()

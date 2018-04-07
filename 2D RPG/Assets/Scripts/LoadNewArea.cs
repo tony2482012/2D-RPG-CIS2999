@@ -7,6 +7,7 @@ public class LoadNewArea : MonoBehaviour {
     public string LeveltoLoad;
 
 	// Use this for initialization
+
 	void Start () {
 		
 	}

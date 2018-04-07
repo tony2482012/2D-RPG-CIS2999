@@ -21,6 +21,16 @@ public class PauseMenu : MonoBehaviour
     public GameObject LoadButton;
     public GameObject QuitButton;
     public GameObject QuitMainButton;
+    public GameObject player;
+    // public Scene battle;
+    [SerializeField] public string isBattle;
+    public StatCode hp;
+    public SimpleHealthBar shb;
+    public float health ;
+    public double fraction;
+    public int numberOfEnemies;
+    
+    public string gameSettings;
 
     // Update is called once per frame
     void Update()
@@ -55,6 +65,8 @@ public class PauseMenu : MonoBehaviour
             pauseMenuCanvas.SetActive(false);
         }
 
+        
+
 
         //if (isInGame)
         //{
@@ -83,6 +95,7 @@ public class PauseMenu : MonoBehaviour
 
     }
 
+    
     public void Save()
     {
 
@@ -92,17 +105,68 @@ public class PauseMenu : MonoBehaviour
         //{
         //    GameObject g = (GameObject)o;
         //    Debug.Log(g.ToString());
-        //    //Debug.Log(JsonUtility.ToJson(o));
+        
+        SavePosition s = new SavePosition();
+		s.x = player.transform.position.x;
+		s.y = player.transform.position.y;
+		s.z = player.transform.position.z;
+        
+        s.health = WizardControl.wizardHP;
+        // s.health = player.hp.MyCurrentValue;
 
+        s.numberOfEnemies = Battleflow.enemysOnScreen;
+        s.healthBarFraction = SimpleHealthBar.currentFraction;
 
+        if(SceneManager.GetActiveScene().buildIndex == 1) {
+            s.isBattle = true;
+        } else {
+            s.isBattle = false;
+        }
 
-        //}
+		// gameSettings = JsonUtility.ToJson(s);
+        // JsonUtility.ToJson(isBattle.ToString());
+		Debug.Log(s);
+        
+		Debug.Log(JsonUtility.ToJson(s));
 
+		PlayerPrefs.SetString("PlayerLocation", JsonUtility.ToJson(s));
+        // PlayerPrefs.SetString(isBattle, json);
+
+    }
+
+    public void Load() {
+        Restore();
+        isMainMenu = false;
+
+    }
+    public void Restore() {
+        string p = PlayerPrefs.GetString("PlayerLocation");
+        SavePosition s = JsonUtility.FromJson<SavePosition> (p);
+        
+        Debug.Log(p);
+        Debug.Log(s);
+
+        if (s != null) {
+            Vector3 position = new Vector3();
+            position.x = s.x;
+            position.y = s.y;
+            position.z = s.z;
+            player.transform.position = position;
+
+            if (s.isBattle == true) {
+                SceneManager.LoadScene(1);
+            }
+            // hp.MyCurrentValue = s.health;
+            WizardControl.wizardHP = s.health;
+            
+            Battleflow.enemysOnScreen = s.numberOfEnemies;
+            SimpleHealthBar.currentFraction = (float) s.healthBarFraction;
+        }
     }
 
     public void ButtonNewGame()
     {
-        SceneManager.LoadScene("CombatTestScene*");
+        // SceneManager.LoadScene("CombatTestScene*");
         isMainMenu = false;
 
     }

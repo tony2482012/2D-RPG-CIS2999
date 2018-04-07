@@ -22,7 +22,7 @@ public class StatCode : MonoBehaviour
     
     public float MyMaxValue { get; set; }
 
-    public float MyCurrentValue
+    [SerializeField] public float MyCurrentValue // Selena - made serializable
     {
         get
         {
