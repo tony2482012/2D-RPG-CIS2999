@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -1697640569, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-07T13:25:51.5244279-05:00
-  lastVerifiedAtString: 2018-04-04T13:38:08.4709550-04:00
-  initializedAtString: 2018-04-04T13:37:59.6216617-04:00
-  gitName: Cody Yandura
+  lastUpdatedAtString: 2018-04-08T09:08:55.1637394-04:00
+  lastVerifiedAtString: 2018-04-08T19:32:20.5610658-04:00
+  initializedAtString: 2018-04-08T09:08:55.1637394-04:00
+  gitName: cyandura
   gitEmail: 35173272+cyandura@users.noreply.github.com
