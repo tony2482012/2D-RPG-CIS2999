@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\CameraController.cs" />
      <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\CollectableBounce.cs" />
      <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\Door.cs" />
      <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\FadeScript.cs" />
      <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\MenuButtons.cs" />
@@ -61,6 +62,8 @@
      <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\Tile.cs" />
      <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\TimedAnimations.cs" />
      <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\Trigger.cs" />
+     <Compile Include="Assets\InventoryController.cs" />
+     <Compile Include="Assets\InventorySlot.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\ArcherControl.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\Battleflow.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\DamTextControl.cs" />
@@ -71,6 +74,7 @@
      <Compile Include="Assets\Josh Test\ControlScripts\WarriorControl.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\WizardControl.cs" />
      <Compile Include="Assets\Josh Test\Josh Test Script.cs" />
+     <Compile Include="Assets\Rotator.cs" />
      <Compile Include="Assets\Scripts\ButtonHandler.cs" />
      <Compile Include="Assets\Scripts\Character Classes\BaseCharacterClass.cs" />
      <Compile Include="Assets\Scripts\Character Classes\BaseMageClass.cs" />
