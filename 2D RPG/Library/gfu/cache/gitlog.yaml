@@ -14,6 +14,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-09T19:04:44.6614439-04:00
   lastVerifiedAtString: 2018-04-09T19:04:44.6614439-04:00
   initializedAtString: 2018-04-09T19:04:44.6614439-04:00
@@ -26,9 +27,14 @@ MonoBehaviour:
   lastUpdatedAtString: 2018-04-09T18:20:02.1082360-04:00
   lastVerifiedAtString: 2018-04-09T18:20:02.1082360-04:00
 >>>>>>> parent of 340e09c... c
+=======
+  lastUpdatedAtString: 2018-04-09T18:20:02.1082360-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:02.1082360-04:00
+>>>>>>> parent of 340e09c... c
   initializedAtString: 2018-04-09T18:17:00.8263557-04:00
 >>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
   log:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - commitID: 515d4fad4ac187d028408e76d1f0ae5fe4b9e7bb
     mergeA: 
@@ -296,6 +302,8 @@ MonoBehaviour:
       staged: 0
   - commitID: cda29ddbfafd641e69f08d5f76b8147a8dd95179
 =======
+=======
+>>>>>>> parent of 340e09c... c
   - commitID: 49643cd58ba490bf051667ab057428776e50a161
 >>>>>>> parent of 340e09c... c
     mergeA: 

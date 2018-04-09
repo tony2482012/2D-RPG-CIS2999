@@ -14,6 +14,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-09T19:02:24.1083700-04:00
   lastVerifiedAtString: 2018-04-09T19:02:24.1083700-04:00
   initializedAtString: 2018-04-09T19:02:23.9825349-04:00
@@ -111,6 +112,11 @@ MonoBehaviour:
   lastUpdatedAtString: 2018-04-09T18:20:02.5870400-04:00
   lastVerifiedAtString: 2018-04-09T18:20:02.5870400-04:00
   initializedAtString: 2018-04-09T18:17:01.0308992-04:00
+=======
+  lastUpdatedAtString: 2018-04-09T18:20:02.5870400-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:02.5870400-04:00
+  initializedAtString: 2018-04-09T18:17:01.0308992-04:00
+>>>>>>> parent of 340e09c... c
   entries:
   - path: 2D RPG\2D RPG.sln
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.sln
@@ -172,4 +178,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
+>>>>>>> parent of 340e09c... c
+=======
 >>>>>>> parent of 340e09c... c
