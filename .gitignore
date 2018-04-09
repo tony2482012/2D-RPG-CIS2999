@@ -27,6 +27,7 @@ sysinfo.txt
 *.userprefs
 *.pidb
 *.yaml
+*.info
 .DS_Store
 
 ###
