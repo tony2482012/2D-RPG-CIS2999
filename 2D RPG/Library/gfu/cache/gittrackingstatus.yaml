@@ -11,8 +11,16 @@ MonoBehaviour:
   m_Script: {fileID: -7427361, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
   lastVerifiedAtString: 2018-04-09T19:04:44.3656568-04:00
   initializedAtString: 2018-04-09T19:04:43.7277202-04:00
   ahead: 0
   behind: 0
+=======
+  lastUpdatedAtString: 2018-04-09T18:20:57.2457093-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:57.5028809-04:00
+  initializedAtString: 2018-04-09T18:16:59.6539943-04:00
+  ahead: 4
+  behind: 1
+>>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
