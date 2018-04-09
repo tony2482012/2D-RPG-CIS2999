@@ -11,43 +11,13 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-09T18:58:09.2011451-04:00
-  lastVerifiedAtString: 2018-04-09T18:58:09.5669142-04:00
-  initializedAtString: 2018-04-09T18:53:00.0149328-04:00
+  lastUpdatedAtString: 2018-04-09T19:08:19.9340021-04:00
+  lastVerifiedAtString: 2018-04-09T19:08:19.9340021-04:00
+  initializedAtString: 2018-04-09T19:08:19.8853727-04:00
   entries:
-  - path: 2D RPG\Assembly-CSharp.csproj
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\ControlScripts\Battleflow.cs
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\ControlScripts\Battleflow.cs
-    projectPath: Assets\Josh Test\ControlScripts\Battleflow.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\ControlScripts\EnemyControl.cs
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\ControlScripts\EnemyControl.cs
-    projectPath: Assets\Josh Test\ControlScripts\EnemyControl.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\ControlScripts\WizardControl.cs
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\ControlScripts\WizardControl.cs
-    projectPath: Assets\Josh Test\ControlScripts\WizardControl.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Sprites\rpg-battle-system\monster\slime\sprite-sheet-2-141x107.png.meta
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Sprites\rpg-battle-system\monster\slime\sprite-sheet-2-141x107.png.meta
-    projectPath: Assets\Sprites\rpg-battle-system\monster\slime\sprite-sheet-2-141x107.png.meta
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+  - path: 2D RPG\Assets\Sprites\rpg-battle-system\HUD\icon.png.meta
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Sprites\rpg-battle-system\HUD\icon.png.meta
+    projectPath: Assets\Sprites\rpg-battle-system\HUD\icon.png.meta
     originalPath: 
     status: 3
     staged: 0
@@ -63,11 +33,17 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: 2D RPG\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
   - path: 2D RPG\Library\gfu\cache\gitlog.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
   - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
@@ -86,90 +62,4 @@ MonoBehaviour:
     projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
-    projectPath: Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\Animations\Slime.controller
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Animations\Slime.controller
-    projectPath: Assets\Josh Test\Animations\Slime.controller
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\Animations\Slime.controller.meta
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Animations\Slime.controller.meta
-    projectPath: Assets\Josh Test\Animations\Slime.controller.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\Animations\idle_slime_1.anim
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Animations\idle_slime_1.anim
-    projectPath: Assets\Josh Test\Animations\idle_slime_1.anim
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\Animations\idle_slime_1.anim.meta
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Animations\idle_slime_1.anim.meta
-    projectPath: Assets\Josh Test\Animations\idle_slime_1.anim.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\Animations\slime_attack_1.anim
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Animations\slime_attack_1.anim
-    projectPath: Assets\Josh Test\Animations\slime_attack_1.anim
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\Animations\slime_attack_1.anim.meta
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Animations\slime_attack_1.anim.meta
-    projectPath: Assets\Josh Test\Animations\slime_attack_1.anim.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\ControlScripts\ButtonCon.cs
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\ControlScripts\ButtonCon.cs
-    projectPath: Assets\Josh Test\ControlScripts\ButtonCon.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\ControlScripts\ButtonCon.cs.meta
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\ControlScripts\ButtonCon.cs.meta
-    projectPath: Assets\Josh Test\ControlScripts\ButtonCon.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\Objects\Fireball Button.prefab
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Objects\Fireball
-      Button.prefab
-    projectPath: Assets\Josh Test\Objects\Fireball Button.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\Objects\Fireball Button.prefab.meta
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Objects\Fireball
-      Button.prefab.meta
-    projectPath: Assets\Josh Test\Objects\Fireball Button.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\Objects\Slime.prefab
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Objects\Slime.prefab
-    projectPath: Assets\Josh Test\Objects\Slime.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\Objects\Slime.prefab.meta
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Objects\Slime.prefab.meta
-    projectPath: Assets\Josh Test\Objects\Slime.prefab.meta
-    originalPath: 
-    status: 1
     staged: 0
