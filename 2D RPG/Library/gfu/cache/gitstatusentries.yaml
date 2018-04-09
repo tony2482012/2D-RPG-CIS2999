@@ -11,13 +11,43 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-09T19:09:58.0761919-04:00
-  lastVerifiedAtString: 2018-04-09T19:09:58.0761919-04:00
+  lastUpdatedAtString: 2018-04-09T19:49:32.5160544-04:00
+  lastVerifiedAtString: 2018-04-09T19:49:32.5160544-04:00
   initializedAtString: 2018-04-09T19:08:19.8853727-04:00
   entries:
+  - path: 2D RPG\Assets\Josh Test\Animations\Slime.controller
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Animations\Slime.controller
+    projectPath: Assets\Josh Test\Animations\Slime.controller
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Assets\Josh Test\Animations\attack_snake_1.anim
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Animations\attack_snake_1.anim
+    projectPath: Assets\Josh Test\Animations\attack_snake_1.anim
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Assets\Josh Test\ControlScripts\EnemyControl.cs
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\ControlScripts\EnemyControl.cs
+    projectPath: Assets\Josh Test\ControlScripts\EnemyControl.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Assets\Josh Test\Objects\Slime.prefab
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Objects\Slime.prefab
+    projectPath: Assets\Josh Test\Objects\Slime.prefab
+    originalPath: 
+    status: 3
+    staged: 0
   - path: 2D RPG\Assets\Josh Test\Scenes\BattleScene.unity
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Scenes\BattleScene.unity
     projectPath: Assets\Josh Test\Scenes\BattleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
@@ -48,6 +78,12 @@ MonoBehaviour:
   - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     status: 3
     staged: 0
