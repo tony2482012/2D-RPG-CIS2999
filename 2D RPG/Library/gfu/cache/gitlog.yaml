@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-09T18:41:36.5595730-04:00
   lastVerifiedAtString: 2018-04-09T18:41:36.5595730-04:00
   initializedAtString: 2018-04-09T18:41:31.4148284-04:00
@@ -113,6 +114,13 @@ MonoBehaviour:
       status: 3
       staged: 0
   - commitID: 3506e959fbcd3aae94015e3a5f6838c7dbf5cc04
+=======
+  lastUpdatedAtString: 2018-04-09T18:20:02.1082360-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:02.1082360-04:00
+  initializedAtString: 2018-04-09T18:17:00.8263557-04:00
+  log:
+  - commitID: 49643cd58ba490bf051667ab057428776e50a161
+>>>>>>> parent of 340e09c... c
     mergeA: 
     mergeB: 
     authorName: Cody Yandura
