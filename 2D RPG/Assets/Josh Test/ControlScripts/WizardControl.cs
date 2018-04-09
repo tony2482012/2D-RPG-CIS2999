@@ -15,7 +15,7 @@ public class WizardControl : MonoBehaviour {
 
     //to connect with the StateCode file
     [SerializeField]
-    private StatCode hp;
+    public StatCode hp;
 
 
     [SerializeField]
@@ -29,9 +29,7 @@ public class WizardControl : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        hp.Initialized(initHealth, initHealth);
-        
-        
+        hp.Initialized(initHealth, initHealth);       
     }
 	
 	// Update is called once per frame
