@@ -134,6 +134,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   pic: {fileID: 0}
 >>>>>>> a3e5c9d1230052b9c7ab2d8934b4fb0e181c5610
@@ -146,6 +147,9 @@ MonoBehaviour:
 >>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
 =======
 >>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
+=======
+  pic: {fileID: 0}
+>>>>>>> parent of 340e09c... c
 --- !u!1 &130877103 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1253672201360924, guid: 87d12c98f3bfae8478b13c7b9038c990,
@@ -162,6 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdbef69300df22048b77c6bb88a83701, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pic: {fileID: 0}
 --- !u!1 &192771719
 GameObject:
   m_ObjectHideFlags: 0
@@ -2110,6 +2115,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   pic: {fileID: 0}
 >>>>>>> a3e5c9d1230052b9c7ab2d8934b4fb0e181c5610
@@ -2120,6 +2126,9 @@ MonoBehaviour:
 >>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
 =======
 >>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
+=======
+  pic: {fileID: 0}
+>>>>>>> parent of 340e09c... c
 --- !u!1 &1238495240 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1253672201360924, guid: 87d12c98f3bfae8478b13c7b9038c990,
@@ -2140,6 +2149,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   pic: {fileID: 0}
 >>>>>>> a3e5c9d1230052b9c7ab2d8934b4fb0e181c5610
@@ -2152,6 +2162,9 @@ MonoBehaviour:
 >>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
 =======
 >>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
+=======
+  pic: {fileID: 0}
+>>>>>>> parent of 340e09c... c
 --- !u!1 &1392770442
 GameObject:
   m_ObjectHideFlags: 0
@@ -2455,7 +2468,7 @@ Prefab:
     - target: {fileID: 224510574044570780, guid: 87d12c98f3bfae8478b13c7b9038c990,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -13659.0625
       objectReference: {fileID: 0}
     - target: {fileID: 224510574044570780, guid: 87d12c98f3bfae8478b13c7b9038c990,
         type: 2}
@@ -2877,7 +2890,7 @@ Prefab:
     - target: {fileID: 224510574044570780, guid: 87d12c98f3bfae8478b13c7b9038c990,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -31871.812
       objectReference: {fileID: 0}
     - target: {fileID: 224510574044570780, guid: 87d12c98f3bfae8478b13c7b9038c990,
         type: 2}
@@ -3115,7 +3128,7 @@ Prefab:
     - target: {fileID: 224510574044570780, guid: 87d12c98f3bfae8478b13c7b9038c990,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -22765.438
       objectReference: {fileID: 0}
     - target: {fileID: 224510574044570780, guid: 87d12c98f3bfae8478b13c7b9038c990,
         type: 2}
