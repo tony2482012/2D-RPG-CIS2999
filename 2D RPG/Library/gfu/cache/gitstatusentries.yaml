@@ -11,67 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-09T18:20:02.5870400-04:00
-  lastVerifiedAtString: 2018-04-09T18:20:02.5870400-04:00
+  lastUpdatedAtString: 2018-04-09T18:20:57.2276502-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:57.4662964-04:00
   initializedAtString: 2018-04-09T18:17:01.0308992-04:00
-  entries:
-  - path: 2D RPG\2D RPG.sln
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.sln
-    projectPath: 2D RPG.sln
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assembly-CSharp.csproj
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Scripts\CollectableBounce.cs.meta
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\CollectableBounce.cs.meta
-    projectPath: Assets\Scripts\CollectableBounce.cs.meta
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Scripts\InventorySlot.cs.meta
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\InventorySlot.cs.meta
-    projectPath: Assets\Scripts\InventorySlot.cs.meta
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: 2D RPG\Library\assetDatabase3
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\metadata\86\8643f50b32dc84c47b4a5326edf71841
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\86\8643f50b32dc84c47b4a5326edf71841
-    projectPath: Library\metadata\86\8643f50b32dc84c47b4a5326edf71841
-    originalPath: 
-    status: 3
-    staged: 0
+  entries: []
