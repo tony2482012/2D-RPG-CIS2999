@@ -11,10 +11,40 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-09T18:29:47.8914910-04:00
-  lastVerifiedAtString: 2018-04-09T18:29:47.8914910-04:00
-  initializedAtString: 2018-04-09T18:26:14.5306735-04:00
+  lastUpdatedAtString: 2018-04-09T18:40:06.3872914-04:00
+  lastVerifiedAtString: 2018-04-09T18:40:06.3872914-04:00
+  initializedAtString: 2018-04-09T18:40:06.3872914-04:00
   entries:
+  - path: 2D RPG\2D RPG.sln
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.sln
+    projectPath: 2D RPG.sln
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Assembly-CSharp.csproj
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\CurrentLayout.dwlt
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\ScriptMapper
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\assetDatabase3
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
   - path: 2D RPG\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -33,12 +63,6 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
@@ -48,6 +72,18 @@ MonoBehaviour:
   - path: 2D RPG\Library\gfu\cache\gituser.yaml
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
     projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\f9\f99bbef1c54c5e34781f4c5bd2d83d95
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\f9\f99bbef1c54c5e34781f4c5bd2d83d95
+    projectPath: Library\metadata\f9\f99bbef1c54c5e34781f4c5bd2d83d95
     originalPath: 
     status: 3
     staged: 0
