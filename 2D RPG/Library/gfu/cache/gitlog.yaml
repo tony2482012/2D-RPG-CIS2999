@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-09T18:20:57.5204276-04:00
   lastVerifiedAtString: 2018-04-09T18:20:57.5204276-04:00
   initializedAtString: 2018-04-09T18:17:00.8263557-04:00
@@ -2771,6 +2772,12 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
+=======
+  lastUpdatedAtString: 2018-04-08T19:32:20.2692903-04:00
+  lastVerifiedAtString: 2018-04-08T19:32:20.2692903-04:00
+  initializedAtString: 2018-04-08T09:08:54.6849661-04:00
+  log:
+>>>>>>> a3e5c9d1230052b9c7ab2d8934b4fb0e181c5610
   - commitID: b4c8cd529306ec3240dd26a1ec570047cde577cc
     mergeA: 
     mergeB: 
