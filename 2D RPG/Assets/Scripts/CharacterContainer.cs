@@ -1,13 +1,13 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using System;
+﻿// using System.Collections;
+// using System.Collections.Generic;
+// using UnityEngine;
+// using System;
 
-//Selena
+// //Selena
 
-[Serializable]
-public class CharContainer {
+// [Serializable]
+// public class CharContainer {
 
-    public List<CharData> chars = new List<CharData>();
+//     public List<CharData> chars = new List<CharData>();
 	
-}
+// }

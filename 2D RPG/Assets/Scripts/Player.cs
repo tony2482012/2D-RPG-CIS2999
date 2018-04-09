@@ -9,10 +9,12 @@ public class Player : Character
 {
     //to connect with the StateCode file
     [SerializeField]
-    private StatCode hp;
+    public StatCode hp;
 
     [SerializeField]
     private float initHealth = 100;
+
+	// public int characterselect = 1; // Selena
 
     
 

@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class WizardControl : MonoBehaviour {
-	public  static float wizardHP = 100;
+	[SerializeField] public  static float wizardHP = 100; // Selena - made serializable
 	public static float wizardMaxHP = 100;
 
 	public Transform damTextObj;

@@ -17,7 +17,7 @@ public class Battleflow : MonoBehaviour {
 	//public float enemyPosition3;
 	//controls enemy targeting
 	public static string selectedEnemy="";
-	public static int enemysOnScreen = 0;
+	[SerializeField] public static int enemysOnScreen = 0; // Selena - made serializable
 
 
 	//controls character turn

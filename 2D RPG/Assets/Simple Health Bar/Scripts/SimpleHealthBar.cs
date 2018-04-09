@@ -36,8 +36,8 @@ public class SimpleHealthBar : MonoBehaviour
 	public float fillConstraintMax = 1.0f;
 
 	// PRIVATE VARIABLES AND GET FUNCTIONS //
-	float currentFraction = 1.0f;
-	public float GetCurrentFraction
+	[SerializeField] public static float currentFraction = 1.0f; // Selena - made serializable
+	public float GetCurrentFraction 
 	{
 		get
 		{
