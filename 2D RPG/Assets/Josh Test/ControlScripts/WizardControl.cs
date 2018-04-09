@@ -7,30 +7,17 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class WizardControl : MonoBehaviour {
-	[SerializeField] public  static float wizardHP = 100; // Selena - made serializable
+	public  static float wizardHP = 100;
 	public static float wizardMaxHP = 100;
 
 	public Transform damTextObj;
 	public Transform fireballObj;
 
-    //to connect with the StateCode file
-    [SerializeField]
-    public StatCode hp;
 
-
-    [SerializeField]
-    private float initHealth = 100;
-
-    [SerializeField]
-    private StatCode mana;
-
-    [SerializeField]
-    private float initMana = 100;
-
-    // Use this for initialization
-    void Start () {
-        hp.Initialized(initHealth, initHealth);       
-    }
+	// Use this for initialization
+	void Start () {
+		
+	}
 	
 	// Update is called once per frame
 	void Update () 
@@ -43,16 +30,15 @@ public class WizardControl : MonoBehaviour {
 			Destroy (gameObject);	
 		}
 
-		if ((Input.GetKeyDown ("1")) && (Battleflow.whichTurn == 1))  {
+		if (((Input.GetKeyDown ("1")) || (Battleflow.attButSelected == "y")) && (Battleflow.whichTurn == 1) && 
+			(Battleflow.selectedEnemy != "")) {
 
-            
-            Battleflow.currentDamage = 30;
+			Battleflow.attButSelected = "n";
+			Battleflow.currentDamage = 30;
 			GetComponent<Animator> ().SetTrigger ("WizardMagic1");
 			Instantiate (fireballObj, new Vector2 (7.0f, -.21f), fireballObj.rotation);
 			StartCoroutine (returnWizard ());
-            hp.MyCurrentValue -= 30;
-           
-        }
+		}
 
 
 	}
