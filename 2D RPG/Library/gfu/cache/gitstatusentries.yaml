@@ -11,20 +11,13 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-04-09T18:40:06.3872914-04:00
-  lastVerifiedAtString: 2018-04-09T18:40:06.3872914-04:00
-  initializedAtString: 2018-04-09T18:40:06.3872914-04:00
-=======
-  lastUpdatedAtString: 2018-04-09T18:20:02.5870400-04:00
-  lastVerifiedAtString: 2018-04-09T18:20:02.5870400-04:00
-  initializedAtString: 2018-04-09T18:17:01.0308992-04:00
->>>>>>> parent of 340e09c... c
+  lastUpdatedAtString: 2018-04-09T19:02:24.1083700-04:00
+  lastVerifiedAtString: 2018-04-09T19:02:24.1083700-04:00
+  initializedAtString: 2018-04-09T19:02:23.9825349-04:00
   entries:
-  - path: 2D RPG\2D RPG.sln
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.sln
-    projectPath: 2D RPG.sln
+  - path: 2D RPG\Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
     originalPath: 
     status: 3
     staged: 0
@@ -34,39 +27,18 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-<<<<<<< HEAD
-  - path: 2D RPG\Library\CurrentLayout.dwlt
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
+  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\ScriptMapper
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
+  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
-=======
-  - path: 2D RPG\Assets\Scripts\CollectableBounce.cs.meta
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\CollectableBounce.cs.meta
-    projectPath: Assets\Scripts\CollectableBounce.cs.meta
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Scripts\InventorySlot.cs.meta
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\InventorySlot.cs.meta
-    projectPath: Assets\Scripts\InventorySlot.cs.meta
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    status: 5
-    staged: 0
->>>>>>> parent of 340e09c... c
   - path: 2D RPG\Library\assetDatabase3
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
     projectPath: Library\assetDatabase3
@@ -79,32 +51,30 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-<<<<<<< HEAD
   - path: 2D RPG\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
-=======
->>>>>>> parent of 340e09c... c
   - path: 2D RPG\Library\gfu\cache\gitlog.yaml
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-<<<<<<< HEAD
     status: 3
-=======
-    status: 5
->>>>>>> parent of 340e09c... c
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
     staged: 0
   - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-<<<<<<< HEAD
   - path: 2D RPG\Library\gfu\cache\gituser.yaml
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
     projectPath: Library\gfu\cache\gituser.yaml
@@ -117,29 +87,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\metadata\f9\f99bbef1c54c5e34781f4c5bd2d83d95
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\f9\f99bbef1c54c5e34781f4c5bd2d83d95
-    projectPath: Library\metadata\f9\f99bbef1c54c5e34781f4c5bd2d83d95
-    originalPath: 
-    status: 3
-    staged: 0
   - path: 2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
     staged: 0
-=======
-  lastUpdatedAtString: 2018-04-04T14:27:28.9519421-04:00
-  lastVerifiedAtString: 2018-04-04T14:27:29.0040808-04:00
-  initializedAtString: 2018-04-04T13:37:59.5023419-04:00
-  entries: []
->>>>>>> parent of a944856... c
-=======
-  - path: 2D RPG\Library\metadata\86\8643f50b32dc84c47b4a5326edf71841
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\86\8643f50b32dc84c47b4a5326edf71841
-    projectPath: Library\metadata\86\8643f50b32dc84c47b4a5326edf71841
-    originalPath: 
-    status: 3
-    staged: 0
->>>>>>> parent of 340e09c... c

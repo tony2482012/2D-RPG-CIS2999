@@ -12,11 +12,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
-<<<<<<< HEAD
-  lastVerifiedAtString: 2018-04-09T18:41:36.7636156-04:00
-  initializedAtString: 2018-04-09T18:41:36.7636156-04:00
-=======
-  lastVerifiedAtString: 2018-04-04T13:37:59.4817885-04:00
-  initializedAtString: 2018-04-04T13:37:59.4817885-04:00
->>>>>>> parent of a944856... c
+  lastVerifiedAtString: 2018-04-09T19:01:15.4467862-04:00
+  initializedAtString: 2018-04-09T19:01:15.4467862-04:00
   gitLocks: []
