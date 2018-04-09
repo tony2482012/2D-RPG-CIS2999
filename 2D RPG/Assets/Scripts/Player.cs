@@ -12,11 +12,7 @@ public class Player : Character
     public StatCode hp;
 
     [SerializeField]
-    private float initHealth = 100;
-
-	// public int characterselect = 1; // Selena
-
-    
+    private float initHealth = 100;    
 
     protected override void Start()
     {

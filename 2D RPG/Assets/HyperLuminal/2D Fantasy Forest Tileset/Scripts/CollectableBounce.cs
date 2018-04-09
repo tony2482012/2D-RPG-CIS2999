@@ -3,6 +3,9 @@ using System.Collections;
 
 public class CollectableBounce : MonoBehaviour 
 {
+
+	
+
 	#region Member Variables
 	/// <summary>
 	/// Scaling states to make the object bounce/pulse
