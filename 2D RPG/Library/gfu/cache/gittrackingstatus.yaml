@@ -11,14 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -7427361, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-04-09T18:38:50.2292164-04:00
-  lastVerifiedAtString: 2018-04-09T18:38:51.5914705-04:00
-  initializedAtString: 2018-04-09T18:38:50.1971318-04:00
-=======
   lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
-  lastVerifiedAtString: 2018-04-09T18:32:36.4901590-04:00
-  initializedAtString: 2018-04-09T18:09:50.1104270-04:00
->>>>>>> 25b7f2832324a794bd3c7edb41743d63e6561b3b
+  lastVerifiedAtString: 2018-04-09T18:46:32.3871849-04:00
+  initializedAtString: 2018-04-09T18:45:47.9054691-04:00
   ahead: 0
-  behind: 2
+  behind: 0
