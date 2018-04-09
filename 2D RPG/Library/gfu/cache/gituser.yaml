@@ -11,8 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: -1697640569, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-09T18:33:22.8735723-04:00
   lastVerifiedAtString: 2018-04-09T18:41:36.9556591-04:00
   initializedAtString: 2018-04-09T18:41:36.9371098-04:00
+=======
+  lastUpdatedAtString: 2018-02-07T13:25:51.5244279-05:00
+  lastVerifiedAtString: 2018-04-04T13:38:08.4709550-04:00
+  initializedAtString: 2018-04-04T13:37:59.6216617-04:00
+>>>>>>> parent of a944856... c
   gitName: Cody Yandura
   gitEmail: 35173272+cyandura@users.noreply.github.com
