@@ -24,4 +24,8 @@ public class LoadNewArea : MonoBehaviour {
             Application.LoadLevel(LeveltoLoad);
         }
     }
+
+	void OnCollisionEnter2D(Collision2D collision){
+		GetComponent<Collider> ().enabled = false;
+	}
 }
