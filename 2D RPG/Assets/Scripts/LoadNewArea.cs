@@ -20,8 +20,18 @@ public class LoadNewArea : MonoBehaviour {
     private void OnTriggerEnter2D(Collider2D other)
     {
         if(other.gameObject.name == "Player")
-        {
+        {            
             Application.LoadLevel(LeveltoLoad);
+            
         }
+      
     }
+
+
+	void OnCollisionEnter2D(Collision2D collision){
+		GetComponent<Collider> ().enabled = false;
+	}
+
+
+
 }

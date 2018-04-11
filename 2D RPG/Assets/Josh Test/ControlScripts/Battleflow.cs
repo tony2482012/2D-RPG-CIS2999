@@ -80,8 +80,12 @@ public class Battleflow : MonoBehaviour {
 		if (enemysOnScreen == 0)
 		{
 			whichTurn = 1;
+<<<<<<< HEAD
 			EditorSceneManager.LoadScene ("NewForestNight");
 			canvas.SetActive(false);
+=======
+			Application.LoadLevel ("NewForestNight");
+>>>>>>> 72e960707d7f7f59d8640593783082766b45e004
 		}
 
 	}

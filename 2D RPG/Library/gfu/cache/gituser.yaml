@@ -11,8 +11,16 @@ MonoBehaviour:
   m_Script: {fileID: -1697640569, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-06T20:50:26.0777100-04:00
   lastVerifiedAtString: 2018-04-11T10:01:01.9206630-04:00
   initializedAtString: 2018-04-11T10:01:01.9190470-04:00
   gitName: Selena
   gitEmail: shaidar2@oakland.edu
+=======
+  lastUpdatedAtString: 2018-04-09T18:45:53.6344596-04:00
+  lastVerifiedAtString: 2018-04-09T20:39:52.6965056-04:00
+  initializedAtString: 2018-04-09T19:08:20.0923633-04:00
+  gitName: JJBunnell
+  gitEmail: JJBunnell@oakland.edu
+>>>>>>> 72e960707d7f7f59d8640593783082766b45e004

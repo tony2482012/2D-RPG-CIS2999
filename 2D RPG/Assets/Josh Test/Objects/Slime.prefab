@@ -86,7 +86,7 @@ MonoBehaviour:
   EnemyHP: 0
   EnemyAttPow: 0
   EnemyPos: {x: 0, y: 0, z: 0}
-  damTextObj: {fileID: 0}
+  damTextObj: {fileID: 4357938280945556, guid: 6d99de560ab8b9a45b502e02112c431f, type: 2}
   enemyTurn: 0
 --- !u!212 &212045779698665036
 SpriteRenderer:
