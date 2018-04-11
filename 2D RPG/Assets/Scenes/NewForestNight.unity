@@ -383,7 +383,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerMaxHealth: 50
-  playerCurrentHealth: 0
 --- !u!1 &205829696
 GameObject:
   m_ObjectHideFlags: 0
@@ -3198,6 +3197,11 @@ Prefab:
       propertyPath: player
       value: 
       objectReference: {fileID: 197627705}
+    - target: {fileID: 114561824325019510, guid: 6aa810b38bec64d8c9c4a9ad1623ef88,
+        type: 2}
+      propertyPath: health
+      value: 100
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6aa810b38bec64d8c9c4a9ad1623ef88, type: 2}
   m_IsPrefabParent: 0

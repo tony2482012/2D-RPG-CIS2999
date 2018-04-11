@@ -19,6 +19,10 @@ public class Battleflow : MonoBehaviour {
 	//controls enemy targeting
 	public static string selectedEnemy="";
 	[SerializeField] public static int enemysOnScreen = 0; // Selena - made serializable
+
+	public GameObject canvas;
+
+
 	public static string attButSelected ="n";
 
 
@@ -30,11 +34,12 @@ public class Battleflow : MonoBehaviour {
 	public static string damageDisplay = "n";
 
 	public static string wizardStatus = "OK";
+	[SerializeField] public int spawn1 = 0;
 
 	// Use this for initialization
 	void Start () {
 		System.Random rnd = new System.Random ();
-		int spawn1 = rnd.Next (1, 100);
+		spawn1 = rnd.Next (1, 100);
 		int spawn2 = rnd.Next (1, 100);
 		int spawn3 = rnd.Next (1, 100);
 
@@ -58,8 +63,9 @@ public class Battleflow : MonoBehaviour {
 			enemysOnScreen++;
 		}
 
-
-
+		Debug.Log(spawn1);
+		Debug.Log(spawn2);
+		Debug.Log(spawn3);
 	}
 
 	// Update is called once per frame
@@ -75,6 +81,7 @@ public class Battleflow : MonoBehaviour {
 		{
 			whichTurn = 1;
 			EditorSceneManager.LoadScene ("NewForestNight");
+			canvas.SetActive(false);
 		}
 
 	}

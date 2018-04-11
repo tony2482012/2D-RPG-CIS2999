@@ -30,6 +30,9 @@ public class PauseMenu : MonoBehaviour
     public float health ;
     public double fraction;
     public int numberOfEnemies;
+    public int spawn11;
+    public int spawn21;
+    public int spawn31;
     public string gameSettings;
     
     public toLoad loading;
@@ -91,6 +94,9 @@ public class PauseMenu : MonoBehaviour
         s.health = WizardControl.wizardHP;
 
         s.numberOfEnemies = Battleflow.enemysOnScreen; // TODO
+
+        // s.spawn11 = Battleflow.s;
+
         s.healthBarFraction = SimpleHealthBar.currentFraction; // TODO
 
         if(SceneManager.GetActiveScene().buildIndex == 1) {
@@ -133,7 +139,7 @@ public class PauseMenu : MonoBehaviour
 
             WizardControl.wizardHP = s.health;
             Battleflow.enemysOnScreen = s.numberOfEnemies; // TODO
-            SimpleHealthBar.currentFraction = (float) s.healthBarFraction; // TODO
+            SimpleHealthBar.currentFraction = (float) s.healthBarFraction; // TODO????????????????????????????????????????????????????????????
         }
     }
 
