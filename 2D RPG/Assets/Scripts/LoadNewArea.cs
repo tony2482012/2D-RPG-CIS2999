@@ -22,13 +22,29 @@ public class LoadNewArea : MonoBehaviour {
         if(other.gameObject.name == "Player")
         {            
             Application.LoadLevel(LeveltoLoad);
-            
         }
       
     }
-    void OnCollisionEnter2D(Collision2D collision)
-    {
-        GetComponent<Collider>().enabled = false;
-    }
 
+    private Collider storedGameObject;
+
+
+    void OnTriggerStay2D(Collider2D other)
+    {
+        if (Input.GetKey(KeyCode.A))
+        {
+            GetComponent<Collider>().enabled = false;
+            Application.LoadLevel("NewForestNight");
+        }
+    }
+    void OnTriggerExit2D(Collider2D other)
+    {
+
+            if (Input.GetKey(KeyCode.A))
+            {
+                GetComponent<Collider>().enabled = false;
+            Application.LoadLevel("NewForestNight");
+        }
+        
+    }
 }
