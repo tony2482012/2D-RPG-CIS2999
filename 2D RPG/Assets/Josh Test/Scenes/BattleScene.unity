@@ -759,6 +759,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &643739013 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1459419843500310, guid: 6aa810b38bec64d8c9c4a9ad1623ef88,
+    type: 2}
+  m_PrefabInternal: {fileID: 1354927}
 --- !u!1 &822567657
 GameObject:
   m_ObjectHideFlags: 0
@@ -791,6 +796,7 @@ MonoBehaviour:
   enemy1Turn: 2
   enemy2Tur: 3
   enemy3Turn: 4
+  canvas: {fileID: 643739013}
 --- !u!4 &822567659
 Transform:
   m_ObjectHideFlags: 0

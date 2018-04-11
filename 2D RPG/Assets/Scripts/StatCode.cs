@@ -12,10 +12,10 @@ public class StatCode : MonoBehaviour
     [SerializeField]
     private Text stateValue;
     
-    private float currentFill;
+	private float currentFill;
 
     //the amount we have in the mean time
-    private float currentValue;
+	private float currentValue;
     
     [SerializeField]
     private float lerpsSpeed;
@@ -65,7 +65,7 @@ public class StatCode : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       // content.fillAmount = currentFill;
+       content.fillAmount = 50;
        
         if (currentFill != content.fillAmount)
         {

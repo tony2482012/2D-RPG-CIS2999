@@ -30,10 +30,7 @@ public class PauseMenu : MonoBehaviour
     public float health ;
     public double fraction;
     public int numberOfEnemies;
-    public string gameSettings;
-    
-    public toLoad loading;
-    public SaveThisClass saving;
+
 
     void Update()
     {
@@ -80,9 +77,6 @@ public class PauseMenu : MonoBehaviour
    
     public void Save()
     {
-        // SaveThisClass saving = new SaveThisClass();
-        // saving.Save();
-
         SavePosition s = new SavePosition();
 		s.x = player.transform.position.x;
 		s.y = player.transform.position.y;
@@ -90,8 +84,9 @@ public class PauseMenu : MonoBehaviour
         
         s.health = WizardControl.wizardHP;
 
-        s.numberOfEnemies = Battleflow.enemysOnScreen; // TODO
-        s.healthBarFraction = SimpleHealthBar.currentFraction; // TODO
+        s.numberOfEnemies = Battleflow.enemysOnScreen;
+
+        s.healthBarFraction = SimpleHealthBar.currentFraction;
 
         if(SceneManager.GetActiveScene().buildIndex == 1) {
             s.isBattle = true;
@@ -99,13 +94,11 @@ public class PauseMenu : MonoBehaviour
             s.isBattle = false;
         }
 
-        
-
 		Debug.Log(s);
         
 		Debug.Log(JsonUtility.ToJson(s));
 
-		PlayerPrefs.SetString("PlayerLocation", JsonUtility.ToJson(s));
+		PlayerPrefs.SetString("GameStats", JsonUtility.ToJson(s));
     }
 
     public void Load() {
@@ -114,11 +107,11 @@ public class PauseMenu : MonoBehaviour
     }
 
     public void Restore() {
-        string p = PlayerPrefs.GetString("PlayerLocation");
+        string p = PlayerPrefs.GetString("GameStats");
         SavePosition s = JsonUtility.FromJson<SavePosition> (p);
         
-        Debug.Log(p);
-        Debug.Log(s);
+        // Debug.Log(p);
+        // Debug.Log(s);
 
         if (s != null) {
             Vector3 position = new Vector3();
@@ -132,14 +125,15 @@ public class PauseMenu : MonoBehaviour
             }
 
             WizardControl.wizardHP = s.health;
-            Battleflow.enemysOnScreen = s.numberOfEnemies; // TODO
-            SimpleHealthBar.currentFraction = (float) s.healthBarFraction; // TODO
+            Battleflow.enemysOnScreen = s.numberOfEnemies;
+            SimpleHealthBar.currentFraction = (float) s.healthBarFraction; 
         }
     }
 
     public void ButtonNewGame()
     {
         isMainMenu = false;
+        PlayerPrefs.DeleteAll();
     }
 
     public void Quit()
