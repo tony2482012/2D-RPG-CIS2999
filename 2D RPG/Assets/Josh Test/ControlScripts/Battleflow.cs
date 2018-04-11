@@ -63,9 +63,9 @@ public class Battleflow : MonoBehaviour {
 			enemysOnScreen++;
 		}
 
-		Debug.Log(spawn1);
-		Debug.Log(spawn2);
-		Debug.Log(spawn3);
+		// Debug.Log(spawn1);
+		// Debug.Log(spawn2);
+		// Debug.Log(spawn3);
 	}
 
 	// Update is called once per frame
@@ -80,12 +80,12 @@ public class Battleflow : MonoBehaviour {
 		if (enemysOnScreen == 0)
 		{
 			whichTurn = 1;
-<<<<<<< HEAD
+// <<<<<<< HEAD
 			EditorSceneManager.LoadScene ("NewForestNight");
 			canvas.SetActive(false);
-=======
+// =======
 			Application.LoadLevel ("NewForestNight");
->>>>>>> 72e960707d7f7f59d8640593783082766b45e004
+// >>>>>>> 72e960707d7f7f59d8640593783082766b45e004
 		}
 
 	}

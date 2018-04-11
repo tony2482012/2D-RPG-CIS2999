@@ -11,15 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-04-11T10:01:00.7649560-04:00
-  lastVerifiedAtString: 2018-04-11T10:01:00.7693760-04:00
+  lastUpdatedAtString: 2018-04-11T10:54:02.2040480-04:00
+  lastVerifiedAtString: 2018-04-11T10:54:02.2097600-04:00
   initializedAtString: 2018-04-11T10:00:54.8778550-04:00
-=======
-  lastUpdatedAtString: 2018-04-10T12:56:34.9073573-04:00
-  lastVerifiedAtString: 2018-04-10T12:56:35.0316875-04:00
-  initializedAtString: 2018-04-09T19:08:13.0968928-04:00
->>>>>>> 72e960707d7f7f59d8640593783082766b45e004
   gitConfigBranch:
     name: master
     remote:
