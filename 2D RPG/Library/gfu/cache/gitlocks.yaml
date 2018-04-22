@@ -12,6 +12,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
+<<<<<<< HEAD
   lastVerifiedAtString: 2018-04-09T19:24:00.2070051-04:00
   initializedAtString: 2018-04-09T19:24:00.2070051-04:00
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  lastVerifiedAtString: 2018-04-09T19:04:44.8905536-04:00
+  initializedAtString: 2018-04-09T19:04:44.8905536-04:00
+=======
+  lastVerifiedAtString: 2018-04-09T18:17:01.0118503-04:00
+  initializedAtString: 2018-04-09T18:17:01.0118503-04:00
+>>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
+=======
+  lastVerifiedAtString: 2018-04-09T18:17:01.0118503-04:00
+  initializedAtString: 2018-04-09T18:17:01.0118503-04:00
+>>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
+>>>>>>> codys-branch-3/18
   gitLocks: []

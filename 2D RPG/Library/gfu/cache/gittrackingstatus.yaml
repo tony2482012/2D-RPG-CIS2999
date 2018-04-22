@@ -11,8 +11,38 @@ MonoBehaviour:
   m_Script: {fileID: -7427361, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-21T23:44:38.3109710-04:00
   lastVerifiedAtString: 2018-04-22T02:58:16.5377370-04:00
   initializedAtString: 2018-04-21T23:44:37.0934270-04:00
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
+  lastVerifiedAtString: 2018-04-09T19:04:44.3656568-04:00
+  initializedAtString: 2018-04-09T19:04:43.7277202-04:00
+>>>>>>> codys-branch-3/18
   ahead: 0
   behind: 0
+=======
+=======
+>>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
+  lastUpdatedAtString: 2018-04-09T18:20:57.2457093-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:57.5028809-04:00
+=======
+  lastUpdatedAtString: 2018-04-09T18:20:02.0706351-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:02.6281490-04:00
+>>>>>>> parent of 340e09c... c
+=======
+  lastUpdatedAtString: 2018-04-09T18:20:02.0706351-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:02.6281490-04:00
+>>>>>>> parent of 340e09c... c
+  initializedAtString: 2018-04-09T18:16:59.6539943-04:00
+  ahead: 2
+  behind: 1
+<<<<<<< HEAD
+>>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
+=======
+>>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18

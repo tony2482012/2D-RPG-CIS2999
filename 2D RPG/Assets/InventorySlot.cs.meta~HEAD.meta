@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:2D RPG/Assets/Prefabs/Plugins/GitHub.meta
+<<<<<<< HEAD
+guid: 792c0602405f5f5458115f3ce98c50da
+=======
+guid: 6ec12b22b44c50748947acc8b082f5a8
+>>>>>>> 5d0f6a8430bf1ca922de3ac7683d56318d44f6d5
+folderAsset: yes
+timeCreated: 1516568060
+=======
+guid: ded0f6e88ddeb0d479a57a59c1d65a85
+timeCreated: 1523315339
+>>>>>>> codys-branch-3/18:2D RPG/Assets/InventorySlot.cs.meta~HEAD.meta
+licenseType: Free
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,11 +11,39 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-22T02:58:15.6245030-04:00
   lastVerifiedAtString: 2018-04-22T02:58:15.6321330-04:00
   initializedAtString: 2018-04-21T23:44:37.0491590-04:00
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-04-09T19:04:42.3868506-04:00
+  lastVerifiedAtString: 2018-04-09T19:04:42.4129204-04:00
+  initializedAtString: 2018-04-09T19:04:37.1994603-04:00
+=======
+  lastUpdatedAtString: 2018-04-09T18:20:57.1895561-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:57.2085982-04:00
+=======
+  lastUpdatedAtString: 2018-04-09T18:20:01.8184645-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:01.8375156-04:00
+>>>>>>> parent of 340e09c... c
+=======
+  lastUpdatedAtString: 2018-04-09T18:20:01.8184645-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:01.8375156-04:00
+>>>>>>> parent of 340e09c... c
+  initializedAtString: 2018-04-09T18:16:32.7461773-04:00
+>>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
+=======
+  lastUpdatedAtString: 2018-04-09T18:20:57.1895561-04:00
+  lastVerifiedAtString: 2018-04-09T18:20:57.2085982-04:00
+  initializedAtString: 2018-04-09T18:16:32.7461773-04:00
+>>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
+>>>>>>> codys-branch-3/18
   gitConfigBranch:
-    name: master
+    name: codys-branch-3/18
     remote:
       name: origin
       url: https://github.com/tony2482012/2D-RPG-CIS2999.git
@@ -25,11 +53,23 @@ MonoBehaviour:
   localBranches:
   - name: master
     tracking: origin/master
+    isActive: 0
+  - name: MasterMergeTest
+    tracking: origin/MasterMergeTest
+    isActive: 0
+  - name: codys-branch-3/18
+    tracking: origin/codys-branch-3/18
     isActive: 1
   remoteBranches:
   - name: origin/Cody's-Branch
     tracking: '[None]'
     isActive: 0
+<<<<<<< HEAD
+=======
+  - name: origin/cut-from-cody
+    tracking: '[None]'
+    isActive: 0
+>>>>>>> codys-branch-3/18
   - name: origin/Elias
     tracking: '[None]'
     isActive: 0
@@ -39,6 +79,7 @@ MonoBehaviour:
   - name: origin/Josh's-Branch
     tracking: '[None]'
     isActive: 0
+<<<<<<< HEAD
   - name: origin/MasterMergeTest
     tracking: '[None]'
     isActive: 0
@@ -48,6 +89,14 @@ MonoBehaviour:
   - name: origin/master
     tracking: '[None]'
     isActive: 0
+=======
+  - name: origin/master
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/MasterMergeTest
+    tracking: '[None]'
+    isActive: 0
+>>>>>>> codys-branch-3/18
   - name: origin/codys-branch-3/18
     tracking: '[None]'
     isActive: 0
@@ -62,8 +111,18 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - master
+    - MasterMergeTest
+    - codys-branch-3/18
     values:
     - name: master
+      remote:
+        name: origin
+        url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+    - name: MasterMergeTest
+      remote:
+        name: origin
+        url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+    - name: codys-branch-3/18
       remote:
         name: origin
         url: https://github.com/tony2482012/2D-RPG-CIS2999.git
@@ -73,12 +132,21 @@ MonoBehaviour:
     subKeys:
     - Values:
       - Cody's-Branch
+<<<<<<< HEAD
       - Elias
       - HEAD
       - Josh's-Branch
       - MasterMergeTest
       - cut-from-cody
       - master
+=======
+      - cut-from-cody
+      - Elias
+      - HEAD
+      - Josh's-Branch
+      - master
+      - MasterMergeTest
+>>>>>>> codys-branch-3/18
       - codys-branch-3/18
     subKeyValues:
     - Values:
@@ -86,6 +154,13 @@ MonoBehaviour:
         remote:
           name: origin
           url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+<<<<<<< HEAD
+=======
+      - name: cut-from-cody
+        remote:
+          name: origin
+          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+>>>>>>> codys-branch-3/18
       - name: Elias
         remote:
           name: origin
@@ -98,6 +173,7 @@ MonoBehaviour:
         remote:
           name: origin
           url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+<<<<<<< HEAD
       - name: MasterMergeTest
         remote:
           name: origin
@@ -106,10 +182,19 @@ MonoBehaviour:
         remote:
           name: origin
           url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+=======
+>>>>>>> codys-branch-3/18
       - name: master
         remote:
           name: origin
           url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+<<<<<<< HEAD
+=======
+      - name: MasterMergeTest
+        remote:
+          name: origin
+          url: https://github.com/tony2482012/2D-RPG-CIS2999.git
+>>>>>>> codys-branch-3/18
       - name: codys-branch-3/18
         remote:
           name: origin
