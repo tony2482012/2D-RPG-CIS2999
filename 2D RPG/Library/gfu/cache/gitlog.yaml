@@ -11,10 +11,141 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-22T14:05:43.2050202-04:00
-  lastVerifiedAtString: 2018-04-22T14:05:43.2050202-04:00
-  initializedAtString: 2018-04-22T14:02:37.2159610-04:00
+  lastUpdatedAtString: 2018-04-22T14:32:54.7249808-04:00
+  lastVerifiedAtString: 2018-04-22T14:32:54.7249808-04:00
+  initializedAtString: 2018-04-22T14:11:20.6729800-04:00
   log:
+  - commitID: f0ff9f8faafd615c44b32a48ab25288515d7488f
+    mergeA: 
+    mergeB: 
+    authorName: JJBunnell
+    authorEmail: JJBunnell@oakland.edu
+    commitEmail: JJBunnell@oakland.edu
+    commitName: JJBunnell
+    summary: Most recent update
+    description: Most recent update
+    timeString: 2018-04-22T14:10:32.0000000-04:00
+    commitTimeString: 2018-04-22T14:10:32.0000000-04:00
+    changes:
+    - path: 2D RPG\2D RPG.userprefs
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.userprefs
+      projectPath: 2D RPG.userprefs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\Josh Test\ControlScripts\Battleflow.cs
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh
+        Test\ControlScripts\Battleflow.cs
+      projectPath: Assets\Josh Test\ControlScripts\Battleflow.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\Josh Test\ControlScripts\Battleflow.cs.meta
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh
+        Test\ControlScripts\Battleflow.cs.meta
+      projectPath: Assets\Josh Test\ControlScripts\Battleflow.cs.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\Josh Test\ControlScripts\EnemyControl.cs
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh
+        Test\ControlScripts\EnemyControl.cs
+      projectPath: Assets\Josh Test\ControlScripts\EnemyControl.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\Josh Test\ControlScripts\WizardControl.cs
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh
+        Test\ControlScripts\WizardControl.cs
+      projectPath: Assets\Josh Test\ControlScripts\WizardControl.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\Josh Test\Scenes\BattleScene.unity
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh
+        Test\Scenes\BattleScene.unity
+      projectPath: Assets\Josh Test\Scenes\BattleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Assets\Scripts\Save\PauseMenu.cs
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\Save\PauseMenu.cs
+      projectPath: Assets\Scripts\Save\PauseMenu.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\assetDatabase3
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
+      projectPath: Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
+      projectPath: obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\obj\Debug\Assembly-CSharp.dll
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\obj\Debug\Assembly-CSharp.dll
+      projectPath: obj\Debug\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\obj\Debug\Assembly-CSharp.pdb
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\obj\Debug\Assembly-CSharp.pdb
+      projectPath: obj\Debug\Assembly-CSharp.pdb
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: f8988ab951039bc342e1c11866e18492d20a0015
     mergeA: 
     mergeB: 

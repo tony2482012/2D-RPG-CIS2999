@@ -9,7 +9,7 @@ using UnityEngine;
 public class WizardControl : MonoBehaviour {
 	public  static float wizardHP = 100;
 	public static float wizardMaxHP = 100;
-	//[SerializeField] public StatCode hp = wizardHP;
+	[SerializeField] public StatCode hp;
 
 	public Transform damTextObj;
 	public Transform fireballObj;
@@ -17,7 +17,7 @@ public class WizardControl : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		hp.Initialized (100, 100);
 	}
 	
 	// Update is called once per frame

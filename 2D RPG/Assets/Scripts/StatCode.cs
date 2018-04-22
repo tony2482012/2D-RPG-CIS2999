@@ -22,7 +22,7 @@ public class StatCode : MonoBehaviour
     
     public float MyMaxValue { get; set; }
 
-    [SerializeField] public float MyCurrentValue // Selena - made serializable
+    public float MyCurrentValue // Selena - made serializable
     {
         get
         {
@@ -65,7 +65,7 @@ public class StatCode : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       content.fillAmount = 50;
+		//content.fillAmount = 50;
        
         if (currentFill != content.fillAmount)
         {
