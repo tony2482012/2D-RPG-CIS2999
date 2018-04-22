@@ -11,9 +11,78 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-12T17:14:47.0359300-04:00
   lastVerifiedAtString: 2018-04-12T17:14:47.0359300-04:00
   initializedAtString: 2018-04-12T17:14:47.0359300-04:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-04-09T20:26:50.4120087-04:00
+  lastVerifiedAtString: 2018-04-09T20:32:19.4356189-04:00
+  initializedAtString: 2018-04-09T19:24:00.2220333-04:00
+  entries:
+  - path: 2D RPG\.vs\2D RPG\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\Toby\Documents\GitHub\2D-RPG-CIS2999\2D RPG\.vs\2D RPG\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\2D RPG\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\.vs\2D RPG\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\Toby\Documents\GitHub\2D-RPG-CIS2999\2D RPG\.vs\2D RPG\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\2D RPG\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Assets\Scripts\LoadNewArea.cs
+    fullPath: C:\Users\Toby\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\LoadNewArea.cs
+    projectPath: Assets\Scripts\LoadNewArea.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Toby\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\assetDatabase3
+    fullPath: C:\Users\Toby\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Toby\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Toby\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Toby\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Toby\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Toby\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+=======
+  lastUpdatedAtString: 2018-04-11T10:54:20.2322660-04:00
+  lastVerifiedAtString: 2018-04-11T10:55:19.2259250-04:00
+  initializedAtString: 2018-04-11T10:01:01.8935830-04:00
+>>>>>>> 3ab27f0353d735631007b56cc3092dcca3710365
   entries:
   - path: 2D RPG/Library/gfu/cache/branches.yaml
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/branches.yaml
@@ -36,6 +105,7 @@ MonoBehaviour:
   - path: 2D RPG/Library/gfu/cache/gituser.yaml
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/gituser.yaml
     projectPath: Library/gfu/cache/gituser.yaml
+>>>>>>> 9776e4125dd6bd5512801e41ca93c381e59fd890
     originalPath: 
     status: 3
     staged: 0

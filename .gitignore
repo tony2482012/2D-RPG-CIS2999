@@ -44,3 +44,7 @@ Thumbs.db
 2D RPG/Assembly-CSharp-Editor.csproj
 2D RPG/.vscode/settings.json
 2D RPG/2D RPG.sln
+*.log
+*.ide-wal
+*.log
+*.ide-shm
