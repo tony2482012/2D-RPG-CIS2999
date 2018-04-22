@@ -11,85 +11,103 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-22T13:25:56.8665031-04:00
-  lastVerifiedAtString: 2018-04-22T13:25:56.8665031-04:00
+  lastUpdatedAtString: 2018-04-22T13:31:20.4408810-04:00
+  lastVerifiedAtString: 2018-04-22T13:31:20.4408810-04:00
   initializedAtString: 2018-04-22T12:58:06.3827309-04:00
   entries:
-  - path: 2D RPG\Assets\Josh Test\ControlScripts\Battleflow.cs
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\ControlScripts\Battleflow.cs
-    projectPath: Assets\Josh Test\ControlScripts\Battleflow.cs
+  - path: .gitignore
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\.gitignore
+    projectPath: ..\.gitignore
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\CurrentLayout.dwlt
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
+  - path: 2D RPG\.vs\2D RPG\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\.vs\2D RPG\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\2D RPG\v15\Server\sqlite3\storage.ide
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+  - path: 2D RPG\2D RPG.userprefs
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.userprefs
+    projectPath: 2D RPG.userprefs
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\assetDatabase3
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
+  - path: 2D RPG\Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: 2D RPG\Assembly-CSharp.csproj
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: 2D RPG\Assets\Josh Test\ControlScripts\EnemyControl.cs
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\ControlScripts\EnemyControl.cs
+    projectPath: Assets\Josh Test\ControlScripts\EnemyControl.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
+  - path: 2D RPG\Assets\Josh Test\Scenes\BattleScene.unity
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Scenes\BattleScene.unity
+    projectPath: Assets\Josh Test\Scenes\BattleScene.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
+  - path: 2D RPG\Assets\Scenes\NewForestNight.unity
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scenes\NewForestNight.unity
+    projectPath: Assets\Scenes\NewForestNight.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+  - path: 2D RPG\Assets\Scripts\LoadNewArea.cs
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\LoadNewArea.cs
+    projectPath: Assets\Scripts\LoadNewArea.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
+  - path: 2D RPG\Assets\Scripts\Save\PauseMenu.cs
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\Save\PauseMenu.cs
+    projectPath: Assets\Scripts\Save\PauseMenu.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\ProjectSettings\ProjectVersion.txt
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
+  - path: 2D RPG\Assets\Scripts\Save\SavePosition.cs
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\Save\SavePosition.cs
+    projectPath: Assets\Scripts\Save\SavePosition.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Assets\Josh Test\Scenes\FinalBattleScene.unity
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Scenes\FinalBattleScene.unity
-    projectPath: Assets\Josh Test\Scenes\FinalBattleScene.unity
+  - path: 2D RPG\Assets\Scripts\StatCode.cs
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\StatCode.cs
+    projectPath: Assets\Scripts\StatCode.cs
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: 2D RPG\Assets\Josh Test\Scenes\FinalBattleScene.unity.meta
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\Scenes\FinalBattleScene.unity.meta
-    projectPath: Assets\Josh Test\Scenes\FinalBattleScene.unity.meta
+  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
     originalPath: 
-    status: 1
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\expandedItems
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: 2D RPG\Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
+    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
+    projectPath: Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
+    originalPath: 
+    status: 3
     staged: 0

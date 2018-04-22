@@ -65,7 +65,7 @@ public class StatCode : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       // content.fillAmount = currentFill;
+       content.fillAmount = 50;
        
         if (currentFill != content.fillAmount)
         {

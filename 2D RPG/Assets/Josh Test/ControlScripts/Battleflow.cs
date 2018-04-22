@@ -61,7 +61,7 @@ public class Battleflow : MonoBehaviour {
 			}
 		} 
 		else if (currentScene == "FinalBattleScene") {
-			Instantiate (dragonObj, new Vector2 (-3.0f, -0.0f), dragonObj.rotation);
+			Instantiate (dragonObj, new Vector2 (-3.0f, -0.5f), dragonObj.rotation);
 			enemysOnScreen++;
 		}
 
