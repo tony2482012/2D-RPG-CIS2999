@@ -11,7 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-22T02:58:03.3182610-04:00
   lastVerifiedAtString: 2018-04-22T02:58:03.3283480-04:00
   initializedAtString: 2018-04-21T23:44:37.3890790-04:00
@@ -24,34 +23,16 @@ MonoBehaviour:
     staged: 0
   - path: 2D RPG/Assembly-CSharp-Editor.csproj
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assembly-CSharp-Editor.csproj
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-04-09T19:02:24.1083700-04:00
-  lastVerifiedAtString: 2018-04-09T19:02:24.1083700-04:00
-  initializedAtString: 2018-04-09T19:02:23.9825349-04:00
-  entries:
-  - path: 2D RPG\Assembly-CSharp-Editor.csproj
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp-Editor.csproj
->>>>>>> codys-branch-3/18
     projectPath: Assembly-CSharp-Editor.csproj
     originalPath: 
     status: 3
     staged: 0
-<<<<<<< HEAD
   - path: 2D RPG/Assembly-CSharp.csproj
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assembly-CSharp.csproj
-=======
-  - path: 2D RPG\Assembly-CSharp.csproj
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
->>>>>>> codys-branch-3/18
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     status: 3
     staged: 0
-<<<<<<< HEAD
   - path: 2D RPG/Assets/Josh Test/ControlScripts/Battleflow.cs
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Josh
       Test/ControlScripts/Battleflow.cs
@@ -161,156 +142,6 @@ MonoBehaviour:
   - path: 2D RPG/ProjectSettings/ProjectVersion.txt
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/ProjectSettings/ProjectVersion.txt
     projectPath: ProjectSettings/ProjectVersion.txt
-=======
-  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\assetDatabase3
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    status: 3
-    staged: 0
-=======
-=======
->>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
-  lastUpdatedAtString: 2018-04-09T18:20:57.2276502-04:00
-  lastVerifiedAtString: 2018-04-09T18:20:57.4662964-04:00
-  initializedAtString: 2018-04-09T18:17:01.0308992-04:00
-  entries: []
-<<<<<<< HEAD
->>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
-=======
->>>>>>> parent of cc39a03... Merge branch 'codys-branch-3/18' of https://github.com/tony2482012/2D-RPG-CIS2999 into codys-branch-3/18
-=======
-  lastUpdatedAtString: 2018-04-09T18:20:02.5870400-04:00
-  lastVerifiedAtString: 2018-04-09T18:20:02.5870400-04:00
-  initializedAtString: 2018-04-09T18:17:01.0308992-04:00
-=======
-  lastUpdatedAtString: 2018-04-09T18:20:02.5870400-04:00
-  lastVerifiedAtString: 2018-04-09T18:20:02.5870400-04:00
-  initializedAtString: 2018-04-09T18:17:01.0308992-04:00
->>>>>>> parent of 340e09c... c
-  entries:
-  - path: 2D RPG\2D RPG.sln
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.sln
-    projectPath: 2D RPG.sln
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assembly-CSharp.csproj
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Scripts\CollectableBounce.cs.meta
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\CollectableBounce.cs.meta
-    projectPath: Assets\Scripts\CollectableBounce.cs.meta
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Scripts\InventorySlot.cs.meta
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\InventorySlot.cs.meta
-    projectPath: Assets\Scripts\InventorySlot.cs.meta
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: 2D RPG\Library\assetDatabase3
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\metadata\86\8643f50b32dc84c47b4a5326edf71841
-    fullPath: C:\Users\Cody\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\86\8643f50b32dc84c47b4a5326edf71841
-    projectPath: Library\metadata\86\8643f50b32dc84c47b4a5326edf71841
->>>>>>> codys-branch-3/18
-    originalPath: 
-    status: 3
-    staged: 0
-<<<<<<< HEAD
->>>>>>> parent of 340e09c... c
-=======
->>>>>>> parent of 340e09c... c
