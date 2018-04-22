@@ -7,6 +7,10 @@ using System.Collections.Generic;
 [ExecuteInEditMode]
 public class SimpleHealthBar : MonoBehaviour
 {	
+	#region Singleton
+	public static SimpleHealthBar instance;
+
+	#endregion 
 	// COLOR OPTIONS //
 	public enum ColorMode
 	{

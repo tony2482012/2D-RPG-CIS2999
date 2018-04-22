@@ -62,8 +62,6 @@
      <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\Tile.cs" />
      <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\TimedAnimations.cs" />
      <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\Trigger.cs" />
-     <Compile Include="Assets\InventoryController.cs" />
-     <Compile Include="Assets\InventorySlot.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\ArcherControl.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\Battleflow.cs" />
      <Compile Include="Assets\Josh Test\ControlScripts\DamTextControl.cs" />
@@ -83,6 +81,11 @@
      <Compile Include="Assets\Scripts\CharacterContainer.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\HurtPlayer.cs" />
+     <Compile Include="Assets\Scripts\Inventory.cs" />
+     <Compile Include="Assets\Scripts\InventorySlot.cs" />
+     <Compile Include="Assets\Scripts\InventoryUI.cs" />
+     <Compile Include="Assets\Scripts\Item.cs" />
+     <Compile Include="Assets\Scripts\ItemPickup.cs" />
      <Compile Include="Assets\Scripts\LoadNewArea.cs" />
      <Compile Include="Assets\Scripts\MainMenu.cs" />
      <Compile Include="Assets\Scripts\PauseMenu.cs" />
