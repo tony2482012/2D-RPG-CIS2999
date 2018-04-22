@@ -764,11 +764,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &643739013 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1459419843500310, guid: 6aa810b38bec64d8c9c4a9ad1623ef88,
-    type: 2}
-  m_PrefabInternal: {fileID: 1354927}
 --- !u!1 &822567657
 GameObject:
   m_ObjectHideFlags: 0
@@ -798,11 +793,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   snakeObj: {fileID: 4460876360229530, guid: b263d338d9651b242a9d57052851cfb6, type: 2}
   slimeObj: {fileID: 4122253437519788, guid: 7c7937892b173b94e8e851853617f9ab, type: 2}
+  dragonObj: {fileID: 4933127485040764, guid: d012102afb6fc7d42b8ec7b754bf3512, type: 2}
   enemy1Turn: 2
   enemy2Tur: 3
   enemy3Turn: 4
-  Main: {fileID: 0}
-  canvas: {fileID: 643739013}
+  spawn1: 0
+  spawn2: 0
+  spawn3: 0
+  enemyType: 0
 --- !u!4 &822567659
 Transform:
   m_ObjectHideFlags: 0
@@ -1138,6 +1136,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1691672043}
+  - component: {fileID: 1691672044}
   m_Layer: 0
   m_Name: Enemy1
   m_TagString: Untagged
@@ -1158,6 +1157,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1691672044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1691672042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 513dfd3af3038ed4fb567bbc1e145b2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  snakeObj: {fileID: 0}
+  slimeObj: {fileID: 0}
+  dragonObj: {fileID: 0}
+  enemy1Turn: 2
+  enemy2Tur: 3
+  enemy3Turn: 4
+  spawn1: 0
+  spawn2: 0
+  spawn3: 0
+  enemyType: 0
 --- !u!1 &1814183712
 GameObject:
   m_ObjectHideFlags: 0

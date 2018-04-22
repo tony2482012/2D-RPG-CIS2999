@@ -67,7 +67,7 @@ public class PauseMenu : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.P))
         {
             isPaused = true;
-            Debug.Log(Battleflow.enemyType);
+     //       Debug.Log(Battleflow.enemyType);
         }
     }
 
@@ -93,10 +93,10 @@ public class PauseMenu : MonoBehaviour
         s.isWizardDead = Battleflow.wizardStatus;
         s.enemyHealth = EnemyControl.EnemyHP;
         s.enemyAttack = EnemyControl.EnemyAttPow;
-        s.enemyType = Battleflow.enemyType;
-        s.spawn1 = Battleflow.spawn1;
-        s.spawn2 = Battleflow.spawn2;
-        s.spawn3 = Battleflow.spawn3;
+       //s.enemyType = Battleflow.enemyType;
+       //s.spawn1 = Battleflow.spawn1;
+       //s.spawn2 = Battleflow.spawn2;
+       //s.spawn3 = Battleflow.spawn3;
 
         if (SceneManager.GetActiveScene().buildIndex == 1)
         {
@@ -144,10 +144,10 @@ public class PauseMenu : MonoBehaviour
         Battleflow.wizardStatus = s.isWizardDead;
         EnemyControl.EnemyHP = s.enemyHealth;
         EnemyControl.EnemyAttPow = s.enemyAttack;
-        Battleflow.enemyType = s.enemyType;
-        Battleflow.spawn1 = s.spawn1;
-        Battleflow.spawn2 = s.spawn2;
-        Battleflow.spawn3 = s.spawn3;
+        //Battleflow.enemyType = s.enemyType;
+        //Battleflow.spawn1 = s.spawn1;
+        //Battleflow.spawn2 = s.spawn2;
+        //Battleflow.spawn3 = s.spawn3;
 
         Debug.Log(p);
 

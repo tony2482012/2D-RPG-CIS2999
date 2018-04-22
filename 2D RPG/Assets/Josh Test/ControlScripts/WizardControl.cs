@@ -9,6 +9,7 @@ using UnityEngine;
 public class WizardControl : MonoBehaviour {
 	public  static float wizardHP = 100;
 	public static float wizardMaxHP = 100;
+	//[SerializeField] public StatCode hp = wizardHP;
 
 	public Transform damTextObj;
 	public Transform fireballObj;

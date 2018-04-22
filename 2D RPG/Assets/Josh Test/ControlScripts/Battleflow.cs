@@ -14,6 +14,10 @@ public class Battleflow : MonoBehaviour {
 	public int enemy1Turn = 2;
 	public int enemy2Tur = 3;
 	public int enemy3Turn = 4;
+	public int spawn1;
+	public int spawn2;
+	public int spawn3;
+	public int enemyType;
 	//public float enemyPosition1;
 	//public float enemyPosition2;
 	//public float enemyPosition3;
@@ -35,10 +39,10 @@ public class Battleflow : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		System.Random rnd = new System.Random ();
-		int spawn1 = rnd.Next (1, 100);
-		int spawn2 = rnd.Next (1, 100);
-		int spawn3 = rnd.Next (1, 100);
-		string currentScene = EditorSceneManager.GetActiveScene().name;
+		string currentScene = EditorSceneManager.GetActiveScene ().name;
+		spawn1 = rnd.Next (1, 100);
+		spawn2 = rnd.Next (1, 100);
+		spawn3 = rnd.Next (1, 100);
 
 		if (currentScene == "BattleScene") {
 			if (spawn1 >= 0) {
@@ -46,7 +50,7 @@ public class Battleflow : MonoBehaviour {
 				enemysOnScreen++;
 			}
 			if (spawn2 >= 30) {
-				int enemyType = rnd.Next (1, 100);
+				enemyType = rnd.Next (1, 100);
 
 				if (enemyType >= 100) {
 					Instantiate (snakeObj, new Vector2 (-3.0f, -1.5f), snakeObj.rotation);
@@ -64,9 +68,9 @@ public class Battleflow : MonoBehaviour {
 			Instantiate (dragonObj, new Vector2 (-3.0f, -0.5f), dragonObj.rotation);
 			enemysOnScreen++;
 		}
-
-
 	}
+
+	
 
 	// Update is called once per frame
 	void Update () {
