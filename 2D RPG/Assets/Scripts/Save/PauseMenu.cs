@@ -12,24 +12,16 @@ public class PauseMenu : MonoBehaviour
     public bool isMainMenu;
     public bool isPaused;
     public bool isInGame;
+    // public int isDead = 0;
 
     public GameObject pauseMenuCanvas;
     public GameObject mainMenuCanvas;
-    // public GameObject inGameCanvas;
-    public GameObject NewGameButton;
-    public GameObject SaveGameButton;
-    public GameObject ResumeButton;
-    public GameObject LoadButton;
-    public GameObject QuitButton;
-    public GameObject QuitMainButton;
     public GameObject player;
-    public bool isDied;
-
-    [SerializeField] public string isBattle;
-    public double fraction;
+    
     void Update()
     {
-        ifDied();
+        // ifDied();
+
         if (isMainMenu)
         {
             mainMenuCanvas.SetActive(true);
@@ -45,11 +37,6 @@ public class PauseMenu : MonoBehaviour
         {
             mainMenuCanvas.SetActive(false);
             Time.timeScale = 1f;
-        }
-
-        if (isDied && isInGame)
-        {
-            isMainMenu = false;
         }
 
         if (isPaused)
@@ -79,15 +66,15 @@ public class PauseMenu : MonoBehaviour
 
     public void Save()
     {
+        PlayerPrefs.DeleteAll();
         SavePosition s = new SavePosition();
+
         s.x = player.transform.position.x;
         s.y = player.transform.position.y;
         s.z = player.transform.position.z;
 
         s.health = WizardControl.wizardHP;
-
         s.numberOfEnemies = Battleflow.enemysOnScreen;
-
         s.healthBarFraction = SimpleHealthBar.currentFraction;
         s.turnNumber = Battleflow.whichTurn;
         s.isWizardDead = Battleflow.wizardStatus;
@@ -107,8 +94,6 @@ public class PauseMenu : MonoBehaviour
             s.isBattle = false;
         }
 
-        Debug.Log(s);
-
         Debug.Log(JsonUtility.ToJson(s));
 
         PlayerPrefs.SetString("GameStats", JsonUtility.ToJson(s));
@@ -124,7 +109,6 @@ public class PauseMenu : MonoBehaviour
     {
         string p = PlayerPrefs.GetString("GameStats");
         SavePosition s = JsonUtility.FromJson<SavePosition>(p);
-
 
         Vector3 position = new Vector3();
         position.x = s.x;
@@ -150,35 +134,31 @@ public class PauseMenu : MonoBehaviour
         Battleflow.spawn3 = s.spawn3;
 
         Debug.Log(p);
-
-
     }
 
     public void ButtonNewGame()
     {
         isMainMenu = false;
-        isInGame = true;
+        // isInGame = true;
         PlayerPrefs.DeleteAll();
     }
 
     public void ifDied()
     {
-        // Scene scenes = SceneManager.GetActiveScene();
-        if ((EnemyControl.EnemyHP < 0 || Battleflow.wizardStatus == "dead") && isInGame)
-        {
-            isDied = true;
+        if ((EnemyControl.EnemyHP < 0) || (WizardControl.wizardHP < 0)){
+            PlayerPrefs.SetInt("isDead", 1);
+            Debug.Log(PlayerPrefs.GetInt("isDead"));
+            // SceneManager.LoadScene("NewForestNight");
         }
-
     }
 
     public void Quit()
     {
         isMainMenu = true;
-        // isDied = false;
     }
 
     public void QuitGame()
     {
-        Application.Quit();
+        UnityEditor.EditorApplication.isPlaying = false;
     }
 }
