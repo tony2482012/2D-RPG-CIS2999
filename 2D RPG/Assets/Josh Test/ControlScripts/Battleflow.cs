@@ -10,6 +10,7 @@ using UnityEditor.SceneManagement;
 public class Battleflow : MonoBehaviour {
 	public Transform snakeObj;
 	public Transform slimeObj;
+	public Transform dragonObj;
 	public int enemy1Turn = 2;
 	public int enemy2Tur = 3;
 	public int enemy3Turn = 4;
@@ -37,27 +38,32 @@ public class Battleflow : MonoBehaviour {
 		int spawn1 = rnd.Next (1, 100);
 		int spawn2 = rnd.Next (1, 100);
 		int spawn3 = rnd.Next (1, 100);
+		string currentScene = EditorSceneManager.GetActiveScene().name;
 
-
-		if (spawn1 >= 0) {
-			Instantiate(snakeObj, new Vector2 (-3.0f, -0.0f), snakeObj.rotation);
-			enemysOnScreen++;
-		}
-		if (spawn2 >= 30) {
-			int enemyType = rnd.Next (1, 100);
-
-			if (enemyType >= 100) {
-				Instantiate (snakeObj, new Vector2 (-3.0f, -1.5f), snakeObj.rotation);
-			} else if (enemyType < 100) {
-				Instantiate (slimeObj, new Vector2 (-3.0f, -1.5f), slimeObj.rotation);
-			}
+		if (currentScene == "BattleScene") {
+			if (spawn1 >= 0) {
+				Instantiate (snakeObj, new Vector2 (-3.0f, -0.0f), snakeObj.rotation);
 				enemysOnScreen++;
-		}
-		if (spawn3 >= 80) {
-			Instantiate (snakeObj, new Vector2 (-3.0f, -3.0f), snakeObj.rotation);
+			}
+			if (spawn2 >= 30) {
+				int enemyType = rnd.Next (1, 100);
+
+				if (enemyType >= 100) {
+					Instantiate (snakeObj, new Vector2 (-3.0f, -1.5f), snakeObj.rotation);
+				} else if (enemyType < 100) {
+					Instantiate (slimeObj, new Vector2 (-3.0f, -1.5f), slimeObj.rotation);
+				}
+				enemysOnScreen++;
+			}
+			if (spawn3 >= 80) {
+				Instantiate (snakeObj, new Vector2 (-3.0f, -3.0f), snakeObj.rotation);
+				enemysOnScreen++;
+			}
+		} 
+		else if (currentScene == "FinalBattleScene") {
+			Instantiate (dragonObj, new Vector2 (-3.0f, -0.0f), dragonObj.rotation);
 			enemysOnScreen++;
 		}
-
 
 
 	}
