@@ -84,7 +84,6 @@
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\PlayerHealthManager.cs" />
-     <Compile Include="Assets\Scripts\Save\GameSave.cs" />
      <Compile Include="Assets\Scripts\Save\PauseMenu.cs" />
      <Compile Include="Assets\Scripts\Save\SavePosition.cs" />
      <Compile Include="Assets\Scripts\Save\toLoad.cs" />

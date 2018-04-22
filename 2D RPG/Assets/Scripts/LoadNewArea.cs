@@ -26,7 +26,7 @@ public class LoadNewArea : MonoBehaviour {
       
     }
 
-<<<<<<< HEAD
+// <<<<<<< HEAD
     private Collider storedGameObject;
 
 
@@ -40,14 +40,14 @@ public class LoadNewArea : MonoBehaviour {
     }
     void OnTriggerExit2D(Collider2D other)
     {
-=======
+// =======
 
-	void OnCollisionEnter2D(Collision2D collision){
-		GetComponent<Collider> ().enabled = false;
-	}
+	// void OnCollisionEnter2D(Collision2D collision){
+	// 	GetComponent<Collider> ().enabled = false;
+	// }
 
 
->>>>>>> 9776e4125dd6bd5512801e41ca93c381e59fd890
+// >>>>>>> 9776e4125dd6bd5512801e41ca93c381e59fd890
 
             if (Input.GetKey(KeyCode.A))
             {

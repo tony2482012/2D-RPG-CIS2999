@@ -378,6 +378,11 @@ Prefab:
       propertyPath: player
       value: 
       objectReference: {fileID: 1884697477}
+    - target: {fileID: 114561824325019510, guid: 6aa810b38bec64d8c9c4a9ad1623ef88,
+        type: 2}
+      propertyPath: isInGame
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6aa810b38bec64d8c9c4a9ad1623ef88, type: 2}
   m_IsPrefabParent: 0
@@ -796,6 +801,7 @@ MonoBehaviour:
   enemy1Turn: 2
   enemy2Tur: 3
   enemy3Turn: 4
+  Main: {fileID: 0}
   canvas: {fileID: 643739013}
 --- !u!4 &822567659
 Transform:

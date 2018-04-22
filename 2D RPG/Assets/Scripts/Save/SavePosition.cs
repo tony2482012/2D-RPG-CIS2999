@@ -10,9 +10,19 @@ public class SavePosition  {
 	public double healthBarFraction = 1.0;
 	public bool isBattle = false;  
 
-	// public int spawn11 = 0;
-	// public int spawn21 = 0;
-	// public int spawn31 = 0;
+	public int turnNumber = 1;
+
+	public string isWizardDead = "OK";
+
+	public float enemyHealth = 0;
+	public float enemyAttack = 0;
+
+	public int enemyType = 0;
+	
+
+	public int spawn1 = 0;
+	public int spawn2 = 0;
+	public int spawn3 = 0;
 
 	// can put as many as you want in this class
 
