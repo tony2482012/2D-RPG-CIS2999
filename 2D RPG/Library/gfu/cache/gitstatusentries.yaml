@@ -11,55 +11,13 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-22T14:32:54.9636165-04:00
-  lastVerifiedAtString: 2018-04-22T14:32:54.9636165-04:00
+  lastUpdatedAtString: 2018-04-23T09:31:18.0636636-04:00
+  lastVerifiedAtString: 2018-04-23T09:31:18.0636636-04:00
   initializedAtString: 2018-04-22T14:11:21.5852782-04:00
   entries:
-  - path: 2D RPG\2D RPG.userprefs
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\2D RPG.userprefs
-    projectPath: 2D RPG.userprefs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\ControlScripts\EnemyControl.cs
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\ControlScripts\EnemyControl.cs
-    projectPath: Assets\Josh Test\ControlScripts\EnemyControl.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Josh Test\ControlScripts\WizardControl.cs
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Josh Test\ControlScripts\WizardControl.cs
-    projectPath: Assets\Josh Test\ControlScripts\WizardControl.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Assets\Scripts\StatCode.cs
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Assets\Scripts\StatCode.cs
-    projectPath: Assets\Scripts\StatCode.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\CurrentLayout.dwlt
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\assetDatabase3
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
   - path: 2D RPG\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -84,12 +42,6 @@ MonoBehaviour:
   - path: 2D RPG\Library\gfu\cache\gituser.yaml
     fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gituser.yaml
     projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG\Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
-    fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
-    projectPath: Library\metadata\3f\3f3b12d6578196445b164e6ab0dbd43c
     originalPath: 
     status: 3
     staged: 0
