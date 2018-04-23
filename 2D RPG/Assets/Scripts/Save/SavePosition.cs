@@ -16,9 +16,8 @@ public class SavePosition  {
 
 	public float enemyHealth = 0;
 	public float enemyAttack = 0;
+
 	public int enemyType = 0;
-	// public int isDead = 0;
-	// public bool isMain = false;
 	
 
 	public int spawn1 = 0;

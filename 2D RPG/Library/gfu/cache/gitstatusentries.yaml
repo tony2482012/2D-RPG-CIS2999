@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-23T11:19:05.7485280-04:00
   lastVerifiedAtString: 2018-04-23T11:19:05.7485280-04:00
   initializedAtString: 2018-04-23T10:48:14.6133540-04:00
@@ -75,3 +76,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+=======
+  lastUpdatedAtString: 2018-04-23T12:19:20.8070288-04:00
+  lastVerifiedAtString: 2018-04-23T12:19:21.2461966-04:00
+  initializedAtString: 2018-04-23T12:17:22.8618226-04:00
+  entries: []
+>>>>>>> 1db2fd3369a91f576cf6d2f850878a91ddb895d5

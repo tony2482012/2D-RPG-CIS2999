@@ -26,7 +26,6 @@ public class LoadNewArea : MonoBehaviour {
       
     }
 
-// <<<<<<< HEAD
     private Collider storedGameObject;
 
 
@@ -47,7 +46,6 @@ public class LoadNewArea : MonoBehaviour {
 	// }
 
 
-// >>>>>>> 9776e4125dd6bd5512801e41ca93c381e59fd890
 
             if (Input.GetKey(KeyCode.A))
             {
