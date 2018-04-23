@@ -11,26 +11,13 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-22T13:27:21.5316180-04:00
-  lastVerifiedAtString: 2018-04-22T13:27:21.5316180-04:00
-  initializedAtString: 2018-04-22T12:22:21.3816870-04:00
+  lastUpdatedAtString: 2018-04-23T11:19:05.7485280-04:00
+  lastVerifiedAtString: 2018-04-23T11:19:05.7485280-04:00
+  initializedAtString: 2018-04-23T10:48:14.6133540-04:00
   entries:
-  - path: 2D RPG/Assembly-CSharp.csproj
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG/Assets/Josh Test/Scenes/BattleScene.unity
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Josh
-      Test/Scenes/BattleScene.unity
-    projectPath: Assets/Josh Test/Scenes/BattleScene.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG/Assets/Scenes/NewForestNight.unity
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scenes/NewForestNight.unity
-    projectPath: Assets/Scenes/NewForestNight.unity
+  - path: 2D RPG/Assets/Scripts/LoadNewArea.cs
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/LoadNewArea.cs
+    projectPath: Assets/Scripts/LoadNewArea.cs
     originalPath: 
     status: 3
     staged: 0
@@ -39,36 +26,6 @@ MonoBehaviour:
     projectPath: Assets/Scripts/Save/PauseMenu.cs
     originalPath: 
     status: 3
-    staged: 0
-  - path: 2D RPG/Assets/Scripts/Save/SavePosition.cs
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/SavePosition.cs
-    projectPath: Assets/Scripts/Save/SavePosition.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG/Assets/Scripts/Save/toLoad.cs
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/toLoad.cs
-    projectPath: Assets/Scripts/Save/toLoad.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: 2D RPG/Assets/Scripts/Save/toLoad.cs.meta
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/toLoad.cs.meta
-    projectPath: Assets/Scripts/Save/toLoad.cs.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: 2D RPG/Assets/Scripts/Save/toSave.cs
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/toSave.cs
-    projectPath: Assets/Scripts/Save/toSave.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: 2D RPG/Assets/Scripts/Save/toSave.cs.meta
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/toSave.cs.meta
-    projectPath: Assets/Scripts/Save/toSave.cs.meta
-    originalPath: 
-    status: 5
     staged: 0
   - path: 2D RPG/Library/CurrentLayout.dwlt
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/CurrentLayout.dwlt
@@ -85,12 +42,6 @@ MonoBehaviour:
   - path: 2D RPG/Library/assetDatabase3
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/assetDatabase3
     projectPath: Library/assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG/Library/expandedItems
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/expandedItems
-    projectPath: Library/expandedItems
     originalPath: 
     status: 3
     staged: 0

@@ -12,6 +12,7 @@ public class PauseMenu : MonoBehaviour
     public bool isMainMenu;
     public bool isPaused;
     public bool isInGame;
+    public float temp;
     // public int isDead = 0;
 
     public GameObject pauseMenuCanvas;
@@ -21,6 +22,20 @@ public class PauseMenu : MonoBehaviour
     void Update()
     {
         // ifDied();
+
+        // if (PlayerPrefs.GetInt("isDead") == 1) {
+        //     PlayerPrefs.SetInt("isDead", 0);
+        // }
+
+        if ((EnemyControl.EnemyHP < 0 ) || (WizardControl.wizardHP < 0)) {
+            PlayerPrefs.SetInt("isDead", 1);
+            Debug.Log(PlayerPrefs.GetInt("isDead"));
+            SceneManager.LoadScene("BattleScene");
+            PlayerPrefs.SetInt("isDead", 0);
+            Debug.Log(PlayerPrefs.GetInt("isDead"));
+            // SceneManager.LoadScene("NewForestNight");
+            Debug.Log(PlayerPrefs.GetInt("isDead"));
+        }
 
         if (isMainMenu)
         {

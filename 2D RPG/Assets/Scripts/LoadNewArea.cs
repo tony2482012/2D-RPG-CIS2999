@@ -52,7 +52,7 @@ public class LoadNewArea : MonoBehaviour {
             if (Input.GetKey(KeyCode.A))
             {
                 GetComponent<Collider>().enabled = false;
-            Application.LoadLevel("NewForestNight");
+            // Application.LoadLevel("NewForestNight");
         }
         
     }
