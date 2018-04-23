@@ -65,7 +65,7 @@ public class StatCode : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-		//content.fillAmount = 50;
+		content.fillAmount = WizardControl.wizardHP;
        
         if (currentFill != content.fillAmount)
         {

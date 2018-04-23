@@ -10,7 +10,7 @@ public class WizardControl : MonoBehaviour {
 	public  static float wizardHP = 100;
 	public static float wizardMaxHP = 100;
 	[SerializeField] public StatCode hp;
-	hp.Initialized (100, 100);
+	//hp.Initialized (100, 100);
 
 	public Transform damTextObj;
 	public Transform fireballObj;
