@@ -12,48 +12,16 @@ public class PauseMenu : MonoBehaviour
     public bool isMainMenu;
     public bool isPaused;
     public bool isInGame;
-// <<<<<<< HEAD
-    public float temp;
     // public int isDead = 0;
-// =======
-// >>>>>>> 1db2fd3369a91f576cf6d2f850878a91ddb895d5
 
     public GameObject pauseMenuCanvas;
     public GameObject mainMenuCanvas;
-    // public GameObject inGameCanvas;
-    public GameObject NewGameButton;
-    public GameObject SaveGameButton;
-    public GameObject ResumeButton;
-    public GameObject LoadButton;
-    public GameObject QuitButton;
-    public GameObject QuitMainButton;
     public GameObject player;
-    public bool isDied;
-
-    [SerializeField] public string isBattle;
-    public double fraction;
+    
     void Update()
     {
-// <<<<<<< HEAD
         // ifDied();
 
-        // if (PlayerPrefs.GetInt("isDead") == 1) {
-        //     PlayerPrefs.SetInt("isDead", 0);
-        // }
-
-        if ((EnemyControl.EnemyHP < 0 ) || (WizardControl.wizardHP < 0)) {
-            PlayerPrefs.SetInt("isDead", 1);
-            Debug.Log(PlayerPrefs.GetInt("isDead"));
-            SceneManager.LoadScene("BattleScene");
-            PlayerPrefs.SetInt("isDead", 0);
-            Debug.Log(PlayerPrefs.GetInt("isDead"));
-            // SceneManager.LoadScene("NewForestNight");
-            Debug.Log(PlayerPrefs.GetInt("isDead"));
-        }
-
-// =======
-        ifDied();
-// >>>>>>> 1db2fd3369a91f576cf6d2f850878a91ddb895d5
         if (isMainMenu)
         {
             mainMenuCanvas.SetActive(true);
@@ -71,11 +39,6 @@ public class PauseMenu : MonoBehaviour
             Time.timeScale = 1f;
         }
 
-        if (isDied && isInGame)
-        {
-            isMainMenu = false;
-        }
-
         if (isPaused)
         {
             pauseMenuCanvas.SetActive(true);
@@ -91,7 +54,6 @@ public class PauseMenu : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.P))
         {
             isPaused = true;
-     //       Debug.Log(Battleflow.enemyType);
         }
     }
 
@@ -103,24 +65,24 @@ public class PauseMenu : MonoBehaviour
 
     public void Save()
     {
+        PlayerPrefs.DeleteAll();
         SavePosition s = new SavePosition();
+
         s.x = player.transform.position.x;
         s.y = player.transform.position.y;
         s.z = player.transform.position.z;
 
         s.health = WizardControl.wizardHP;
-
         s.numberOfEnemies = Battleflow.enemysOnScreen;
-
         s.healthBarFraction = SimpleHealthBar.currentFraction;
         s.turnNumber = Battleflow.whichTurn;
         s.isWizardDead = Battleflow.wizardStatus;
         s.enemyHealth = EnemyControl.EnemyHP;
         s.enemyAttack = EnemyControl.EnemyAttPow;
-       //s.enemyType = Battleflow.enemyType;
-       //s.spawn1 = Battleflow.spawn1;
-       //s.spawn2 = Battleflow.spawn2;
-       //s.spawn3 = Battleflow.spawn3;
+        s.enemyType = Battleflow.enemyType;
+        s.spawn1 = Battleflow.spawn1;
+        s.spawn2 = Battleflow.spawn2;
+        s.spawn3 = Battleflow.spawn3;
 
         if (SceneManager.GetActiveScene().buildIndex == 1)
         {
@@ -130,8 +92,6 @@ public class PauseMenu : MonoBehaviour
         {
             s.isBattle = false;
         }
-
-        Debug.Log(s);
 
         Debug.Log(JsonUtility.ToJson(s));
 
@@ -148,7 +108,6 @@ public class PauseMenu : MonoBehaviour
     {
         string p = PlayerPrefs.GetString("GameStats");
         SavePosition s = JsonUtility.FromJson<SavePosition>(p);
-
 
         Vector3 position = new Vector3();
         position.x = s.x;
@@ -168,41 +127,37 @@ public class PauseMenu : MonoBehaviour
         Battleflow.wizardStatus = s.isWizardDead;
         EnemyControl.EnemyHP = s.enemyHealth;
         EnemyControl.EnemyAttPow = s.enemyAttack;
-        //Battleflow.enemyType = s.enemyType;
-        //Battleflow.spawn1 = s.spawn1;
-        //Battleflow.spawn2 = s.spawn2;
-        //Battleflow.spawn3 = s.spawn3;
+        Battleflow.enemyType = s.enemyType;
+        Battleflow.spawn1 = s.spawn1;
+        Battleflow.spawn2 = s.spawn2;
+        Battleflow.spawn3 = s.spawn3;
 
         Debug.Log(p);
-
-
     }
 
     public void ButtonNewGame()
     {
         isMainMenu = false;
-        isInGame = true;
+        // isInGame = true;
         PlayerPrefs.DeleteAll();
     }
 
     public void ifDied()
     {
-        // Scene scenes = SceneManager.GetActiveScene();
-        if ((EnemyControl.EnemyHP < 0 || Battleflow.wizardStatus == "dead") && isInGame)
-        {
-            isDied = true;
+        if ((EnemyControl.EnemyHP < 0) || (WizardControl.wizardHP < 0)){
+            PlayerPrefs.SetInt("isDead", 1);
+            Debug.Log(PlayerPrefs.GetInt("isDead"));
+            // SceneManager.LoadScene("NewForestNight");
         }
-
     }
 
     public void Quit()
     {
         isMainMenu = true;
-        // isDied = false;
     }
 
     public void QuitGame()
     {
-        Application.Quit();
+        UnityEditor.EditorApplication.isPlaying = false;
     }
 }
