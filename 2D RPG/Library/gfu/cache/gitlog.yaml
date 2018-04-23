@@ -11,10 +11,70 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-23T10:57:31.1495101-04:00
-  lastVerifiedAtString: 2018-04-23T10:57:31.1495101-04:00
+  lastUpdatedAtString: 2018-04-23T10:58:18.0819994-04:00
+  lastVerifiedAtString: 2018-04-23T10:58:18.0819994-04:00
   initializedAtString: 2018-04-22T14:11:20.6729800-04:00
   log:
+  - commitID: 03339f3781204016661b0b9bdbd01f5e940c16f4
+    mergeA: 
+    mergeB: 
+    authorName: JJBunnell
+    authorEmail: JJBunnell@oakland.edu
+    commitEmail: JJBunnell@oakland.edu
+    commitName: JJBunnell
+    summary: commit
+    description: commit
+    timeString: 2018-04-23T10:58:13.0000000-04:00
+    commitTimeString: 2018-04-23T10:58:13.0000000-04:00
+    changes:
+    - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 3e2082c71a03218bedf189283264ac38aa72e49e
+    mergeA: 
+    mergeB: 
+    authorName: JJBunnell
+    authorEmail: JJBunnell@oakland.edu
+    commitEmail: JJBunnell@oakland.edu
+    commitName: JJBunnell
+    summary: commit
+    description: commit
+    timeString: 2018-04-23T10:57:37.0000000-04:00
+    commitTimeString: 2018-04-23T10:57:37.0000000-04:00
+    changes:
+    - path: 2D RPG\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\codac\Documents\GitHub\2D-RPG-CIS2999\2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 190e6b67a380743733b6cb27defb85521ae5b1a7
     mergeA: 
     mergeB: 
