@@ -12,11 +12,11 @@ public class PauseMenu : MonoBehaviour
     public bool isMainMenu;
     public bool isPaused;
     public bool isInGame;
-<<<<<<< HEAD
+// <<<<<<< HEAD
     public float temp;
     // public int isDead = 0;
-=======
->>>>>>> 1db2fd3369a91f576cf6d2f850878a91ddb895d5
+// =======
+// >>>>>>> 1db2fd3369a91f576cf6d2f850878a91ddb895d5
 
     public GameObject pauseMenuCanvas;
     public GameObject mainMenuCanvas;
@@ -34,7 +34,7 @@ public class PauseMenu : MonoBehaviour
     public double fraction;
     void Update()
     {
-<<<<<<< HEAD
+// <<<<<<< HEAD
         // ifDied();
 
         // if (PlayerPrefs.GetInt("isDead") == 1) {
@@ -51,9 +51,9 @@ public class PauseMenu : MonoBehaviour
             Debug.Log(PlayerPrefs.GetInt("isDead"));
         }
 
-=======
+// =======
         ifDied();
->>>>>>> 1db2fd3369a91f576cf6d2f850878a91ddb895d5
+// >>>>>>> 1db2fd3369a91f576cf6d2f850878a91ddb895d5
         if (isMainMenu)
         {
             mainMenuCanvas.SetActive(true);
