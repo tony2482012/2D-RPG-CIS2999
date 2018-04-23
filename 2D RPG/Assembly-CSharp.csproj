@@ -84,12 +84,8 @@
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\PlayerHealthManager.cs" />
-     <Compile Include="Assets\Scripts\Save\GameSave.cs" />
      <Compile Include="Assets\Scripts\Save\PauseMenu.cs" />
      <Compile Include="Assets\Scripts\Save\SavePosition.cs" />
-     <Compile Include="Assets\Scripts\Save\StateHandler.cs" />
-     <Compile Include="Assets\Scripts\Save\toLoad.cs" />
-     <Compile Include="Assets\Scripts\Save\toSave.cs" />
      <Compile Include="Assets\Scripts\StatCode.cs" />
      <Compile Include="Assets\Scripts\TestGUI.cs" />
      <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\AsteroidController.cs" />

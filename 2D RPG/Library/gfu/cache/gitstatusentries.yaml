@@ -11,63 +11,67 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-23T14:04:13.2981380-04:00
-  lastVerifiedAtString: 2018-04-23T14:04:13.2981380-04:00
+  lastUpdatedAtString: 2018-04-23T14:04:53.4359190-04:00
+  lastVerifiedAtString: 2018-04-23T14:04:54.4898260-04:00
   initializedAtString: 2018-04-23T13:58:28.3582820-04:00
   entries:
-  - path: 2D RPG/Assets/Josh Test/ControlScripts/Battleflow.cs
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Josh
-      Test/ControlScripts/Battleflow.cs
-    projectPath: Assets/Josh Test/ControlScripts/Battleflow.cs
+  - path: 2D RPG/Assembly-CSharp.csproj
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     status: 3
     staged: 0
-  - path: 2D RPG/Assets/Josh Test/Scenes/BattleScene.unity
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Josh
-      Test/Scenes/BattleScene.unity
-    projectPath: Assets/Josh Test/Scenes/BattleScene.unity
+  - path: 2D RPG/Assets/Scripts/Save/GameSave.cs
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/GameSave.cs
+    projectPath: Assets/Scripts/Save/GameSave.cs
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG/Assets/Scenes/NewForestNight.unity
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scenes/NewForestNight.unity
-    projectPath: Assets/Scenes/NewForestNight.unity
+  - path: 2D RPG/Assets/Scripts/Save/GameSave.cs.meta
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/GameSave.cs.meta
+    projectPath: Assets/Scripts/Save/GameSave.cs.meta
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG/Assets/Scripts/Save/PauseMenu.cs
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/PauseMenu.cs
-    projectPath: Assets/Scripts/Save/PauseMenu.cs
+  - path: 2D RPG/Assets/Scripts/Save/StateHandler.cs
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/StateHandler.cs
+    projectPath: Assets/Scripts/Save/StateHandler.cs
     originalPath: 
-    status: 3
-    staged: 1
-  - path: 2D RPG/Assets/Scripts/Save/SavePosition.cs
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/SavePosition.cs
-    projectPath: Assets/Scripts/Save/SavePosition.cs
-    originalPath: 
-    status: 3
-    staged: 1
-  - path: 2D RPG/Library/CurrentLayout.dwlt
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/CurrentLayout.dwlt
-    projectPath: Library/CurrentLayout.dwlt
-    originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: 2D RPG/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+  - path: 2D RPG/Assets/Scripts/Save/StateHandler.cs.meta
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/StateHandler.cs.meta
+    projectPath: Assets/Scripts/Save/StateHandler.cs.meta
     originalPath: 
-    status: 3
+    status: 5
+    staged: 0
+  - path: 2D RPG/Assets/Scripts/Save/toLoad.cs
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/toLoad.cs
+    projectPath: Assets/Scripts/Save/toLoad.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG/Assets/Scripts/Save/toLoad.cs.meta
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/toLoad.cs.meta
+    projectPath: Assets/Scripts/Save/toLoad.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG/Assets/Scripts/Save/toSave.cs
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/toSave.cs
+    projectPath: Assets/Scripts/Save/toSave.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: 2D RPG/Assets/Scripts/Save/toSave.cs.meta
+    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Assets/Scripts/Save/toSave.cs.meta
+    projectPath: Assets/Scripts/Save/toSave.cs.meta
+    originalPath: 
+    status: 5
     staged: 0
   - path: 2D RPG/Library/assetDatabase3
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/assetDatabase3
     projectPath: Library/assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG/Library/expandedItems
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/expandedItems
-    projectPath: Library/expandedItems
     originalPath: 
     status: 3
     staged: 0
@@ -92,12 +96,6 @@ MonoBehaviour:
   - path: 2D RPG/Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 2D RPG/Library/gfu/cache/gituser.yaml
-    fullPath: /Users/selenahaidar/Unity Projects/2D-RPG-CIS2999/2D RPG/Library/gfu/cache/gituser.yaml
-    projectPath: Library/gfu/cache/gituser.yaml
     originalPath: 
     status: 3
     staged: 0
